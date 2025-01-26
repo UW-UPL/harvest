@@ -1,0 +1,5 @@
+feeds = [
+    "https://salm.dev/blog/rss.xml",
+    "https://ben.enterprises/rss.xml",
+    "https://www.amoses.dev/rss.xml",
+]

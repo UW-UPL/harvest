@@ -1,0 +1,27 @@
+name: Update Feeds
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21'
+      - name: Prep
+        run: mkdir -p output
+      - name: Build and Run
+        run: |
+          go build -o harvest ./src
+          ./harvest
+      - name: Commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/blog_posts.md
+          git commit -m "action: update blog posts" || echo "no changes to commit"
+          git push
