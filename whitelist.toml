@@ -1,5 +1,9 @@
+# view /docs/CONTRIBUTING.md and make a PR
+# to add your blog post to our list!
+
 feeds = [
     "https://salm.dev/blog/rss.xml",
     "https://ben.enterprises/rss.xml",
     "https://www.amoses.dev/rss.xml",
+    "https://nick.winans.io/rss.xml",
 ]
