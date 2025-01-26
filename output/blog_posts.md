@@ -49,3 +49,24 @@ We secured a Top 3 finish at MIT's quantum hackathon!
 
 ---
 
+## [Making My Blog 3x Faster](https://nick.winans.io/blog/optimizing-blog-fonts/)
+*By Nick Winans on 2023-06-27*
+
+Optimizing fonts to slash load times
+
+---
+
+## [Exploiting GitHub Actions](https://nick.winans.io/blog/exploiting-github-actions/)
+*By Nick Winans on 2022-03-17*
+
+Finding a way around GitHub's build matrix limits with GitHub Script
+
+---
+
+## [Mysterious Broken Bootloader](https://nick.winans.io/blog/zmk-bootloader/)
+*By Nick Winans on 2020-10-03*
+
+Investigating and fixing the bootloader woes of ZMK
+
+---
+
