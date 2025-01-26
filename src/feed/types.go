@@ -18,6 +18,7 @@ type Item struct {
 	Description string `xml:"description"`
 	Content     string `xml:"content"`
 	Encoded     string `xml:"encoded"`
+	Summary     string `xml:"summary"`
 }
 
 type Channel struct {
