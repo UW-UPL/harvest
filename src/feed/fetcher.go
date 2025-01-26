@@ -27,7 +27,17 @@ var dateFormats = []string{
 	"January 2, 2006",
 }
 
-func cleanHTML(input string) string {
+// We're rendering to markdown so to preserve formatting we need to strip out any markdown characters
+func stripMarkdown(input string) string {
+	invalidChars := []string{"*", "_", "#", "`", ">", "<", "[", "]", "(", ")", "!", "~", "|", "{", "}", "+"}
+	for _, char := range invalidChars {
+		input = strings.ReplaceAll(input, char, "")
+	}
+
+	return input
+}
+
+func cleanHTML(input string, maxLength int) string {
 	// first, remove HTML tags
 	tagRegex := regexp.MustCompile("<[^>]*>")
 	cleaned := tagRegex.ReplaceAllString(input, "")
@@ -42,6 +52,17 @@ func cleanHTML(input string) string {
 	// & normalize whitespace
 	wsRegex := regexp.MustCompile(`\s+`)
 	cleaned = wsRegex.ReplaceAllString(cleaned, " ")
+
+	// & truncate to maxLength
+	if len(cleaned) > maxLength {
+		cleaned = cleaned[:maxLength]
+
+		if cleaned[len(cleaned)-1] == ' ' || cleaned[len(cleaned)-1] == '.' {
+			cleaned = cleaned[:len(cleaned)-1]
+		}
+
+		cleaned += "..."
+	}
 
 	return strings.TrimSpace(cleaned)
 }
@@ -73,13 +94,14 @@ func parseDate(item Item) time.Time {
 func getDescription(item Item) string {
 	candidates := []string{
 		item.Description,
+		item.Summary,
 		item.Content,
 		item.Encoded,
 	}
 
 	for _, candidate := range candidates {
 		if candidate != "" {
-			return cleanHTML(candidate)
+			return stripMarkdown(cleanHTML(candidate, 200))
 		}
 	}
 
