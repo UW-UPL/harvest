@@ -6,4 +6,5 @@ feeds = [
     "https://ben.enterprises/rss.xml",
     "https://www.amoses.dev/rss.xml",
     "https://nick.winans.io/rss.xml",
+    "https://dteather.com/blogs/rss.xml",
 ]
