@@ -126,6 +126,20 @@ Optimizing fonts to slash load times
 
 ---
 
+## [LINK.social Exposed Users' Sensitive Information & Mass Account Hijacking](https://dteather.com/blogs/link-social-exposing-sensitive-personal-information/)
+*By David Teather's Blog on 2022-07-14*
+
+On July 9th I was able to access sensitive information from every account on link.social'shttps://www.link.social/ app. This information includes: phone number, last location accurate to...
+
+---
+
+## [YikYak Is Exposing Millions of User Locations](https://dteather.com/blogs/yikyak-is-exposing-user-locations/)
+*By David Teather's Blog on 2022-05-09*
+
+I was able to access the precise GPS coordinates accurate to within 10-15ft of all posts and comments on the YikYak platform, this leaves at least 2 million usershttps://twitter.com/YikYakApp/st...
+
+---
+
 ## [Exploiting GitHub Actions](https://nick.winans.io/blog/exploiting-github-actions/)
 *By Nick Winans on 2022-03-17*
 
