@@ -1,5 +1,12 @@
 # UPL Blog Posts
 
+## [InkLink](https://nick.winans.io/blog/ink-link/)
+*By Nick Winans on 2025-01-26*
+
+Real-time Collaborative E-Paper Canvas
+
+---
+
 ## [Nico's Reading List](https://salm.dev/blog/4-bookshelf/)
 *By Nico's Blog on 2025-01-12*
 
