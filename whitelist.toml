@@ -2,7 +2,7 @@
 # to add your blog post to our list!
 
 feeds = [
-    "https://salm.dev/blog/rss.xml",
+    "https://salm.dev/rss.xml",
     "https://ben.enterprises/rss.xml",
     "https://www.amoses.dev/rss.xml",
     "https://nick.winans.io/rss.xml",
