@@ -35,6 +35,13 @@ Visit post for details.
 
 ---
 
+## [CLI Productivity](https://salm.dev/blog/3-cli_productivity/)
+*By Nico Salm on 2024-10-10*
+
+I describe my minimal, focused, keyboard-centric workflow where I do my best work.
+
+---
+
 ## [Adding UML Diagrams to Rehype in Astro](https://dteather.com/blogs/astro-uml-diagrams/)
 *By David Teather's Blog on 2024-10-07*
 
@@ -46,6 +53,13 @@ I just recently added UML diagrams for my blogs, since in the future I want to c
 *By David Teather's Blog on 2024-08-23*
 
 For better or worse, we live in a world where data is power. This has been our reality for years, but the recent emergence of mainstream AI has only made this more publicly apparent from companies ab...
+
+---
+
+## [Preserving My Future Self](https://salm.dev/blog/2-ergonomics/)
+*By Nico Salm on 2024-08-18*
+
+Ergonomic overhaul to improve health and reduce strain.
 
 ---
 
@@ -88,6 +102,13 @@ I had the pleasure of helping organize GitHub Field Day NYC 2024, and it took a 
 *By David Teather's Blog on 2024-01-28*
 
 I was dragged into Battlecode 2024 by one of our teammates. I had never heard of Battlecode before, but I was excited to try it out. I had a lot of fun and I'm glad I did it, and we ended up qualifyi...
+
+---
+
+## [MIT IQuHACK 2024](https://salm.dev/blog/1-iquhack/)
+*By Nico Salm on 2024-01-21*
+
+We secured a Top 3 finish at MIT's quantum hackathon
 
 ---
 
