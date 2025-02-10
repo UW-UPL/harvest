@@ -8,7 +8,7 @@ Real-time Collaborative E-Paper Canvas
 ---
 
 ## [Learning the NATO phonetic alphabet with the Web Speech API](https://www.amoses.dev/blog/nato-alphabet/)
-*By Andrew on 2024-12-29*
+*By Andrew Moses on 2024-12-29*
 
 Visit post for details.
 
@@ -29,7 +29,7 @@ If there's one thing I consistently do, it's start writing a blog post, want a n
 ---
 
 ## [Revamping the UPL's people counter](https://www.amoses.dev/blog/upl-people-counter/)
-*By Andrew on 2024-10-14*
+*By Andrew Moses on 2024-10-14*
 
 Visit post for details.
 
