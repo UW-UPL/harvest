@@ -7,6 +7,13 @@ Real-time Collaborative E-Paper Canvas
 
 ---
 
+## [Adding Giscus Discussions to Astro](https://dteather.com/blogs/adding-giscus-discussions-to-astro/)
+*By David Teather's Blog on 2025-01-11*
+
+I've wanted to add discussions on my blog for awhile, and they're great for ya know getting people to talk about your post and interact with them. I was looking for something that I didn't have to ho...
+
+---
+
 ## [Learning the NATO phonetic alphabet with the Web Speech API](https://www.amoses.dev/blog/nato-alphabet/)
 *By Andrew Moses on 2024-12-29*
 
