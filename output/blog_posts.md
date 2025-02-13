@@ -1,16 +1,16 @@
 # UPL Blog Posts
 
+## [Adding Giscus Discussions to Astro](https://dteather.com/blogs/adding-giscus-discussions-to-astro/)
+*By David Teather's Blog on 2025-02-11*
+
+I've wanted to add discussions on my blog for awhile, and they're great for ya know getting people to talk about your post and interact with them. I was looking for something that I didn't have to ho...
+
+---
+
 ## [InkLink](https://nick.winans.io/blog/ink-link/)
 *By Nick Winans on 2025-01-26*
 
 Real-time Collaborative E-Paper Canvas
-
----
-
-## [Adding Giscus Discussions to Astro](https://dteather.com/blogs/adding-giscus-discussions-to-astro/)
-*By David Teather's Blog on 2025-01-11*
-
-I've wanted to add discussions on my blog for awhile, and they're great for ya know getting people to talk about your post and interact with them. I was looking for something that I didn't have to ho...
 
 ---
 
