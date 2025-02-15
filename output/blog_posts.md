@@ -1,5 +1,12 @@
 # UPL Blog Posts
 
+## [Beyond Language Wars](https://salm.dev/blog/beyond-language-wars/)
+*By Nico Salm on 2025-02-15*
+
+Exploring when language rewrites make sense and when they actually mask deeper problems.
+
+---
+
 ## [Adding Giscus Discussions to Astro](https://dteather.com/blogs/adding-giscus-discussions-to-astro/)
 *By David Teather's Blog on 2025-02-11*
 
@@ -42,7 +49,7 @@ Visit post for details.
 
 ---
 
-## [CLI Productivity](https://salm.dev/blog/3-cli_productivity/)
+## [CLI Productivity](https://salm.dev/blog/cli_productivity/)
 *By Nico Salm on 2024-10-10*
 
 I describe my minimal, focused, keyboard-centric workflow where I do my best work.
@@ -63,7 +70,7 @@ For better or worse, we live in a world where data is power. This has been our r
 
 ---
 
-## [Preserving My Future Self](https://salm.dev/blog/2-ergonomics/)
+## [Preserving My Future Self](https://salm.dev/blog/ergonomics/)
 *By Nico Salm on 2024-08-18*
 
 Ergonomic overhaul to improve health and reduce strain.
@@ -112,7 +119,7 @@ I was dragged into Battlecode 2024 by one of our teammates. I had never heard of
 
 ---
 
-## [MIT IQuHACK 2024](https://salm.dev/blog/1-iquhack/)
+## [MIT IQuHACK 2024](https://salm.dev/blog/iquhack/)
 *By Nico Salm on 2024-01-21*
 
 We secured a Top 3 finish at MIT's quantum hackathon
