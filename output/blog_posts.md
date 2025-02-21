@@ -1,16 +1,16 @@
 # UPL Blog Posts
 
-## [Configuring external storage devices for Jellyfin](//jamesma100.github.io/2025/jellyfin-guide/)
-*By James Ma on 2025-02-15*
-
-This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ...
-
----
-
 ## [Beyond Language Wars](https://salm.dev/blog/beyond-language-wars/)
 *By Nico Salm on 2025-02-15*
 
 Exploring when language rewrites make sense and when they actually mask deeper problems.
+
+---
+
+## [Configuring external storage devices for Jellyfin](//jamesma100.github.io/2025/jellyfin-guide/)
+*By James Ma on 2025-02-15*
+
+This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ...
 
 ---
 
