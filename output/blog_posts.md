@@ -1,9 +1,9 @@
 # UPL Blog Posts
 
-## [Beyond Language Wars](https://salm.dev/blog/beyond-language-wars/)
-*By Nico Salm on 2025-02-15*
+## [eCommerce Automations](https://nick.winans.io/blog/ecommerce-automations/)
+*By Nick Winans on 2025-02-23*
 
-Exploring when language rewrites make sense and when they actually mask deeper problems.
+Sharing my Shopify store's automations after 3 years of optimization
 
 ---
 
@@ -11,6 +11,13 @@ Exploring when language rewrites make sense and when they actually mask deeper p
 *By James Ma on 2025-02-15*
 
 This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ...
+
+---
+
+## [Beyond Language Wars](https://salm.dev/blog/beyond-language-wars/)
+*By Nico Salm on 2025-02-15*
+
+Exploring when language rewrites make sense and when they actually mask deeper problems.
 
 ---
 
