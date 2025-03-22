@@ -1,5 +1,12 @@
 # UPL Blog Posts
 
+## [Abstracting over Futures and Options](//jamesma100.github.io/2025/future-options-scala/)
+*By James Ma on 2025-03-19*
+
+In Scala, two interesting concepts you’ll often work with are Futures and Options. A Future is an abstraction for some value that might not be available yet. An Option abstracts over the possibility...
+
+---
+
 ## [eCommerce Automations](https://nick.winans.io/blog/ecommerce-automations/)
 *By Nick Winans on 2025-02-23*
 
@@ -186,13 +193,6 @@ I'm about to graduate from UW Madison and I thought I'd share my thoughts on the
 *By David Teather's Blog on 2024-03-15*
 
 I had the pleasure of helping organize GitHub Field Day NYC 2024, and it took a lot of planning and coordination to make it happen. I had a lot of fun at the event and wanted to detail some of the th...
-
----
-
-## [What's the difference between a JIT and an interpreter?](//jamesma100.github.io/2024/jit-vs-interpreter/)
-*By James Ma on 2024-03-09*
-
-It’s commonly known that there are three main ways to execute code - you can compile it, interpret it, or use a JIT just-in-time execution. The difference between compiling and interpreting/JIT’...
 
 ---
 
