@@ -1,5 +1,12 @@
 # UPL Blog Posts
 
+## [I Made a Million Dollar Product from My Dorm Room](https://nick.winans.io/blog/nice-nano/)
+*By Nick Winans on 2025-03-23*
+
+The story of the nicenano; a wireless Pro Micro-compatible microcontroller board I made in my freshman year of college.
+
+---
+
 ## [Abstracting over Futures and Options](//jamesma100.github.io/2025/future-options-scala/)
 *By James Ma on 2025-03-19*
 
@@ -14,17 +21,17 @@ Sharing my Shopify store's automations after 3 years of optimization
 
 ---
 
-## [Beyond Language Wars](https://salm.dev/blog/beyond-language-wars/)
-*By Nico Salm on 2025-02-15*
-
-Exploring when language rewrites make sense and when they actually mask deeper problems.
-
----
-
 ## [Configuring external storage devices for Jellyfin](//jamesma100.github.io/2025/jellyfin-guide/)
 *By James Ma on 2025-02-15*
 
 This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ...
+
+---
+
+## [Beyond Language Wars](https://salm.dev/blog/beyond-language-wars/)
+*By Nico Salm on 2025-02-15*
+
+Exploring when language rewrites make sense and when they actually mask deeper problems.
 
 ---
 
