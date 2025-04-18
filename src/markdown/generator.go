@@ -1,30 +1,56 @@
 package markdown
 
 import (
+	"encoding/json"
 	"fmt"
 	"os"
 	"path/filepath"
+	"time"
 
 	"github.com/UW-UPL/harvest/src/feed"
 )
 
+// struct
+type postOut struct {
+	Title       string `json:"title"`
+	Link        string `json:"link"`
+	Author      string `json:"author"`
+	Date        string `json:"date"`
+	Description string `json:"description"`
+}
+
 func Generate(posts []feed.BlogPost, outputPath string) error {
-	if err := os.MkdirAll(filepath.Dir(outputPath), 0755); err != nil {
+	// make sure the directory exists
+	if err := os.MkdirAll(filepath.Dir(outputPath), 0o755); err != nil {
 		return fmt.Errorf("creating output dir: %w", err)
 	}
 
-	file, err := os.Create(outputPath)
+	f, err := os.Create(outputPath)
 	if err != nil {
 		return fmt.Errorf("creating output file: %w", err)
 	}
-	defer file.Close()
+	defer f.Close()
 
-	fmt.Fprintln(file, "# UPL Blog Posts\n")
+	// build the slice we want to dump
+	out := struct {
+		Posts []postOut `json:"posts"`
+	}{}
 
-	for _, post := range posts {
-		fmt.Fprintf(file, "## [%s](%s)\n", post.Title, post.Link)
-		fmt.Fprintf(file, "*By %s on %s*\n\n", post.Author, post.Date.Format("2006-01-02"))
-		fmt.Fprintf(file, "%s\n\n---\n\n", post.Summary)
+	for _, p := range posts {
+		out.Posts = append(out.Posts, postOut{
+			Title:       p.Title,
+			Link:        p.Link,
+			Author:      p.Author,
+			Date:        p.Date.Format(time.DateOnly), // 2006‑01‑02
+			Description: p.Summary,
+		})
+	}
+
+	// pretty‑print JSON straight to the file
+	enc := json.NewEncoder(f)
+	enc.SetIndent("", "  ")
+	if err := enc.Encode(out); err != nil {
+		return fmt.Errorf("encoding JSON: %w", err)
 	}
 
 	return nil
