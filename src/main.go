@@ -38,7 +38,7 @@ func main() {
 	posts := feed.FetchAllFeeds(config.Feeds)
 	log.Printf("Fetched %d posts", len(posts))
 
-	if err := markdown.Generate(posts, "output/blog_posts.md"); err != nil {
+	if err := markdown.Generate(posts, "output/blog_posts.json"); err != nil {
 		log.Fatalf("err generating markdown: %v", err)
 	}
 }

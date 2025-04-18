@@ -3,6 +3,7 @@ package feed
 import (
 	"encoding/xml"
 	"fmt"
+	"html"
 	"io"
 	"log"
 	"net/http"
@@ -43,11 +44,7 @@ func cleanHTML(input string, maxLength int) string {
 	cleaned := tagRegex.ReplaceAllString(input, "")
 
 	// & convert HTML entities
-	cleaned = strings.ReplaceAll(cleaned, "&nbsp;", " ")
-	cleaned = strings.ReplaceAll(cleaned, "&amp;", "&")
-	cleaned = strings.ReplaceAll(cleaned, "&lt;", "<")
-	cleaned = strings.ReplaceAll(cleaned, "&gt;", ">")
-	cleaned = strings.ReplaceAll(cleaned, "&quot;", "\"")
+	cleaned = html.UnescapeString(cleaned)
 
 	// & normalize whitespace
 	wsRegex := regexp.MustCompile(`\s+`)
