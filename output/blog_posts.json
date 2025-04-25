@@ -22,18 +22,18 @@
       "description": "Sharing my Shopify store's automations after 3 years of optimization"
     },
     {
-      "title": "Configuring external storage devices for Jellyfin",
-      "link": "//jamesma100.github.io/2025/jellyfin-guide/",
-      "author": "James Ma",
-      "date": "2025-02-15",
-      "description": "This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ..."
-    },
-    {
       "title": "Beyond Language Wars",
       "link": "https://salm.dev/blog/beyond-language-wars/",
       "author": "Nico Salm",
       "date": "2025-02-15",
       "description": "Exploring when language rewrites make sense and when they actually mask deeper problems."
+    },
+    {
+      "title": "Configuring external storage devices for Jellyfin",
+      "link": "//jamesma100.github.io/2025/jellyfin-guide/",
+      "author": "James Ma",
+      "date": "2025-02-15",
+      "description": "This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ..."
     },
     {
       "title": "Adding Giscus Discussions to Astro",
