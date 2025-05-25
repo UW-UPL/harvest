@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Attention as a kernel smoothing problem",
+      "link": "//jamesma100.github.io/2025/attention-and-kernel-smoothing/",
+      "author": "James Ma",
+      "date": "2025-05-23",
+      "description": "This post is about a rarely discussed interpretation of “attention,” the underlying technique behind transformers, which has found its way into everything from natural language processing to compu..."
+    },
+    {
       "title": "Winning Pokémon Showdown (w/ Game Theory!)",
       "link": "https://salm.dev/writing/winning-pokemon-showdown-with-game-theory/",
       "author": "salm.dev",
@@ -36,18 +43,18 @@
       "description": "Sharing my Shopify store's automations after 3 years of optimization"
     },
     {
-      "title": "Configuring external storage devices for Jellyfin",
-      "link": "//jamesma100.github.io/2025/jellyfin-guide/",
-      "author": "James Ma",
-      "date": "2025-02-15",
-      "description": "This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ..."
-    },
-    {
       "title": "Beyond Language Wars",
       "link": "https://salm.dev/writing/beyond-language-wars/",
       "author": "salm.dev",
       "date": "2025-02-15",
       "description": "The debate between programming languages in data science is usually a red herring that masks fundamental architectural challenges. I look into when rewrites make sense, and when they actually mask de..."
+    },
+    {
+      "title": "Configuring external storage devices for Jellyfin",
+      "link": "//jamesma100.github.io/2025/jellyfin-guide/",
+      "author": "James Ma",
+      "date": "2025-02-15",
+      "description": "This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ..."
     },
     {
       "title": "Adding Giscus Discussions to Astro",
@@ -188,13 +195,6 @@
       "author": "James Ma",
       "date": "2024-07-11",
       "description": "I had mostly forgotten how the x86 call stack works, and many things continue to confuse me, so join me and my scattered thoughts as I attempt to clarify my understanding. In this post, we will look a..."
-    },
-    {
-      "title": "False sharing in practice",
-      "link": "//jamesma100.github.io/2024/false-sharing/",
-      "author": "James Ma",
-      "date": "2024-05-28",
-      "description": "Over the past years, the trend in storage speed can be summarised as: faster CPUs with DRAM unable to keep up, resulting in a widening CPU/memory gap. Even as clock speeds have mostly steadied by 2003..."
     },
     {
       "title": "IMC Prosperity 2",
