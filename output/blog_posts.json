@@ -103,7 +103,7 @@
       "link": "//jamesma100.github.io/2024/currying-in-c/",
       "author": "James Ma",
       "date": "2024-11-27",
-      "description": "Suppose you are implementing some sort of system that dispatches jobs to workers. You have a function, and with it some arguments, that you would like to send off to a worker thread to be completed in..."
+      "description": "Suppose you have a function and an argument that you want to send off to a worker thread. The canonical way to do this in C is via pthreadcreate. $ man pthreadcreate SYNOPSIS include pthread.h..."
     },
     {
       "title": "Obligatory Meta First Post About Creating This Blog",
