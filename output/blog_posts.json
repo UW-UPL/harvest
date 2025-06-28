@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Create, Don't Consume",
+      "link": "https://salm.dev/writing/create-dont-consume/",
+      "author": "salm.dev",
+      "date": "2025-06-27",
+      "description": "We're trading long-term fulfillment for short-term dopamine hits, and each trade makes the next one harder to resist."
+    },
+    {
       "title": "Attention as a kernel smoothing problem",
       "link": "//jamesma100.github.io/2025/attention-and-kernel-smoothing/",
       "author": "James Ma",
