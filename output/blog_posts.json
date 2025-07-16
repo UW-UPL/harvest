@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Why 99% of GitHub Projects Die (And the 3 Rules That Got Me 2M+ Downloads)",
+      "link": "https://dteather.com/blogs/why-99-percent-of-github-projects-fail/",
+      "author": "David Teather's Blog",
+      "date": "2025-07-14",
+      "description": "I used to think my GitHub projects failed because my code wasn't good enough. Turns out, I was completely wrong about what actually matters. My TikTokAPIhttps://github.com/davidteather/TikTok-Api..."
+    },
+    {
       "title": "Parser combinators for postal addresses",
       "link": "//jamesma100.github.io/2025/parser-combinators/",
       "author": "James Ma",
@@ -57,18 +64,18 @@
       "description": "Sharing my Shopify store's automations after 3 years of optimization"
     },
     {
-      "title": "Configuring external storage devices for Jellyfin",
-      "link": "//jamesma100.github.io/2025/jellyfin-guide/",
-      "author": "James Ma",
-      "date": "2025-02-15",
-      "description": "This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ..."
-    },
-    {
       "title": "Beyond Language Wars",
       "link": "https://salm.dev/writing/beyond-language-wars/",
       "author": "salm.dev",
       "date": "2025-02-15",
       "description": "The debate between programming languages in data science is usually a red herring that masks fundamental architectural challenges. I look into when rewrites make sense, and when they actually mask de..."
+    },
+    {
+      "title": "Configuring external storage devices for Jellyfin",
+      "link": "//jamesma100.github.io/2025/jellyfin-guide/",
+      "author": "James Ma",
+      "date": "2025-02-15",
+      "description": "This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ..."
     },
     {
       "title": "Adding Giscus Discussions to Astro",
