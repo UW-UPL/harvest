@@ -29,8 +29,8 @@
       "description": "Reddit discussion This post is about a rarely discussed interpretation of “attention,” the underlying technique behind transformers, which has found its way into everything from natural language p..."
     },
     {
-      "title": "Winning Pokemon Showdown (w/ Game Theory!)",
-      "link": "https://salm.dev/writing/winning-pokemon-showdown-with-game-theory/",
+      "title": "Winning Pokemon Showdown",
+      "link": "https://salm.dev/writing/winning-pokemon-showdown/",
       "author": "salm.dev",
       "date": "2025-05-11",
       "description": "We analyzed Pokémon Showdown battles using game theory and found the mathematically optimal strategies. And they perfectly matched what our 5000 hour expert already knew"
@@ -62,13 +62,6 @@
       "author": "Nick Winans",
       "date": "2025-02-23",
       "description": "Sharing my Shopify store's automations after 3 years of optimization"
-    },
-    {
-      "title": "Beyond Language Wars",
-      "link": "https://salm.dev/writing/beyond-language-wars/",
-      "author": "salm.dev",
-      "date": "2025-02-15",
-      "description": "The debate between programming languages in data science is usually a red herring that masks fundamental architectural challenges. I look into when rewrites make sense, and when they actually mask de..."
     },
     {
       "title": "Configuring external storage devices for Jellyfin",
