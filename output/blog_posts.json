@@ -33,7 +33,7 @@
       "link": "https://salm.dev/writing/winning-pokemon-showdown/",
       "author": "salm.dev",
       "date": "2025-05-11",
-      "description": "We analyzed Pokémon Showdown battles using game theory and found the mathematically optimal strategies. And they perfectly matched what our 5000 hour expert already knew"
+      "description": "We analyzed Pokémon Showdown battles using game theory and found the mathematically optimal strategies."
     },
     {
       "title": "Dungeons, Dragons \u0026 Development",
@@ -180,7 +180,7 @@
       "link": "https://salm.dev/writing/preserving-my-future-self/",
       "author": "salm.dev",
       "date": "2024-08-18",
-      "description": "I underwent an ergonomic overhaul to improve health and reduce strain. Or: I got a new, expensive keyboard that got sawed in half. Either way, it was an adventure worth sharing."
+      "description": "I underwent an ergonomic overhaul to improve health and reduce strain. Or: I got an expensive new split keyboard. Either way, an adventure worth sharing."
     },
     {
       "title": "Traversing dependency trees in Bazel",
