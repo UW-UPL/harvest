@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Beyond If Statements and For Loops",
+      "link": "https://salm.dev/writing/beyond-if-statements-and-for-loops/",
+      "author": "salm.dev",
+      "date": "2025-07-27",
+      "description": "How pattern matching, type systems, and functional thinking transformed my approach to solving problems."
+    },
+    {
       "title": "Why 99% of GitHub Projects Die (And the 3 Rules That Got Me 2M+ Downloads)",
       "link": "https://dteather.com/blogs/why-99-percent-of-github-projects-fail/",
       "author": "David Teather's Blog",
