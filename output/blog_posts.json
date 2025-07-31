@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Building My Perfect Keyboard — The Plan",
+      "link": "https://nick.winans.io/blog/perfect-keyboard/",
+      "author": "Nick Winans",
+      "date": "2025-07-29",
+      "description": "Perfecting every part of my Lily58 keyboard."
+    },
+    {
       "title": "Beyond If Statements and For Loops",
       "link": "https://salm.dev/writing/beyond-if-statements-and-for-loops/",
       "author": "salm.dev",
