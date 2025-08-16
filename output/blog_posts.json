@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "CS + Data Science Done Right",
+      "link": "https://salm.dev/writing/cs-data-science-done-right/",
+      "author": "salm.dev",
+      "date": "2025-08-15",
+      "description": "Why most students waste this easy double major combination and how to actually build valuable skills instead of just collecting credentials."
+    },
+    {
       "title": "Attention Span August",
       "link": "https://nick.winans.io/blog/attention-span-august/",
       "author": "Nick Winans",
@@ -40,14 +47,14 @@
       "link": "https://salm.dev/writing/winning-pokemon-showdown/",
       "author": "salm.dev",
       "date": "2025-05-11",
-      "description": "We analyzed Pokémon Showdown battles using game theory and found the mathematically optimal strategies."
+      "description": "We examined Pokémon Showdown battles using game theory and identified the mathematically optimal strategies."
     },
     {
       "title": "Dungeons, Dragons \u0026 Development",
       "link": "https://salm.dev/writing/dungeons-dragons-and-development/",
       "author": "salm.dev",
       "date": "2025-04-21",
-      "description": "Creating custom \"homebrew\" D\u0026D worlds and developing software are surprisingly similar as creative disciplines. In both, you create vast interconnected \"worlds\" which must remain cohesive while evo..."
+      "description": "In both homebrew D\u0026D worlds and software development, you create vast interconnected systems that must remain cohesive while evolving over time."
     },
     {
       "title": "I Made a Million Dollar Product from My Dorm Room",
@@ -117,7 +124,7 @@
       "link": "https://salm.dev/writing/command-line-productivity/",
       "author": "salm.dev",
       "date": "2024-10-10",
-      "description": "I am not a fan of bloated workflows or feature overload. In this article, I describe my minimal, focused, keyboard-centric workflow where I do my best work. In other words: I shill vim."
+      "description": "I am not a fan of bloated workflows or feature overload. In this article, I describe my minimal, focused, keyboard-centric workflow where I do my best work. In other words: I shill Vim."
     },
     {
       "title": "Adding UML Diagrams to Rehype in Astro",
@@ -138,7 +145,7 @@
       "link": "https://salm.dev/writing/preserving-my-future-self/",
       "author": "salm.dev",
       "date": "2024-08-18",
-      "description": "I underwent an ergonomic overhaul to improve health and reduce strain. Or: I got an expensive new split keyboard. Either way, an adventure worth sharing."
+      "description": "I underwent an ergonomic overhaul to improve health and reduce strain. Or: I bought an expensive new split-keyboard. Either way, an adventure worth sharing."
     },
     {
       "title": "Adding an Astro Search Bar",
