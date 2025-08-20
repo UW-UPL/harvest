@@ -50,6 +50,13 @@
       "description": "We examined Pokémon Showdown battles using game theory and identified the mathematically optimal strategies."
     },
     {
+      "title": "Automating keyword extraction and ranking to enhance a resume",
+      "link": "",
+      "author": "\n          \n        ",
+      "date": "2025-04-29",
+      "description": "TL;DR I extracted keywords from job descriptions with Gemini and created a Python script to rank them to enhance my friend's resume. I spent some time this past week helping a friend update their res..."
+    },
+    {
       "title": "Dungeons, Dragons \u0026 Development",
       "link": "https://salm.dev/writing/dungeons-dragons-and-development/",
       "author": "salm.dev",
@@ -62,6 +69,13 @@
       "author": "Nick Winans",
       "date": "2025-03-23",
       "description": "The story of the nicenano; a wireless Pro Micro-compatible microcontroller board I made in my freshman year of college."
+    },
+    {
+      "title": "How and Why I made this website",
+      "link": "",
+      "author": "\n          \n        ",
+      "date": "2025-03-16",
+      "description": "TL;DR I made this website using Zola to discuss my work/interests. People kept asking, so I thought I'd make my first post to answer their questions. Why make a personal website? I wanted a place to..."
     },
     {
       "title": "eCommerce Automations",
