@@ -64,15 +64,8 @@ func cleanHTML(input string, maxLength int) string {
 	return strings.TrimSpace(cleaned)
 }
 
-func parseDate(item Item) time.Time {
-	dateCandidates := []string{
-		item.PubDate,
-		item.Date,
-		item.Published,
-		item.Updated,
-	}
-
-	for _, dateStr := range dateCandidates {
+func parseDate(dateStrs ...string) time.Time {
+	for _, dateStr := range dateStrs {
 		if dateStr == "" {
 			continue
 		}
@@ -84,35 +77,17 @@ func parseDate(item Item) time.Time {
 		}
 	}
 
-	log.Printf("warn: Could not parse any date from item %s", item.Title)
+	log.Printf("warn: Could not parse any date")
 	return time.Now()
 }
 
-func getDescription(item Item) string {
-	candidates := []string{
-		item.Description,
-		item.Summary,
-		item.Content,
-		item.Encoded,
-	}
-
+func getDescription(candidates ...string) string {
 	for _, candidate := range candidates {
 		if candidate != "" {
 			return stripMarkdown(cleanHTML(candidate, 200))
 		}
 	}
-
 	return "Visit post for details."
-}
-
-func getAuthor(item Item, channelTitle string) string {
-	if item.Author != "" {
-		return item.Author
-	}
-	if item.Creator != "" {
-		return item.Creator
-	}
-	return channelTitle
 }
 
 func FetchFeed(url string) ([]BlogPost, error) {
@@ -134,24 +109,56 @@ func FetchFeed(url string) ([]BlogPost, error) {
 
 	var posts []BlogPost
 
-	// we need to worry about both RSS *AND* Atom feeds
-	items := feed.Channel.Items
-	if len(items) == 0 {
-		items = feed.Channel.Entries
-	}
-	if len(items) == 0 {
-		items = feed.Entries
+	// Handle RSS feeds
+	if len(feed.Channel.Items) > 0 {
+		for _, item := range feed.Channel.Items {
+			author := strings.TrimSpace(item.Author)
+			if author == "" {
+				author = strings.TrimSpace(item.Creator)
+			}
+			if author == "" {
+				author = feed.Channel.Title
+			}
+
+			post := BlogPost{
+				Title:   strings.TrimSpace(item.Title),
+				Link:    item.Link,
+				Date:    parseDate(item.PubDate),
+				Author:  author,
+				Summary: getDescription(item.Description, item.Content),
+			}
+			posts = append(posts, post)
+		}
 	}
 
-	for _, item := range items {
-		post := BlogPost{
-			Title:   item.Title,
-			Link:    item.Link,
-			Date:    parseDate(item),
-			Author:  getAuthor(item, feed.Channel.Title),
-			Summary: getDescription(item),
+	// Handle Atom feeds
+	if len(feed.Entries) > 0 {
+		channelTitle := feed.Title
+		
+		for _, entry := range feed.Entries {
+			// Find the alternate link
+			link := ""
+			for _, l := range entry.Links {
+				if l.Rel == "alternate" || l.Rel == "" {
+					link = l.Href
+					break
+				}
+			}
+
+			author := strings.TrimSpace(entry.Author.Name)
+			if author == "" {
+				author = channelTitle
+			}
+
+			post := BlogPost{
+				Title:   strings.TrimSpace(entry.Title),
+				Link:    link,
+				Date:    parseDate(entry.Published, entry.Updated),
+				Author:  author,
+				Summary: getDescription(entry.Summary, entry.Content),
+			}
+			posts = append(posts, post)
 		}
-		posts = append(posts, post)
 	}
 
 	return posts, nil
