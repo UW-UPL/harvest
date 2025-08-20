@@ -1,4 +1,4 @@
-package markdown
+package json
 
 import (
 	"encoding/json"
@@ -10,7 +10,6 @@ import (
 	"github.com/UW-UPL/harvest/src/feed"
 )
 
-// struct
 type postOut struct {
 	Title       string `json:"title"`
 	Link        string `json:"link"`
@@ -20,7 +19,6 @@ type postOut struct {
 }
 
 func Generate(posts []feed.BlogPost, outputPath string) error {
-	// make sure the directory exists
 	if err := os.MkdirAll(filepath.Dir(outputPath), 0o755); err != nil {
 		return fmt.Errorf("creating output dir: %w", err)
 	}

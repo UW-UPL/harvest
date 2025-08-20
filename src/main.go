@@ -7,7 +7,8 @@ import (
 
 	"github.com/pelletier/go-toml/v2"
 	"github.com/UW-UPL/harvest/src/feed"
-	"github.com/UW-UPL/harvest/src/markdown"
+	"github.com/UW-UPL/harvest/src/json"
+	"github.com/UW-UPL/harvest/src/rss"
 )
 
 func readConfig(path string) (feed.Config, error) {
@@ -38,7 +39,12 @@ func main() {
 	posts := feed.FetchAllFeeds(config.Feeds)
 	log.Printf("Fetched %d posts", len(posts))
 
-	if err := markdown.Generate(posts, "output/blog_posts.json"); err != nil {
-		log.Fatalf("err generating markdown: %v", err)
+	if err := json.Generate(posts, "output/blog_posts.json"); err != nil {
+		log.Fatalf("err generating json: %v", err)
 	}
+
+	if err := rss.GenerateRSSFeed(posts, "output/feed.xml"); err != nil {
+		log.Fatalf("err generating RSS feed: %v", err)
+	}
+	log.Printf("Generated RSS feed at output/feed.xml")
 }

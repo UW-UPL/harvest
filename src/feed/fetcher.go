@@ -28,7 +28,7 @@ var dateFormats = []string{
 	"January 2, 2006",
 }
 
-// We're rendering to markdown so to preserve formatting we need to strip out any markdown characters
+// we're rendering to markdown so to preserve formatting we need to strip out any markdown characters
 func stripMarkdown(input string) string {
 	invalidChars := []string{"*", "_", "#", "`", ">", "<", "[", "]", "(", ")", "!", "~", "|", "{", "}", "+"}
 	for _, char := range invalidChars {
@@ -109,7 +109,7 @@ func FetchFeed(url string) ([]BlogPost, error) {
 
 	var posts []BlogPost
 
-	// Handle RSS feeds
+	// handle RSS feeds
 	if len(feed.Channel.Items) > 0 {
 		for _, item := range feed.Channel.Items {
 			author := strings.TrimSpace(item.Author)
@@ -131,12 +131,12 @@ func FetchFeed(url string) ([]BlogPost, error) {
 		}
 	}
 
-	// Handle Atom feeds
+	// handle Atom feeds
 	if len(feed.Entries) > 0 {
 		channelTitle := feed.Title
-		
+
 		for _, entry := range feed.Entries {
-			// Find the alternate link
+			// find the alternate link
 			link := ""
 			for _, l := range entry.Links {
 				if l.Rel == "alternate" || l.Rel == "" {
