@@ -9,4 +9,5 @@ feeds = [
     "https://dteather.com/blogs/rss.xml",
     "https://bytesnotborders.com/feed.xml",
     "https://www.noguera.dev/blog/index.xml",
+    "https://mdberkey.github.io/atom.xml",
 ]
