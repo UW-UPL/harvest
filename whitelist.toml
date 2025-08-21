@@ -7,7 +7,7 @@ feeds = [
     "https://www.amoses.dev/rss.xml",
     "https://nick.winans.io/rss.xml",
     "https://dteather.com/blogs/rss.xml",
-    "https://bytesnotborders.com/feed.xml",
+    "https://jamesma.dev/feed.xml",
     "https://www.noguera.dev/blog/index.xml",
     "https://mdberkey.github.io/atom.xml",
 ]
