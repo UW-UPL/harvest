@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Brief overview of CPU caching",
+      "link": "https://jamesma.dev/2025/cpu-caching/",
+      "author": "James Ma",
+      "date": "2025-08-15",
+      "description": "Why caches Over the years, the gap between the throughput of the processor and the throughput of main memory has widened. Programs cannot make use of higher processor speeds or a large number of cores..."
+    },
+    {
       "title": "CS + Data Science Done Right",
       "link": "https://salm.dev/writing/cs-data-science-done-right/",
       "author": "salm.dev",
@@ -36,11 +43,25 @@
       "description": "Visit post for details."
     },
     {
+      "title": "Parser combinators for postal addresses",
+      "link": "https://jamesma.dev/2025/parser-combinators/",
+      "author": "James Ma",
+      "date": "2025-07-04",
+      "description": "A while ago, Tsoding did a stream on parsing JSON with parser combinators. I was curious how hard it would be to use the basic parsers he implemented to create a new parser for U.S. postal addresses...."
+    },
+    {
       "title": "Create, Don't Consume",
       "link": "https://salm.dev/writing/create-dont-consume/",
       "author": "salm.dev",
       "date": "2025-06-27",
       "description": "We're trading long-term fulfillment for short-term dopamine hits, and each trade makes the next one harder to resist."
+    },
+    {
+      "title": "Attention as a kernel smoothing problem",
+      "link": "https://jamesma.dev/2025/attention-and-kernel-smoothing/",
+      "author": "James Ma",
+      "date": "2025-05-23",
+      "description": "Reddit discussion This post is about a rarely discussed interpretation of “attention,” the underlying technique behind transformers, which has found its way into everything from natural language p..."
     },
     {
       "title": "Winning Pokemon Showdown",
@@ -71,6 +92,13 @@
       "description": "The story of the nicenano; a wireless Pro Micro-compatible microcontroller board I made in my freshman year of college."
     },
     {
+      "title": "Abstracting over Futures and Options",
+      "link": "https://jamesma.dev/2025/future-options-scala/",
+      "author": "James Ma",
+      "date": "2025-03-19",
+      "description": "In Scala, two interesting concepts you’ll often work with are Futures and Options. A Future is an abstraction for some value that might not be available yet. An Option abstracts over the possibility..."
+    },
+    {
       "title": "How and Why I made this website",
       "link": "https://mdberkey.github.io/blog/how-and-why-i-made-this-website/",
       "author": "Michael Berkey",
@@ -83,6 +111,13 @@
       "author": "Nick Winans",
       "date": "2025-02-23",
       "description": "Sharing my Shopify store's automations after 3 years of optimization"
+    },
+    {
+      "title": "Configuring external storage devices for Jellyfin",
+      "link": "https://jamesma.dev/2025/jellyfin-guide/",
+      "author": "James Ma",
+      "date": "2025-02-15",
+      "description": "This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ..."
     },
     {
       "title": "Adding Giscus Discussions to Astro",
@@ -99,6 +134,13 @@
       "description": "Real-time Collaborative E-Paper Canvas"
     },
     {
+      "title": "A gallery of randomly generated art",
+      "link": "https://jamesma.dev/2025/randomart-gallery/",
+      "author": "James Ma",
+      "date": "2025-01-18",
+      "description": "In a paper from CMU, security researchers describe a nifty algorithm used to generate random images known as RandomArt. In a nutshell, the algorithm takes as input a seed to a pseudo-random number gen..."
+    },
+    {
       "title": "Learning the NATO phonetic alphabet with the Web Speech API",
       "link": "https://www.amoses.dev/blog/nato-alphabet/",
       "author": "Andrew Moses",
@@ -111,6 +153,20 @@
       "author": "Blog on Michael Noguera",
       "date": "2024-12-09",
       "description": "I participated in Wisconsin Science and Computing Emerging Research Stars WISCERS as part of the 2022-23 cohort and really enjoyed the experience. Even if you’re uncertain, you should definetly ap..."
+    },
+    {
+      "title": "In defense of bad grammar",
+      "link": "https://jamesma.dev/2024/bad-grammar/",
+      "author": "James Ma",
+      "date": "2024-11-30",
+      "description": "From the moment we begin formal education we are drilled with the idea of “proper grammar.” “My friend and I,” not “me and my friend.” “A large number of people,” not “lots of people..."
+    },
+    {
+      "title": "Currying C functions using a heap-based trampoline",
+      "link": "https://jamesma.dev/2024/currying-in-c/",
+      "author": "James Ma",
+      "date": "2024-11-27",
+      "description": "Suppose you have a function and an argument that you want to send off to a worker thread. The canonical way to do this in C is via pthreadcreate. $ man pthreadcreate SYNOPSIS include pthread.h..."
     },
     {
       "title": "Obligatory Meta First Post About Creating This Blog",
@@ -146,6 +202,20 @@
       "author": "David Teather's Blog",
       "date": "2024-10-07",
       "description": "Visit post for details."
+    },
+    {
+      "title": "Simple backpropogation in Python and numpy",
+      "link": "https://jamesma.dev/2024/implementing-backpropogation/",
+      "author": "James Ma",
+      "date": "2024-09-28",
+      "description": "In our previous post, we introduced backpropogation as a means for efficiently training neural networks. Here we’ll attempt to implement a simple Python framework to train a fully-connected neural n..."
+    },
+    {
+      "title": "Deriving backpropogation from scratch",
+      "link": "https://jamesma.dev/2024/deriving-backpropogation/",
+      "author": "James Ma",
+      "date": "2024-09-10",
+      "description": "Most sizable neural networks today rely on backpropogation to make the training process more efficient. While backpropogation is pretty ubiquitous in libraries such as torch.autograd, I was curious ho..."
     },
     {
       "title": "Is Web Scraping Ethical?",
