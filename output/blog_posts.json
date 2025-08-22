@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Reflections A Year Into My Career",
+      "link": "https://dteather.com/blogs/reflections-a-year-into-my-career/",
+      "author": "David Teather",
+      "date": "2025-08-21",
+      "description": "A brain dump of lessons, advice, and realizations from my first year as a new grad software engineer. Take what’s useful, ignore the rest."
+    },
+    {
       "title": "Brief overview of CPU caching",
       "link": "https://jamesma.dev/2025/cpu-caching/",
       "author": "James Ma",
@@ -38,9 +45,9 @@
     {
       "title": "Why 99% of GitHub Projects Die (And the 3 Rules That Got Me 2M+ Downloads)",
       "link": "https://dteather.com/blogs/why-99-percent-of-github-projects-fail/",
-      "author": "David Teather's Blog",
+      "author": "David Teather",
       "date": "2025-07-14",
-      "description": "Visit post for details."
+      "description": "Learn the 3 critical rules that separate successful GitHub projects from the 99% that fail. Discover proven strategies that took my TikTokAPI from 0 to 5000 stars and 2M downloads, including search..."
     },
     {
       "title": "Parser combinators for postal addresses",
@@ -122,9 +129,9 @@
     {
       "title": "Adding Giscus Discussions to Astro",
       "link": "https://dteather.com/blogs/adding-giscus-discussions-to-astro/",
-      "author": "David Teather's Blog",
+      "author": "David Teather",
       "date": "2025-02-11",
-      "description": "Visit post for details."
+      "description": "Discover how to integrate Giscus discussions into your Astro blog. Learn to boost engagement with interactive comments, effortless moderation, and theme customization."
     },
     {
       "title": "InkLink",
@@ -178,9 +185,9 @@
     {
       "title": "Adding Interactive Charts to Astro",
       "link": "https://dteather.com/blogs/astro-interactive-charts/",
-      "author": "David Teather's Blog",
+      "author": "David Teather",
       "date": "2024-10-30",
-      "description": "Visit post for details."
+      "description": "Learn how to add interactive data visualizations to your Astro site using Apex Charts. This guide includes setup steps, customization tips, and code examples to help you bring your data to life with i..."
     },
     {
       "title": "Revamping the UPL's people counter",
@@ -199,9 +206,9 @@
     {
       "title": "Adding UML Diagrams to Rehype in Astro",
       "link": "https://dteather.com/blogs/astro-uml-diagrams/",
-      "author": "David Teather's Blog",
+      "author": "David Teather",
       "date": "2024-10-07",
-      "description": "Visit post for details."
+      "description": "Learn how to add and style UML diagrams in your Astro project using Rehype and Mermaid.js. This step-by-step guide covers setup, customization for dark mode, and image support, making it perfect for s..."
     },
     {
       "title": "Simple backpropogation in Python and numpy",
@@ -220,9 +227,9 @@
     {
       "title": "Is Web Scraping Ethical?",
       "link": "https://dteather.com/blogs/is-web-scraping-ethical/",
-      "author": "David Teather's Blog",
+      "author": "David Teather",
       "date": "2024-08-23",
-      "description": "Visit post for details."
+      "description": "Web scraping: a tool for innovation or a threat to privacy? Dive into the ethical gray areas of data extraction and explore the real-world impacts on research, competition, and personal privacy."
     },
     {
       "title": "Preserving My Future Self",
@@ -234,51 +241,51 @@
     {
       "title": "Adding an Astro Search Bar",
       "link": "https://dteather.com/blogs/astro-search-bar/",
-      "author": "David Teather's Blog",
+      "author": "David Teather",
       "date": "2024-07-26",
-      "description": "Visit post for details."
+      "description": "Enhance your Astro-built website with a powerful, locally-powered search bar Join David Teather as he guides you through adding a custom search feature using astro-pagefind. This blog includes easy-t..."
     },
     {
       "title": "Astro Optimized Images With Markdown",
       "link": "https://dteather.com/blogs/astro-optimized-images/",
-      "author": "David Teather's Blog",
+      "author": "David Teather",
       "date": "2024-07-26",
-      "description": "Visit post for details."
+      "description": "Learn how to optimize images using Astro with Markdown in this detailed guide by David Teather. Discover step-by-step instructions on moving images for better web performance and reducing load times,..."
     },
     {
       "title": "IMC Prosperity 2",
       "link": "https://dteather.com/blogs/imc-prosperity-2/",
-      "author": "David Teather's Blog",
+      "author": "David Teather",
       "date": "2024-05-03",
-      "description": "Visit post for details."
+      "description": "Join David Teather in his compelling account of competing in the IMC Prosperity 2 competition. This blog post covers his journey through the stages of virtual asset trading, from algorithmic to manual..."
     },
     {
       "title": "My UW Madison Course Tier List",
       "link": "https://dteather.com/blogs/madison-class-rankings/",
-      "author": "David Teather's Blog",
+      "author": "David Teather",
       "date": "2024-04-25",
-      "description": "Visit post for details."
+      "description": "I'm about to graduate from UW Madison and I thought I'd share my thoughts on the classes that I've taken. I'm a Computer Science major with a certificate in Entrepreneurship. Hopefully this can help y..."
     },
     {
       "title": "GitHub Field Day NYC 2024 Organizer",
       "link": "https://dteather.com/blogs/github-fieldday-nyc-2024/",
-      "author": "David Teather's Blog",
+      "author": "David Teather",
       "date": "2024-03-15",
-      "description": "Visit post for details."
+      "description": "I had the pleasure of helping organize GitHub Field Day NYC 2024, and it took a lot of planning and coordination to make it happen. I had a lot of fun at the event and wanted to detail some of the thi..."
     },
     {
       "title": "Battlecode 2024 Finalist",
       "link": "https://dteather.com/blogs/battlecode24/",
-      "author": "David Teather's Blog",
+      "author": "David Teather",
       "date": "2024-01-28",
-      "description": "Visit post for details."
+      "description": "I was dragged into Battlecode 2024 by one of our teammates. I had never heard of Battlecode before, but I was excited to try it out. I had a lot of fun and I'm glad I did it, and we ended up qualifyin..."
     },
     {
       "title": "Organizing MadHacks Fall 2023 Reflections",
       "link": "https://dteather.com/blogs/madhacks-fall-23/",
-      "author": "David Teather's Blog",
+      "author": "David Teather",
       "date": "2023-11-11",
-      "description": "Visit post for details."
+      "description": "David Teather's reflections on organizing MadHacks Fall 2023, a 24-hour hackathon at the University of Wisconsin-Madison, and the lessons learned from the experience."
     },
     {
       "title": "Making My Blog 3x Faster",
@@ -297,9 +304,9 @@
     {
       "title": "LINK.social Exposed Users' Sensitive Information \u0026 Mass Account Hijacking",
       "link": "https://dteather.com/blogs/link-social-exposing-sensitive-personal-information/",
-      "author": "David Teather's Blog",
+      "author": "David Teather",
       "date": "2022-07-14",
-      "description": "Visit post for details."
+      "description": "Learn how LINK.social exposed sensitive user information, including locations, phone numbers, and birthdays, along with vulnerabilities allowing mass account hijacking."
     },
     {
       "title": "A CS Course Map for Incoming UW-Madison Students",
@@ -311,9 +318,9 @@
     {
       "title": "YikYak Is Exposing Millions of User Locations",
       "link": "https://dteather.com/blogs/yikyak-is-exposing-user-locations/",
-      "author": "David Teather's Blog",
+      "author": "David Teather",
       "date": "2022-05-09",
-      "description": "Visit post for details."
+      "description": "Discover how YikYak's exposed GPS coordinates and user IDs put millions at risk. Learn the implications, recommended fixes, and how to protect your privacy."
     },
     {
       "title": "Exploiting GitHub Actions",
