@@ -10,4 +10,5 @@ Updates every 12 hours.
 ## Feeds
 
 - **JSON:** [output/blog_posts.json](output/blog_posts.json)
-- **RSS:** [output/feed.xml](output/feed.xml) - Add to your RSS reader!
+- **RSS:** [output/feed.xml](https://raw.githubusercontent.com/UPL-Harvest/harvest/main/output/feed.xml) - Add to your RSS reader!
+
