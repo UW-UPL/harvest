@@ -6,7 +6,7 @@
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
     <pubDate>Mon, 25 Aug 2025 03:00:00 +0000</pubDate>
-    <lastBuildDate>Sun, 24 Aug 2025 23:34:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 01:05:42 +0000</lastBuildDate>
     <item>
       <title>Adding Mermaid Diagrams to Rehype in Astro (With rehype-mermaid-cli)</title>
       <link>https://dteather.com/blogs/astro-rehype-mermaid-cli/</link>
@@ -32,20 +32,20 @@
       <guid>https://dteather.com/blogs/reflections-a-year-into-my-career/</guid>
     </item>
     <item>
-      <title>CS + Data Science Done Right</title>
-      <link>https://salm.dev/writing/cs-data-science-done-right/</link>
-      <description>Why most students waste this easy double major combination and how to actually build valuable skills instead of just collecting credentials.</description>
-      <author>salm.dev</author>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/writing/cs-data-science-done-right/</guid>
-    </item>
-    <item>
       <title>Brief overview of CPU caching</title>
       <link>https://jamesma.dev/2025/cpu-caching/</link>
       <description>Why caches Over the years, the gap between the throughput of the processor and the throughput of main memory has widened. Programs cannot make use of higher processor speeds or a large number of cores...</description>
       <author>James Ma</author>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://jamesma.dev/2025/cpu-caching/</guid>
+    </item>
+    <item>
+      <title>CS + Data Science Done Right</title>
+      <link>https://salm.dev/writing/cs-data-science-done-right/</link>
+      <description>Why most students waste this easy double major combination and how to actually build valuable skills instead of just collecting credentials.</description>
+      <author>salm.dev</author>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/writing/cs-data-science-done-right/</guid>
     </item>
     <item>
       <title>Letting Go</title>
