@@ -6,7 +6,7 @@
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
     <pubDate>Mon, 25 Aug 2025 03:00:00 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Aug 2025 01:22:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 02:03:55 +0000</lastBuildDate>
     <item>
       <title>Adding Mermaid Diagrams to Rehype in Astro (With rehype-mermaid-cli)</title>
       <link>https://dteather.com/blogs/astro-rehype-mermaid-cli/</link>
@@ -14,6 +14,14 @@
       <author>David Teather</author>
       <pubDate>Mon, 25 Aug 2025 03:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/astro-rehype-mermaid-cli/</guid>
+    </item>
+    <item>
+      <title>An extremely unsophisticated Ponzi scheme</title>
+      <link>https://blackdiamand.github.io/misc/2025/08/24/a-ponzi.html</link>
+      <description></description>
+      <author>blackdiamand&#39;s site</author>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://blackdiamand.github.io/misc/2025/08/24/a-ponzi.html</guid>
     </item>
     <item>
       <title>How to Add Live Stats To Your Site</title>
@@ -32,20 +40,20 @@
       <guid>https://dteather.com/blogs/reflections-a-year-into-my-career/</guid>
     </item>
     <item>
-      <title>CS + Data Science Done Right</title>
-      <link>https://salm.dev/writing/cs-data-science-done-right/</link>
-      <description>Why most students waste this easy double major combination and how to actually build valuable skills instead of just collecting credentials.</description>
-      <author>salm.dev</author>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/writing/cs-data-science-done-right/</guid>
-    </item>
-    <item>
       <title>Brief overview of CPU caching</title>
       <link>https://jamesma.dev/2025/cpu-caching/</link>
       <description>Why caches Over the years, the gap between the throughput of the processor and the throughput of main memory has widened. Programs cannot make use of higher processor speeds or a large number of cores...</description>
       <author>James Ma</author>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://jamesma.dev/2025/cpu-caching/</guid>
+    </item>
+    <item>
+      <title>CS + Data Science Done Right</title>
+      <link>https://salm.dev/writing/cs-data-science-done-right/</link>
+      <description>Why most students waste this easy double major combination and how to actually build valuable skills instead of just collecting credentials.</description>
+      <author>salm.dev</author>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/writing/cs-data-science-done-right/</guid>
     </item>
     <item>
       <title>Letting Go</title>
@@ -305,11 +313,11 @@
     </item>
     <item>
       <title>Problems and Solutions to Long term Prediction Markets</title>
-      <link>/2024/09/02/longterm-markets.html</link>
-      <description>Long term forecasting and prediction markets</description>
-      <author>blackdiamand’s site</author>
+      <link>https://blackdiamand.github.io/2024/09/02/longterm-markets.html</link>
+      <description>Long term forecasting and prediction markets If you were to visit Manifold about a year ago, you would have noticed a market that claimed AI had a 30% chance of wiping out humanity before 2030 or a 4%...</description>
+      <author>blackdiamand&#39;s site</author>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/2024/09/02/longterm-markets.html</guid>
+      <guid>https://blackdiamand.github.io/2024/09/02/longterm-markets.html</guid>
     </item>
     <item>
       <title>On Competitive Programming</title>
@@ -472,12 +480,12 @@
       <guid>https://scharenbroch.dev/blog/speedrunning-college/</guid>
     </item>
     <item>
-      <title>Create The World’s Simplest Trading Bot, For Free!</title>
-      <link>/trading/2024/03/26/bot-guide-simple.html</link>
-      <description>Create your own trading bot</description>
-      <author>blackdiamand’s site</author>
+      <title>Create The World&#39;s Simplest Trading Bot, For Free!</title>
+      <link>https://blackdiamand.github.io/trading/2024/03/26/bot-guide-simple.html</link>
+      <description>Create your own trading bot This is an unofficial guide and not created by Manifold If you notice something doesn’t work, report it on Discord, in the api-and-bots channel. You are responsible fo...</description>
+      <author>blackdiamand&#39;s site</author>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/trading/2024/03/26/bot-guide-simple.html</guid>
+      <guid>https://blackdiamand.github.io/trading/2024/03/26/bot-guide-simple.html</guid>
     </item>
     <item>
       <title>Functional Refactoring: Wordle</title>
@@ -600,12 +608,12 @@
       <guid>https://scharenbroch.dev/blog/using-a-chromebook-as-a-cs-student/</guid>
     </item>
     <item>
-      <title>Alaska’s Top Four Primary, Game Theory, and How to Not Campaign in a Ranked Choice Election</title>
-      <link>/alaska/2023/01/06/alaska-game-theory.html</link>
+      <title>Alaska&#39;s Top Four Primary, Game Theory, and How to Not Campaign in a Ranked Choice Election</title>
+      <link>https://blackdiamand.github.io/alaska/2023/01/06/alaska-game-theory.html</link>
       <description>How to Not Campaign in a Ranked Choice Election Don’t attack your allies Background Alaska’s new electoral system, adopted by voters in a 2020 referendum, has created some interesting results. In...</description>
-      <author>blackdiamand’s site</author>
+      <author>blackdiamand&#39;s site</author>
       <pubDate>Fri, 06 Jan 2023 00:19:00 +0000</pubDate>
-      <guid>/alaska/2023/01/06/alaska-game-theory.html</guid>
+      <guid>https://blackdiamand.github.io/alaska/2023/01/06/alaska-game-theory.html</guid>
     </item>
     <item>
       <title>Exploring the Anshel-Anshel-Goldfeld Key Exchange System</title>

@@ -8,6 +8,13 @@
       "description": "Render UML and system design diagrams in Astro using rehype-mermaid-cli. Covers setup, light/dark mode, and comparisons with rehype-mermaid."
     },
     {
+      "title": "An extremely unsophisticated Ponzi scheme",
+      "link": "https://blackdiamand.github.io/misc/2025/08/24/a-ponzi.html",
+      "author": "blackdiamand's site",
+      "date": "2025-08-24",
+      "description": ""
+    },
+    {
       "title": "How to Add Live Stats To Your Site",
       "link": "https://dteather.com/blogs/how-to-add-live-stats-to-your-site/",
       "author": "David Teather",
@@ -22,18 +29,18 @@
       "description": "A brain dump of lessons, advice, and realizations from my first year as a new grad software engineer. Take what’s useful, ignore the rest."
     },
     {
-      "title": "CS + Data Science Done Right",
-      "link": "https://salm.dev/writing/cs-data-science-done-right/",
-      "author": "salm.dev",
-      "date": "2025-08-15",
-      "description": "Why most students waste this easy double major combination and how to actually build valuable skills instead of just collecting credentials."
-    },
-    {
       "title": "Brief overview of CPU caching",
       "link": "https://jamesma.dev/2025/cpu-caching/",
       "author": "James Ma",
       "date": "2025-08-15",
       "description": "Why caches Over the years, the gap between the throughput of the processor and the throughput of main memory has widened. Programs cannot make use of higher processor speeds or a large number of cores..."
+    },
+    {
+      "title": "CS + Data Science Done Right",
+      "link": "https://salm.dev/writing/cs-data-science-done-right/",
+      "author": "salm.dev",
+      "date": "2025-08-15",
+      "description": "Why most students waste this easy double major combination and how to actually build valuable skills instead of just collecting credentials."
     },
     {
       "title": "Letting Go",
@@ -261,10 +268,10 @@
     },
     {
       "title": "Problems and Solutions to Long term Prediction Markets",
-      "link": "/2024/09/02/longterm-markets.html",
-      "author": "blackdiamand’s site",
+      "link": "https://blackdiamand.github.io/2024/09/02/longterm-markets.html",
+      "author": "blackdiamand's site",
       "date": "2024-09-02",
-      "description": "Long term forecasting and prediction markets"
+      "description": "Long term forecasting and prediction markets If you were to visit Manifold about a year ago, you would have noticed a market that claimed AI had a 30% chance of wiping out humanity before 2030 or a 4%..."
     },
     {
       "title": "On Competitive Programming",
@@ -407,11 +414,11 @@
       "description": "A few decades ago, universities were the only place where it was possible for students to use and learn about computers; now it’s possible to teach yourself the entire curriculum without leaving you..."
     },
     {
-      "title": "Create The World’s Simplest Trading Bot, For Free!",
-      "link": "/trading/2024/03/26/bot-guide-simple.html",
-      "author": "blackdiamand’s site",
+      "title": "Create The World's Simplest Trading Bot, For Free!",
+      "link": "https://blackdiamand.github.io/trading/2024/03/26/bot-guide-simple.html",
+      "author": "blackdiamand's site",
       "date": "2024-03-26",
-      "description": "Create your own trading bot"
+      "description": "Create your own trading bot This is an unofficial guide and not created by Manifold If you notice something doesn’t work, report it on Discord, in the api-and-bots channel. You are responsible fo..."
     },
     {
       "title": "Functional Refactoring: Wordle",
@@ -519,9 +526,9 @@
       "description": "There seems to be a notion that owning an expensive computer is necessary to study computer science. While I do think that buying the most expensive notebook at Best-Buy would probably be the most con..."
     },
     {
-      "title": "Alaska’s Top Four Primary, Game Theory, and How to Not Campaign in a Ranked Choice Election",
-      "link": "/alaska/2023/01/06/alaska-game-theory.html",
-      "author": "blackdiamand’s site",
+      "title": "Alaska's Top Four Primary, Game Theory, and How to Not Campaign in a Ranked Choice Election",
+      "link": "https://blackdiamand.github.io/alaska/2023/01/06/alaska-game-theory.html",
+      "author": "blackdiamand's site",
       "date": "2023-01-06",
       "description": "How to Not Campaign in a Ranked Choice Election Don’t attack your allies Background Alaska’s new electoral system, adopted by voters in a 2020 referendum, has created some interesting results. In..."
     },
