@@ -6,7 +6,7 @@
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
     <pubDate>Mon, 25 Aug 2025 03:00:00 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Aug 2025 01:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 01:22:02 +0000</lastBuildDate>
     <item>
       <title>Adding Mermaid Diagrams to Rehype in Astro (With rehype-mermaid-cli)</title>
       <link>https://dteather.com/blogs/astro-rehype-mermaid-cli/</link>
@@ -32,20 +32,20 @@
       <guid>https://dteather.com/blogs/reflections-a-year-into-my-career/</guid>
     </item>
     <item>
-      <title>Brief overview of CPU caching</title>
-      <link>https://jamesma.dev/2025/cpu-caching/</link>
-      <description>Why caches Over the years, the gap between the throughput of the processor and the throughput of main memory has widened. Programs cannot make use of higher processor speeds or a large number of cores...</description>
-      <author>James Ma</author>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://jamesma.dev/2025/cpu-caching/</guid>
-    </item>
-    <item>
       <title>CS + Data Science Done Right</title>
       <link>https://salm.dev/writing/cs-data-science-done-right/</link>
       <description>Why most students waste this easy double major combination and how to actually build valuable skills instead of just collecting credentials.</description>
       <author>salm.dev</author>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://salm.dev/writing/cs-data-science-done-right/</guid>
+    </item>
+    <item>
+      <title>Brief overview of CPU caching</title>
+      <link>https://jamesma.dev/2025/cpu-caching/</link>
+      <description>Why caches Over the years, the gap between the throughput of the processor and the throughput of main memory has widened. Programs cannot make use of higher processor speeds or a large number of cores...</description>
+      <author>James Ma</author>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesma.dev/2025/cpu-caching/</guid>
     </item>
     <item>
       <title>Letting Go</title>
@@ -304,6 +304,14 @@
       <guid>https://jamesma.dev/2024/deriving-backpropogation/</guid>
     </item>
     <item>
+      <title>Problems and Solutions to Long term Prediction Markets</title>
+      <link>/2024/09/02/longterm-markets.html</link>
+      <description>Long term forecasting and prediction markets</description>
+      <author>blackdiamand’s site</author>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/2024/09/02/longterm-markets.html</guid>
+    </item>
+    <item>
       <title>On Competitive Programming</title>
       <link>https://scharenbroch.dev/blog/on-competitive-programming/</link>
       <description>What is Competitive Programming? “Competitive Programming” by its name encompasses all programming done in competitive nature. This post will specifically focus on and use the term “competiti...</description>
@@ -464,6 +472,14 @@
       <guid>https://scharenbroch.dev/blog/speedrunning-college/</guid>
     </item>
     <item>
+      <title>Create The World’s Simplest Trading Bot, For Free!</title>
+      <link>/trading/2024/03/26/bot-guide-simple.html</link>
+      <description>Create your own trading bot</description>
+      <author>blackdiamand’s site</author>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/trading/2024/03/26/bot-guide-simple.html</guid>
+    </item>
+    <item>
       <title>Functional Refactoring: Wordle</title>
       <link>https://scharenbroch.dev/blog/functional-refactoring-wordle/</link>
       <description>Functional programming FP has an odd status among developers. It is1 simultaneously loved and feared. I suspect most programmers would agree that maps and folds are useful, but concepts like immutab...</description>
@@ -582,6 +598,14 @@
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Mon, 26 Jun 2023 18:26:55 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/using-a-chromebook-as-a-cs-student/</guid>
+    </item>
+    <item>
+      <title>Alaska’s Top Four Primary, Game Theory, and How to Not Campaign in a Ranked Choice Election</title>
+      <link>/alaska/2023/01/06/alaska-game-theory.html</link>
+      <description>How to Not Campaign in a Ranked Choice Election Don’t attack your allies Background Alaska’s new electoral system, adopted by voters in a 2020 referendum, has created some interesting results. In...</description>
+      <author>blackdiamand’s site</author>
+      <pubDate>Fri, 06 Jan 2023 00:19:00 +0000</pubDate>
+      <guid>/alaska/2023/01/06/alaska-game-theory.html</guid>
     </item>
     <item>
       <title>Exploring the Anshel-Anshel-Goldfeld Key Exchange System</title>
