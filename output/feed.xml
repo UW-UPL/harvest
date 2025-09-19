@@ -6,7 +6,7 @@
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
     <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
-    <lastBuildDate>Tue, 16 Sep 2025 00:59:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 01:01:18 +0000</lastBuildDate>
     <item>
       <title>Learning C++ part 1: lvalues, rvalues, and move semantics</title>
       <link>https://jamesma.dev/2025/rvalues/</link>
