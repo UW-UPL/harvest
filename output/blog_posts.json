@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Nash Equilibria Hide from Algorithms",
+      "link": "https://salm.dev/writing/nash-equilibria-hide-from-algorithms/",
+      "author": "Nico Salm",
+      "date": "2025-09-30",
+      "description": "Mathematics proves Nash equilibria must exist in every game, but computer science proves we can't find them efficiently."
+    },
+    {
       "title": "Learning C++ part 1: lvalues, rvalues, and move semantics",
       "link": "https://jamesma.dev/2025/rvalues/",
       "author": "James Ma",
@@ -117,7 +124,7 @@
       "link": "https://salm.dev/writing/winning-pokemon-showdown/",
       "author": "Nico Salm",
       "date": "2025-05-11",
-      "description": "We examined Pokémon Showdown battles using game theory and identified the mathematically optimal strategies."
+      "description": "We used game theory to find the mathematically optimal strategies in Pokémon Showdown battles."
     },
     {
       "title": "Automating keyword extraction and ranking to enhance a resume",
