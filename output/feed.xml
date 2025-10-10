@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-    <lastBuildDate>Tue, 07 Oct 2025 01:00:05 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Oct 2025 01:00:10 +0000</lastBuildDate>
+    <item>
+      <title>Learning C++ part 2: smart pointers speedrun</title>
+      <link>https://jamesma.dev/2025/smart-pointers/</link>
+      <description>Raw pointers can be useful when you want to manipulate memory directly, but using them comes with consequences if improperly managed, e.g. if you forget to free a pointer, free a pointer more than onc...</description>
+      <author>James Ma</author>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesma.dev/2025/smart-pointers/</guid>
+    </item>
     <item>
       <title>Nash Equilibria Hide from Algorithms</title>
       <link>https://salm.dev/writing/nash-equilibria-hide-from-algorithms/</link>
@@ -64,20 +72,20 @@
       <guid>https://dteather.com/blogs/reflections-a-year-into-my-career/</guid>
     </item>
     <item>
-      <title>Brief overview of CPU caching</title>
-      <link>https://jamesma.dev/2025/cpu-caching/</link>
-      <description>Why caches Over the years, the gap between the throughput of the processor and the throughput of main memory has widened. Programs cannot make use of higher processor speeds or a large number of cores...</description>
-      <author>James Ma</author>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://jamesma.dev/2025/cpu-caching/</guid>
-    </item>
-    <item>
       <title>CS + Data Science Done Right</title>
       <link>https://salm.dev/writing/cs-data-science-done-right/</link>
       <description>Why most students waste this easy double major combination and how to actually build valuable skills instead of just collecting credentials.</description>
       <author>Nico Salm</author>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://salm.dev/writing/cs-data-science-done-right/</guid>
+    </item>
+    <item>
+      <title>Brief overview of CPU caching</title>
+      <link>https://jamesma.dev/2025/cpu-caching/</link>
+      <description>Why caches Over the years, the gap between the throughput of the processor and the throughput of main memory has widened. Programs cannot make use of higher processor speeds or a large number of cores...</description>
+      <author>James Ma</author>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesma.dev/2025/cpu-caching/</guid>
     </item>
     <item>
       <title>Letting Go</title>
@@ -254,14 +262,6 @@
       <author>James Ma</author>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://jamesma.dev/2024/bad-grammar/</guid>
-    </item>
-    <item>
-      <title>Currying C functions using a heap-based trampoline</title>
-      <link>https://jamesma.dev/2024/currying-in-c/</link>
-      <description>Suppose you have a function and an argument that you want to send off to a worker thread. The canonical way to do this in C is via pthreadcreate. $ man pthreadcreate SYNOPSIS include pthread.h...</description>
-      <author>James Ma</author>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://jamesma.dev/2024/currying-in-c/</guid>
     </item>
     <item>
       <title>Obligatory Meta First Post About Creating This Blog</title>
