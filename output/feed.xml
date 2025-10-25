@@ -6,7 +6,7 @@
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
     <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
-    <lastBuildDate>Wed, 22 Oct 2025 01:04:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 01:00:56 +0000</lastBuildDate>
     <item>
       <title>Learning C++ part 2: smart pointers speedrun</title>
       <link>https://jamesma.dev/2025/smart-pointers/</link>
@@ -72,20 +72,20 @@
       <guid>https://dteather.com/blogs/reflections-a-year-into-my-career/</guid>
     </item>
     <item>
-      <title>CS + Data Science Done Right</title>
-      <link>https://salm.dev/writing/cs-data-science-done-right/</link>
-      <description>Why most students waste this easy double major combination and how to actually build valuable skills instead of just collecting credentials.</description>
-      <author>Nico Salm</author>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/writing/cs-data-science-done-right/</guid>
-    </item>
-    <item>
       <title>Brief overview of CPU caching</title>
       <link>https://jamesma.dev/2025/cpu-caching/</link>
       <description>Why caches Over the years, the gap between the throughput of the processor and the throughput of main memory has widened. Programs cannot make use of higher processor speeds or a large number of cores...</description>
       <author>James Ma</author>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://jamesma.dev/2025/cpu-caching/</guid>
+    </item>
+    <item>
+      <title>CS + Data Science Done Right</title>
+      <link>https://salm.dev/writing/cs-data-science-done-right/</link>
+      <description>Why most students waste this easy double major combination and how to actually build valuable skills instead of just collecting credentials.</description>
+      <author>Nico Salm</author>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/writing/cs-data-science-done-right/</guid>
     </item>
     <item>
       <title>Letting Go</title>
