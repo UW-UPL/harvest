@@ -8,7 +8,7 @@
       "description": "In this post we’ll iteratively improve on multiplying two random 1024 x 1024 float matrices, resulting in a 20x speedup on CPU. We’ll mostly focus on how different mathematical interpretations of..."
     },
     {
-      "title": "Learning C++ part 2: smart pointers speedrun",
+      "title": "C++ smart pointers speedrun",
       "link": "https://jamesma.dev/2025/smart-pointers/",
       "author": "James Ma",
       "date": "2025-10-04",
@@ -22,7 +22,7 @@
       "description": "Mathematics proves Nash equilibria must exist in every game, but computer science proves we can't find them efficiently."
     },
     {
-      "title": "Learning C++ part 1: lvalues, rvalues, and move semantics",
+      "title": "Lvalues, rvalues, and move semantics in C++",
       "link": "https://jamesma.dev/2025/rvalues/",
       "author": "James Ma",
       "date": "2025-08-31",

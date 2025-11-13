@@ -6,7 +6,7 @@
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
     <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Nov 2025 01:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 01:05:33 +0000</lastBuildDate>
     <item>
       <title>Matrix multiplication tricks on CPU</title>
       <link>https://jamesma.dev/2025/matmul/</link>
@@ -16,7 +16,7 @@
       <guid>https://jamesma.dev/2025/matmul/</guid>
     </item>
     <item>
-      <title>Learning C++ part 2: smart pointers speedrun</title>
+      <title>C++ smart pointers speedrun</title>
       <link>https://jamesma.dev/2025/smart-pointers/</link>
       <description>Raw pointers can be useful when you want to manipulate memory directly, but using them comes with consequences if improperly managed, e.g. if you forget to free a pointer, free a pointer more than onc...</description>
       <author>James Ma</author>
@@ -32,7 +32,7 @@
       <guid>https://salm.dev/writing/nash-equilibria-hide-from-algorithms/</guid>
     </item>
     <item>
-      <title>Learning C++ part 1: lvalues, rvalues, and move semantics</title>
+      <title>Lvalues, rvalues, and move semantics in C++</title>
       <link>https://jamesma.dev/2025/rvalues/</link>
       <description>I’ve written a decent amount of C, but never really took the time to understand its internals. In the first of what will hopefully become a series of articles, we will look at lvalues, rvalues, an...</description>
       <author>James Ma</author>
