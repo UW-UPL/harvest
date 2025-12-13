@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Regular expression matching",
+      "link": "https://jamesma.dev/2025/regex-matching/",
+      "author": "James Ma",
+      "date": "2025-12-10",
+      "description": "This is a writeup of Leetcode 10. Regular Expression Matching. My motivation for writing this is twofold. The first is that most of the submitted solutions on Leetcode try to be too clever and succinc..."
+    },
+    {
       "title": "It's your fault my laptop knows where I am",
       "link": "https://www.amoses.dev/blog/wifi-location/",
       "author": "Andrew Moses",
@@ -209,13 +216,6 @@
       "author": "Nick Winans",
       "date": "2025-01-26",
       "description": "Real-time Collaborative E-Paper Canvas"
-    },
-    {
-      "title": "A gallery of randomly generated art",
-      "link": "https://jamesma.dev/2025/randomart-gallery/",
-      "author": "James Ma",
-      "date": "2025-01-18",
-      "description": "In a paper from CMU, security researchers describe a nifty algorithm used to generate random images known as RandomArt. In a nutshell, the algorithm takes as input a seed to a pseudo-random number gen..."
     },
     {
       "title": "Learning the NATO phonetic alphabet with the Web Speech API",

@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2025 01:08:32 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+    <lastBuildDate>Sat, 13 Dec 2025 01:04:24 +0000</lastBuildDate>
+    <item>
+      <title>Regular expression matching</title>
+      <link>https://jamesma.dev/2025/regex-matching/</link>
+      <description>This is a writeup of Leetcode 10. Regular Expression Matching. My motivation for writing this is twofold. The first is that most of the submitted solutions on Leetcode try to be too clever and succinc...</description>
+      <author>James Ma</author>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesma.dev/2025/regex-matching/</guid>
+    </item>
     <item>
       <title>It&#39;s your fault my laptop knows where I am</title>
       <link>https://www.amoses.dev/blog/wifi-location/</link>
@@ -246,14 +254,6 @@
       <author>Nick Winans</author>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://nick.winans.io/blog/ink-link/</guid>
-    </item>
-    <item>
-      <title>A gallery of randomly generated art</title>
-      <link>https://jamesma.dev/2025/randomart-gallery/</link>
-      <description>In a paper from CMU, security researchers describe a nifty algorithm used to generate random images known as RandomArt. In a nutshell, the algorithm takes as input a seed to a pseudo-random number gen...</description>
-      <author>James Ma</author>
-      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://jamesma.dev/2025/randomart-gallery/</guid>
     </item>
     <item>
       <title>Learning the NATO phonetic alphabet with the Web Speech API</title>
