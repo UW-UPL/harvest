@@ -5,32 +5,8 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Thu, 01 Jan 2026 01:16:39 +0000</pubDate>
-    <lastBuildDate>Thu, 01 Jan 2026 01:16:39 +0000</lastBuildDate>
-    <item>
-      <title>Command Line Productivity</title>
-      <link>https://salm.dev/writing/command-line-productivity/</link>
-      <description>I describe my minimal, focused, keyboard-centric workflow where I do my best work. In other words: I shill Vim.</description>
-      <author>salm.dev</author>
-      <pubDate>Thu, 01 Jan 2026 01:16:39 +0000</pubDate>
-      <guid>https://salm.dev/writing/command-line-productivity/</guid>
-    </item>
-    <item>
-      <title>Winning Pokemon Showdown</title>
-      <link>https://salm.dev/writing/winning-pokemon-showdown/</link>
-      <description>We used game theory to find the mathematically optimal strategies in Pokémon Showdown battles.</description>
-      <author>salm.dev</author>
-      <pubDate>Thu, 01 Jan 2026 01:16:39 +0000</pubDate>
-      <guid>https://salm.dev/writing/winning-pokemon-showdown/</guid>
-    </item>
-    <item>
-      <title>Create, Don&#39;t Consume</title>
-      <link>https://salm.dev/writing/create-dont-consume/</link>
-      <description>We&#39;re trading long-term fulfillment for short-term dopamine hits, and each trade makes the next one harder to resist.</description>
-      <author>salm.dev</author>
-      <pubDate>Thu, 01 Jan 2026 01:16:39 +0000</pubDate>
-      <guid>https://salm.dev/writing/create-dont-consume/</guid>
-    </item>
+    <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 18:03:17 +0000</lastBuildDate>
     <item>
       <title>A Better Judging Algorithm for the Largest Hackathon in Wisconsin</title>
       <link>https://ben.enterprises/hackathon-judging</link>
@@ -168,12 +144,28 @@
       <guid>https://jamesma.dev/2025/parser-combinators/</guid>
     </item>
     <item>
+      <title>Create, Don&#39;t Consume</title>
+      <link>https://salm.dev/writing/create-dont-consume/</link>
+      <description>We&#39;re trading long-term fulfillment for short-term dopamine hits, and each trade makes the next one harder to resist.</description>
+      <author>salm.dev</author>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/writing/create-dont-consume/</guid>
+    </item>
+    <item>
       <title>Attention as a kernel smoothing problem</title>
       <link>https://jamesma.dev/2025/attention-and-kernel-smoothing/</link>
       <description>Reddit discussion This post is about a rarely discussed interpretation of “attention,” the underlying technique behind transformers, which has found its way into everything from natural language p...</description>
       <author>James Ma</author>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
       <guid>https://jamesma.dev/2025/attention-and-kernel-smoothing/</guid>
+    </item>
+    <item>
+      <title>Winning Pokemon Showdown</title>
+      <link>https://salm.dev/writing/winning-pokemon-showdown/</link>
+      <description>We used game theory to find the mathematically optimal strategies in Pokémon Showdown battles.</description>
+      <author>salm.dev</author>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/writing/winning-pokemon-showdown/</guid>
     </item>
     <item>
       <title>Automating keyword extraction and ranking to enhance a resume</title>
@@ -294,6 +286,14 @@
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Sun, 13 Oct 2024 12:32:05 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/git-cheatsheet-prime/</guid>
+    </item>
+    <item>
+      <title>Command Line Productivity</title>
+      <link>https://salm.dev/writing/command-line-productivity/</link>
+      <description>I describe my minimal, focused, keyboard-centric workflow where I do my best work. In other words: I shill Vim.</description>
+      <author>salm.dev</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/writing/command-line-productivity/</guid>
     </item>
     <item>
       <title>Adding UML Diagrams to Rehype in Astro (With rehype-mermaid)</title>

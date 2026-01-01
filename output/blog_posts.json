@@ -1,27 +1,6 @@
 {
   "posts": [
     {
-      "title": "Command Line Productivity",
-      "link": "https://salm.dev/writing/command-line-productivity/",
-      "author": "salm.dev",
-      "date": "2026-01-01",
-      "description": "I describe my minimal, focused, keyboard-centric workflow where I do my best work. In other words: I shill Vim."
-    },
-    {
-      "title": "Winning Pokemon Showdown",
-      "link": "https://salm.dev/writing/winning-pokemon-showdown/",
-      "author": "salm.dev",
-      "date": "2026-01-01",
-      "description": "We used game theory to find the mathematically optimal strategies in Pokémon Showdown battles."
-    },
-    {
-      "title": "Create, Don't Consume",
-      "link": "https://salm.dev/writing/create-dont-consume/",
-      "author": "salm.dev",
-      "date": "2026-01-01",
-      "description": "We're trading long-term fulfillment for short-term dopamine hits, and each trade makes the next one harder to resist."
-    },
-    {
       "title": "A Better Judging Algorithm for the Largest Hackathon in Wisconsin",
       "link": "https://ben.enterprises/hackathon-judging",
       "author": "ben.enterprises Blog",
@@ -141,11 +120,25 @@
       "description": "A while ago, Tsoding did a stream on parsing JSON with parser combinators. I was curious how hard it would be to use the basic parsers he implemented to create a new parser for U.S. postal addresses...."
     },
     {
+      "title": "Create, Don't Consume",
+      "link": "https://salm.dev/writing/create-dont-consume/",
+      "author": "salm.dev",
+      "date": "2025-06-27",
+      "description": "We're trading long-term fulfillment for short-term dopamine hits, and each trade makes the next one harder to resist."
+    },
+    {
       "title": "Attention as a kernel smoothing problem",
       "link": "https://jamesma.dev/2025/attention-and-kernel-smoothing/",
       "author": "James Ma",
       "date": "2025-05-23",
       "description": "Reddit discussion This post is about a rarely discussed interpretation of “attention,” the underlying technique behind transformers, which has found its way into everything from natural language p..."
+    },
+    {
+      "title": "Winning Pokemon Showdown",
+      "link": "https://salm.dev/writing/winning-pokemon-showdown/",
+      "author": "salm.dev",
+      "date": "2025-05-11",
+      "description": "We used game theory to find the mathematically optimal strategies in Pokémon Showdown battles."
     },
     {
       "title": "Automating keyword extraction and ranking to enhance a resume",
@@ -251,6 +244,13 @@
       "author": "Blog on Lucas's Webpage",
       "date": "2024-10-13",
       "description": "I’m an enthusiast and daily user of git’s command line interface 1. While GUIs offer advantages in visualization and intuition2, they greatly fall short in power3, concision, and extensibility. Li..."
+    },
+    {
+      "title": "Command Line Productivity",
+      "link": "https://salm.dev/writing/command-line-productivity/",
+      "author": "salm.dev",
+      "date": "2024-10-10",
+      "description": "I describe my minimal, focused, keyboard-centric workflow where I do my best work. In other words: I shill Vim."
     },
     {
       "title": "Adding UML Diagrams to Rehype in Astro (With rehype-mermaid)",
