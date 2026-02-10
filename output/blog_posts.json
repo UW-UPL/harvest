@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Dynamic linking with lazy binding",
+      "link": "https://jamesma.dev/2026/dynamic-linking/",
+      "author": "James Ma",
+      "date": "2026-02-05",
+      "description": "I recently had to debug a dynamic linking issue. This took me down a rabbit hole exploring how dynamic linkers work - in particular, how a dynamic linker resolves an external function at runtime. How..."
+    },
+    {
       "title": "From Rivers Rose Empires",
       "link": "https://salm.dev/writing/from-rivers-rose-empires/",
       "author": "salm.dev",
@@ -181,13 +188,6 @@
       "author": "Nick Winans",
       "date": "2025-02-23",
       "description": "Sharing my Shopify store's automations after 3 years of optimization"
-    },
-    {
-      "title": "Configuring external storage devices for Jellyfin",
-      "link": "https://jamesma.dev/2025/jellyfin-guide/",
-      "author": "James Ma",
-      "date": "2025-02-15",
-      "description": "This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ..."
     },
     {
       "title": "Adding Giscus Discussions to Astro",
