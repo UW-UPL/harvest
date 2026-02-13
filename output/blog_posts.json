@@ -10,7 +10,7 @@
     {
       "title": "From Rivers Rose Empires",
       "link": "https://salm.dev/writing/from-rivers-rose-empires/",
-      "author": "salm.dev",
+      "author": "Nico Salm",
       "date": "2026-01-04",
       "description": "No really, where would we be without them?"
     },
@@ -136,7 +136,7 @@
     {
       "title": "Create, Don't Consume",
       "link": "https://salm.dev/writing/create-dont-consume/",
-      "author": "salm.dev",
+      "author": "Nico Salm",
       "date": "2025-06-27",
       "description": "We're trading long-term fulfillment for short-term dopamine hits, and each trade makes the next one harder to resist."
     },
@@ -150,7 +150,7 @@
     {
       "title": "Winning Pokemon Showdown",
       "link": "https://salm.dev/writing/winning-pokemon-showdown/",
-      "author": "salm.dev",
+      "author": "Nico Salm",
       "date": "2025-05-11",
       "description": "We used game theory to find the mathematically optimal strategies in Pokémon Showdown battles."
     },
@@ -211,13 +211,6 @@
       "description": "and they told me \"video games can't teach you anything\""
     },
     {
-      "title": "List of WISCERS 2024 Faculty Mentors",
-      "link": "https://www.noguera.dev/blog/2024/12/09/list-of-wiscers-2024-faculty-mentors/",
-      "author": "Blog on Michael Noguera",
-      "date": "2024-12-09",
-      "description": "I participated in Wisconsin Science and Computing Emerging Research Stars WISCERS as part of the 2022-23 cohort and really enjoyed the experience. Even if you’re uncertain, you should definetly ap..."
-    },
-    {
       "title": "Obligatory Meta First Post About Creating This Blog",
       "link": "https://ben.enterprises/hello-blog",
       "author": "ben.enterprises Blog",
@@ -255,7 +248,7 @@
     {
       "title": "Command Line Productivity",
       "link": "https://salm.dev/writing/command-line-productivity/",
-      "author": "salm.dev",
+      "author": "Nico Salm",
       "date": "2024-10-10",
       "description": "I describe my minimal, focused, keyboard-centric workflow where I do my best work. In other words: I shill Vim."
     },
@@ -526,25 +519,11 @@
       "description": "How to Not Campaign in a Ranked Choice Election Don’t attack your allies Background Alaska’s new electoral system, adopted by voters in a 2020 referendum, has created some interesting results. In..."
     },
     {
-      "title": "Exploring the Anshel-Anshel-Goldfeld Key Exchange System",
-      "link": "https://www.noguera.dev/blog/2022/12/28/exploring-the-anshel-anshel-goldfeld-key-exchange-system/",
-      "author": "Blog on Michael Noguera",
-      "date": "2022-12-28",
-      "description": "Final project for CS 642 Information Security at UW-Madison, Fall 2022 sophomore year. Two UPL friends and I implemented the Anshel-Anshel-Goldfeld key exchange protocol and wrote our term paper a..."
-    },
-    {
       "title": "LINK.social Exposed Users' Sensitive Information \u0026 Mass Account Hijacking",
       "link": "https://dteather.com/blogs/link-social-exposing-sensitive-personal-information/",
       "author": "David Teather",
       "date": "2022-07-14",
       "description": "Learn how LINK.social exposed sensitive user information, including locations, phone numbers, and birthdays, along with vulnerabilities allowing mass account hijacking."
-    },
-    {
-      "title": "A CS Course Map for Incoming UW-Madison Students",
-      "link": "https://www.noguera.dev/course-map/",
-      "author": "Blog on Michael Noguera",
-      "date": "2022-06-07",
-      "description": "Visit post for details."
     },
     {
       "title": "YikYak Is Exposing Millions of User Locations",
@@ -561,67 +540,11 @@
       "description": "Finding a way around GitHub's build matrix limits with GitHub Script"
     },
     {
-      "title": "Hugo Shortcode: License Badges on Code Blocks",
-      "link": "https://www.noguera.dev/blog/2021/12/22/hugo-shortcode-license-badges-on-code-blocks/",
-      "author": "Blog on Michael Noguera",
-      "date": "2021-12-22",
-      "description": "One of my favorite features of the static site generator Hugo is “shortcodes”, which allow you to abstract away chunks of website content and invoke them from your markdown posts. The Hugo communi..."
-    },
-    {
       "title": "Mysterious Broken Bootloader",
       "link": "https://nick.winans.io/blog/zmk-bootloader/",
       "author": "Nick Winans",
       "date": "2020-10-03",
       "description": "Investigating and fixing the bootloader woes of ZMK"
-    },
-    {
-      "title": "AP Chem: Spectrophotometric Mixture Analysis",
-      "link": "https://www.noguera.dev/blog/2020/01/14/ap-chem-spectrophotometric-mixture-analysis/",
-      "author": "Blog on Michael Noguera",
-      "date": "2020-01-14",
-      "description": "To determine the composition of a mystery mixture consisting of various types of food coloring, I wrote this program that works with Vernier’s Spectral Analysis software."
-    },
-    {
-      "title": "Zybooks Autoplay",
-      "link": "https://www.noguera.dev/blog/2019/10/04/zybooks-autoplay/",
-      "author": "Blog on Michael Noguera",
-      "date": "2019-10-04",
-      "description": "Zybooks online textbooks include animated activities that you must watch to completion. This script makes them auto-play at double speed when you load the page."
-    },
-    {
-      "title": "TJCTF 2019: All The Zips",
-      "link": "https://www.noguera.dev/blog/2019/04/06/tjctf-2019-all-the-zips/",
-      "author": "Blog on Michael Noguera",
-      "date": "2019-04-06",
-      "description": "Forensics - 20 points 140 zips in the zip, all protected by a dictionary word. This was the first zip file challenge that I attempted. Afterwards, I have noticed that almost every CTF competition has..."
-    },
-    {
-      "title": "Reverse Engineering the Wisconsin Driver Practice Test",
-      "link": "https://www.noguera.dev/blog/2019/04/04/reverse-engineering-the-wisconsin-driver-practice-test/",
-      "author": "Blog on Michael Noguera",
-      "date": "2019-04-04",
-      "description": "Note from a future me, after I took the test: It’s pretty easy but it tries to trick you. Glance over these questions because they were good to know. The Problem I am currently taking Drivers’ Ed,..."
-    },
-    {
-      "title": "Hack This Site: Basic Challenges",
-      "link": "https://www.noguera.dev/blog/2018/12/03/hack-this-site-basic-challenges/",
-      "author": "Blog on Michael Noguera",
-      "date": "2018-12-03",
-      "description": "Basic 1: HTML Comment This level is what we call “The Idiot Test”, if you can’t complete it, don’t give up on learning all you can, but, don’t go begging to someone else for the answer, that..."
-    },
-    {
-      "title": "How To: Blind SQL Injection, HSCTF 2018: Password",
-      "link": "https://www.noguera.dev/blog/2018/07/19/how-to-blind-sql-injection-hsctf-2018-password/",
-      "author": "Blog on Michael Noguera",
-      "date": "2018-07-19",
-      "description": "Here are some rudimentary notes on how I solved the challenge ‘Password’ for HSCTF 2018. The puzzle gave a mock-up social media website with a login form, and asked that you retrieve Keith’s pas..."
-    },
-    {
-      "title": "Making backups of hard drives using the bash utility “dd”",
-      "link": "https://www.noguera.dev/blog/2018/07/18/making-backups-of-hard-drives-using-the-bash-utility-dd/",
-      "author": "Blog on Michael Noguera",
-      "date": "2018-07-18",
-      "description": "I had an old corrupted hard drive that I needed to back up so that it could be reused."
     }
   ]
 }
