@@ -6,7 +6,7 @@
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
     <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Feb 2026 01:43:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 01:26:44 +0000</lastBuildDate>
     <item>
       <title>Dynamic linking with lazy binding</title>
       <link>https://jamesma.dev/2026/dynamic-linking/</link>
@@ -246,6 +246,14 @@
       <author>Andrew Moses</author>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.amoses.dev/blog/nato-alphabet/</guid>
+    </item>
+    <item>
+      <title>List of WISCERS 2024 Faculty Mentors</title>
+      <link>https://www.noguera.dev/blog/2024/12/09/list-of-wiscers-2024-faculty-mentors/</link>
+      <description>I participated in Wisconsin Science and Computing Emerging Research Stars WISCERS as part of the 2022-23 cohort and really enjoyed the experience. Even if you’re uncertain, you should definetly ap...</description>
+      <author>Blog on Michael Noguera</author>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.noguera.dev/blog/2024/12/09/list-of-wiscers-2024-faculty-mentors/</guid>
     </item>
     <item>
       <title>Obligatory Meta First Post About Creating This Blog</title>
@@ -600,12 +608,28 @@
       <guid>https://blackdiamand.github.io/alaska/2023/01/06/alaska-game-theory.html</guid>
     </item>
     <item>
+      <title>Exploring the Anshel-Anshel-Goldfeld Key Exchange System</title>
+      <link>https://www.noguera.dev/blog/2022/12/28/exploring-the-anshel-anshel-goldfeld-key-exchange-system/</link>
+      <description>Final project for CS 642 Information Security at UW-Madison, Fall 2022 sophomore year. Two UPL friends and I implemented the Anshel-Anshel-Goldfeld key exchange protocol and wrote our term paper a...</description>
+      <author>Blog on Michael Noguera</author>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.noguera.dev/blog/2022/12/28/exploring-the-anshel-anshel-goldfeld-key-exchange-system/</guid>
+    </item>
+    <item>
       <title>LINK.social Exposed Users&#39; Sensitive Information &amp; Mass Account Hijacking</title>
       <link>https://dteather.com/blogs/link-social-exposing-sensitive-personal-information/</link>
       <description>Learn how LINK.social exposed sensitive user information, including locations, phone numbers, and birthdays, along with vulnerabilities allowing mass account hijacking.</description>
       <author>David Teather</author>
       <pubDate>Thu, 14 Jul 2022 15:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/link-social-exposing-sensitive-personal-information/</guid>
+    </item>
+    <item>
+      <title>A CS Course Map for Incoming UW-Madison Students</title>
+      <link>https://www.noguera.dev/course-map/</link>
+      <description>Visit post for details.</description>
+      <author>Blog on Michael Noguera</author>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.noguera.dev/course-map/</guid>
     </item>
     <item>
       <title>YikYak Is Exposing Millions of User Locations</title>
@@ -624,12 +648,76 @@
       <guid>https://nick.winans.io/blog/exploiting-github-actions/</guid>
     </item>
     <item>
+      <title>Hugo Shortcode: License Badges on Code Blocks</title>
+      <link>https://www.noguera.dev/blog/2021/12/22/hugo-shortcode-license-badges-on-code-blocks/</link>
+      <description>One of my favorite features of the static site generator Hugo is “shortcodes”, which allow you to abstract away chunks of website content and invoke them from your markdown posts. The Hugo communi...</description>
+      <author>Blog on Michael Noguera</author>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.noguera.dev/blog/2021/12/22/hugo-shortcode-license-badges-on-code-blocks/</guid>
+    </item>
+    <item>
       <title>Mysterious Broken Bootloader</title>
       <link>https://nick.winans.io/blog/zmk-bootloader/</link>
       <description>Investigating and fixing the bootloader woes of ZMK</description>
       <author>Nick Winans</author>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://nick.winans.io/blog/zmk-bootloader/</guid>
+    </item>
+    <item>
+      <title>AP Chem: Spectrophotometric Mixture Analysis</title>
+      <link>https://www.noguera.dev/blog/2020/01/14/ap-chem-spectrophotometric-mixture-analysis/</link>
+      <description>To determine the composition of a mystery mixture consisting of various types of food coloring, I wrote this program that works with Vernier’s Spectral Analysis software.</description>
+      <author>Blog on Michael Noguera</author>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.noguera.dev/blog/2020/01/14/ap-chem-spectrophotometric-mixture-analysis/</guid>
+    </item>
+    <item>
+      <title>Zybooks Autoplay</title>
+      <link>https://www.noguera.dev/blog/2019/10/04/zybooks-autoplay/</link>
+      <description>Zybooks online textbooks include animated activities that you must watch to completion. This script makes them auto-play at double speed when you load the page.</description>
+      <author>Blog on Michael Noguera</author>
+      <pubDate>Fri, 04 Oct 2019 12:00:44 -0500</pubDate>
+      <guid>https://www.noguera.dev/blog/2019/10/04/zybooks-autoplay/</guid>
+    </item>
+    <item>
+      <title>TJCTF 2019: All The Zips</title>
+      <link>https://www.noguera.dev/blog/2019/04/06/tjctf-2019-all-the-zips/</link>
+      <description>Forensics - 20 points 140 zips in the zip, all protected by a dictionary word. This was the first zip file challenge that I attempted. Afterwards, I have noticed that almost every CTF competition has...</description>
+      <author>Blog on Michael Noguera</author>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.noguera.dev/blog/2019/04/06/tjctf-2019-all-the-zips/</guid>
+    </item>
+    <item>
+      <title>Reverse Engineering the Wisconsin Driver Practice Test</title>
+      <link>https://www.noguera.dev/blog/2019/04/04/reverse-engineering-the-wisconsin-driver-practice-test/</link>
+      <description>Note from a future me, after I took the test: It’s pretty easy but it tries to trick you. Glance over these questions because they were good to know. The Problem I am currently taking Drivers’ Ed,...</description>
+      <author>Blog on Michael Noguera</author>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.noguera.dev/blog/2019/04/04/reverse-engineering-the-wisconsin-driver-practice-test/</guid>
+    </item>
+    <item>
+      <title>Hack This Site: Basic Challenges</title>
+      <link>https://www.noguera.dev/blog/2018/12/03/hack-this-site-basic-challenges/</link>
+      <description>Basic 1: HTML Comment This level is what we call “The Idiot Test”, if you can’t complete it, don’t give up on learning all you can, but, don’t go begging to someone else for the answer, that...</description>
+      <author>Blog on Michael Noguera</author>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.noguera.dev/blog/2018/12/03/hack-this-site-basic-challenges/</guid>
+    </item>
+    <item>
+      <title>How To: Blind SQL Injection, HSCTF 2018: Password</title>
+      <link>https://www.noguera.dev/blog/2018/07/19/how-to-blind-sql-injection-hsctf-2018-password/</link>
+      <description>Here are some rudimentary notes on how I solved the challenge ‘Password’ for HSCTF 2018. The puzzle gave a mock-up social media website with a login form, and asked that you retrieve Keith’s pas...</description>
+      <author>Blog on Michael Noguera</author>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.noguera.dev/blog/2018/07/19/how-to-blind-sql-injection-hsctf-2018-password/</guid>
+    </item>
+    <item>
+      <title>Making backups of hard drives using the bash utility “dd”</title>
+      <link>https://www.noguera.dev/blog/2018/07/18/making-backups-of-hard-drives-using-the-bash-utility-dd/</link>
+      <description>I had an old corrupted hard drive that I needed to back up so that it could be reused.</description>
+      <author>Blog on Michael Noguera</author>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.noguera.dev/blog/2018/07/18/making-backups-of-hard-drives-using-the-bash-utility-dd/</guid>
     </item>
   </channel>
 </rss>
