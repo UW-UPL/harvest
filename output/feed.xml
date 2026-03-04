@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Sun, 01 Mar 2026 01:44:31 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Mar 2026 01:22:32 +0000</lastBuildDate>
+    <item>
+      <title>As Bad atime as Any: Every Read a Write</title>
+      <link>https://ben.enterprises/as-bad-atime-as-any</link>
+      <description>Visit post for details.</description>
+      <author>ben.enterprises Blog</author>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ben.enterprises/as-bad-atime-as-any</guid>
+    </item>
     <item>
       <title>Dynamic linking with lazy binding</title>
       <link>https://jamesma.dev/2026/dynamic-linking/</link>

@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "As Bad atime as Any: Every Read a Write",
+      "link": "https://ben.enterprises/as-bad-atime-as-any",
+      "author": "ben.enterprises Blog",
+      "date": "2026-03-03",
+      "description": "Visit post for details."
+    },
+    {
       "title": "Dynamic linking with lazy binding",
       "link": "https://jamesma.dev/2026/dynamic-linking/",
       "author": "James Ma",
