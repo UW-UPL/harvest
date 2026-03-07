@@ -99,13 +99,6 @@
       "description": "A brain dump of lessons, advice, and realizations from my first year as a new grad software engineer. Take what’s useful, ignore the rest."
     },
     {
-      "title": "Brief overview of CPU caching",
-      "link": "https://jamesma.dev/2025/cpu-caching/",
-      "author": "James Ma",
-      "date": "2025-08-15",
-      "description": "Why caches Over the years, the gap between the throughput of the processor and the throughput of main memory has widened. Programs cannot make use of higher processor speeds or a large number of cores..."
-    },
-    {
       "title": "Letting Go",
       "link": "https://scharenbroch.dev/blog/letting-go/",
       "author": "Blog on Lucas's Webpage",
@@ -195,6 +188,13 @@
       "author": "Nick Winans",
       "date": "2025-02-23",
       "description": "Sharing my Shopify store's automations after 3 years of optimization"
+    },
+    {
+      "title": "Configuring external storage devices for Jellyfin",
+      "link": "https://jamesma.dev/2025/jellyfin-guide/",
+      "author": "James Ma",
+      "date": "2025-02-15",
+      "description": "This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ..."
     },
     {
       "title": "Adding Giscus Discussions to Astro",

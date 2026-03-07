@@ -6,7 +6,7 @@
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
     <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Wed, 04 Mar 2026 01:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 01:19:53 +0000</lastBuildDate>
     <item>
       <title>As Bad atime as Any: Every Read a Write</title>
       <link>https://ben.enterprises/as-bad-atime-as-any</link>
@@ -120,14 +120,6 @@
       <guid>https://dteather.com/blogs/reflections-a-year-into-my-career/</guid>
     </item>
     <item>
-      <title>Brief overview of CPU caching</title>
-      <link>https://jamesma.dev/2025/cpu-caching/</link>
-      <description>Why caches Over the years, the gap between the throughput of the processor and the throughput of main memory has widened. Programs cannot make use of higher processor speeds or a large number of cores...</description>
-      <author>James Ma</author>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://jamesma.dev/2025/cpu-caching/</guid>
-    </item>
-    <item>
       <title>Letting Go</title>
       <link>https://scharenbroch.dev/blog/letting-go/</link>
       <description>Most normal people find skydiving frightening, and for good reason1. When you jump out of the plane, you put complete trust in your parachute2. Letting go of the aircraft becomes an act of faith3. Whi...</description>
@@ -230,6 +222,14 @@
       <author>Nick Winans</author>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://nick.winans.io/blog/ecommerce-automations/</guid>
+    </item>
+    <item>
+      <title>Configuring external storage devices for Jellyfin</title>
+      <link>https://jamesma.dev/2025/jellyfin-guide/</link>
+      <description>This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ...</description>
+      <author>James Ma</author>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesma.dev/2025/jellyfin-guide/</guid>
     </item>
     <item>
       <title>Adding Giscus Discussions to Astro</title>
