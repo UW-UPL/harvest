@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "MadHacks Potpourri",
+      "link": "https://www.amoses.dev/blog/madhacks-potpourri/",
+      "author": "Andrew Moses",
+      "date": "2026-03-07",
+      "description": "Some hacks for hacking a hackathon"
+    },
+    {
       "title": "As Bad atime as Any: Every Read a Write",
       "link": "https://ben.enterprises/as-bad-atime-as-any",
       "author": "ben.enterprises Blog",
@@ -215,7 +222,7 @@
       "link": "https://www.amoses.dev/blog/nato-alphabet/",
       "author": "Andrew Moses",
       "date": "2024-12-29",
-      "description": "and they told me \"video games can't teach you anything\""
+      "description": "...and they told me \"video games can't teach you anything\""
     },
     {
       "title": "List of WISCERS 2024 Faculty Mentors",
@@ -250,7 +257,7 @@
       "link": "https://www.amoses.dev/blog/upl-people-counter/",
       "author": "Andrew Moses",
       "date": "2024-10-14",
-      "description": "who knew figuring out the lab's occupancy would be so much work?"
+      "description": "Who knew figuring out the lab's occupancy would be so much work?"
     },
     {
       "title": "Git Cheatsheet Prime",

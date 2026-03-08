@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Sat, 07 Mar 2026 01:19:53 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2026 09:34:55 +0000</lastBuildDate>
+    <item>
+      <title>MadHacks Potpourri</title>
+      <link>https://www.amoses.dev/blog/madhacks-potpourri/</link>
+      <description>Some hacks for hacking a hackathon</description>
+      <author>Andrew Moses</author>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.amoses.dev/blog/madhacks-potpourri/</guid>
+    </item>
     <item>
       <title>As Bad atime as Any: Every Read a Write</title>
       <link>https://ben.enterprises/as-bad-atime-as-any</link>
@@ -250,7 +258,7 @@
     <item>
       <title>Learning the NATO phonetic alphabet with the Web Speech API</title>
       <link>https://www.amoses.dev/blog/nato-alphabet/</link>
-      <description>and they told me &#34;video games can&#39;t teach you anything&#34;</description>
+      <description>...and they told me &#34;video games can&#39;t teach you anything&#34;</description>
       <author>Andrew Moses</author>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.amoses.dev/blog/nato-alphabet/</guid>
@@ -290,7 +298,7 @@
     <item>
       <title>Revamping the UPL&#39;s people counter</title>
       <link>https://www.amoses.dev/blog/upl-people-counter/</link>
-      <description>who knew figuring out the lab&#39;s occupancy would be so much work?</description>
+      <description>Who knew figuring out the lab&#39;s occupancy would be so much work?</description>
       <author>Andrew Moses</author>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://www.amoses.dev/blog/upl-people-counter/</guid>
