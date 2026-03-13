@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Remote SSH with Zed",
+      "link": "https://salm.dev/writing/remote-ssh-with-zed/",
+      "author": "Nico Salm",
+      "date": "2026-03-11",
+      "description": "How to get Zed's remote SSH working on UW-Madison’s CS lab machines with AFS, load balancers, and all."
+    },
+    {
       "title": "MadHacks Potpourri",
       "link": "https://www.amoses.dev/blog/madhacks-potpourri/",
       "author": "Andrew Moses",

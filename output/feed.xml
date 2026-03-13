@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Tue, 10 Mar 2026 01:20:31 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2026 01:24:21 +0000</lastBuildDate>
+    <item>
+      <title>Remote SSH with Zed</title>
+      <link>https://salm.dev/writing/remote-ssh-with-zed/</link>
+      <description>How to get Zed&#39;s remote SSH working on UW-Madison’s CS lab machines with AFS, load balancers, and all.</description>
+      <author>Nico Salm</author>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/writing/remote-ssh-with-zed/</guid>
+    </item>
     <item>
       <title>MadHacks Potpourri</title>
       <link>https://www.amoses.dev/blog/madhacks-potpourri/</link>
