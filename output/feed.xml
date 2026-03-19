@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 01:49:04 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 15:00:00 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 01:29:35 +0000</lastBuildDate>
+    <item>
+      <title>SimpleStreet: A Chrome Extension for StreetEasy</title>
+      <link>https://dteather.com/blogs/simplestreet/</link>
+      <description>I built a Chrome extension to make NYC apartment hunting on StreetEasy less painful by showing move-in dates, hiding noise, and adding notes/tags/ratings.</description>
+      <author>David Teather</author>
+      <pubDate>Mon, 16 Mar 2026 15:00:00 +0000</pubDate>
+      <guid>https://dteather.com/blogs/simplestreet/</guid>
+    </item>
     <item>
       <title>Remote SSH with Zed</title>
       <link>https://salm.dev/writing/remote-ssh-with-zed/</link>
