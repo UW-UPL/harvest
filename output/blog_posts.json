@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "PostgreSQL: Transactions, Row Locks, and Advisory Locks",
+      "link": "https://dteather.com/blogs/postgres-advisory-locks/",
+      "author": "David Teather",
+      "date": "2026-03-27",
+      "description": "How PostgreSQL row locks for update, for share and advisory locks interact: session vs transaction scope, pgadvisoryxactlock, deadlocks, bigint keys, and fetch–lock–refetch."
+    },
+    {
       "title": "SimpleStreet: A Chrome Extension for StreetEasy",
       "link": "https://dteather.com/blogs/simplestreet/",
       "author": "David Teather",

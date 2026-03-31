@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Mon, 16 Mar 2026 15:00:00 +0000</pubDate>
-    <lastBuildDate>Sat, 28 Mar 2026 01:27:18 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 17:00:00 +0000</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2026 01:48:19 +0000</lastBuildDate>
+    <item>
+      <title>PostgreSQL: Transactions, Row Locks, and Advisory Locks</title>
+      <link>https://dteather.com/blogs/postgres-advisory-locks/</link>
+      <description>How PostgreSQL row locks for update, for share and advisory locks interact: session vs transaction scope, pgadvisoryxactlock, deadlocks, bigint keys, and fetch–lock–refetch.</description>
+      <author>David Teather</author>
+      <pubDate>Fri, 27 Mar 2026 17:00:00 +0000</pubDate>
+      <guid>https://dteather.com/blogs/postgres-advisory-locks/</guid>
+    </item>
     <item>
       <title>SimpleStreet: A Chrome Extension for StreetEasy</title>
       <link>https://dteather.com/blogs/simplestreet/</link>
