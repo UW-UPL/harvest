@@ -75,7 +75,7 @@
       "link": "https://jamesma.dev/2025/matmul/",
       "author": "James Ma",
       "date": "2025-10-27",
-      "description": "In this post we’ll iteratively improve on multiplying two random 1024 x 1024 float matrices, resulting in a 20x speedup on CPU. We’ll mostly focus on how different mathematical interpretations of..."
+      "description": "In this post we’ll iteratively improve on multiplying two random 1024 x 1024 float matrices, resulting in a 20x speedup on CPU. We’ll mostly focus on how different mathematical interpretations of matr..."
     },
     {
       "title": "C++ smart pointers speedrun",
@@ -89,14 +89,14 @@
       "link": "https://jamesma.dev/2025/rvalues/",
       "author": "James Ma",
       "date": "2025-08-31",
-      "description": "I’ve written a decent amount of C, but never really took the time to understand its internals. In the first of what will hopefully become a series of articles, we will look at lvalues, rvalues, an..."
+      "description": "I’ve written a decent amount of C, but never really took the time to understand its internals. In the first of what will hopefully become a series of articles, we will look at lvalues, rvalues, and..."
     },
     {
       "title": "How to fight the attention economy",
       "link": "https://jamesma.dev/2025/attention-economy/",
       "author": "James Ma",
       "date": "2025-08-30",
-      "description": "If you’ve ever been to a casino, you’ll notice that there are no clocks, no windows, and no straight angles. Ugly carpet patterns keep your eyes forward as you wander through curved hallways, your..."
+      "description": "If you’ve ever been to a casino, you’ll notice that there are no clocks, no windows, and no straight angles. Ugly carpet patterns keep your eyes forward as you wander through curved hallways, your gaz..."
     },
     {
       "title": "Adding Mermaid Diagrams to Rehype in Astro (With rehype-mermaid-cli)",
@@ -173,7 +173,7 @@
       "link": "https://jamesma.dev/2025/attention-and-kernel-smoothing/",
       "author": "James Ma",
       "date": "2025-05-23",
-      "description": "Reddit discussion This post is about a rarely discussed interpretation of “attention,” the underlying technique behind transformers, which has found its way into everything from natural language p..."
+      "description": "Reddit discussion This post is about a rarely discussed interpretation of “attention,” the underlying technique behind transformers, which has found its way into everything from natural language proce..."
     },
     {
       "title": "Winning Pokemon Showdown",
@@ -201,7 +201,7 @@
       "link": "https://jamesma.dev/2025/future-options-scala/",
       "author": "James Ma",
       "date": "2025-03-19",
-      "description": "In Scala, two interesting concepts you’ll often work with are Futures and Options. A Future is an abstraction for some value that might not be available yet. An Option abstracts over the possibility..."
+      "description": "In Scala, two interesting concepts you’ll often work with are Futures and Options. A Future is an abstraction for some value that might not be available yet. An Option abstracts over the possibility o..."
     },
     {
       "title": "How and Why I made this website",
@@ -222,7 +222,7 @@
       "link": "https://jamesma.dev/2025/jellyfin-guide/",
       "author": "James Ma",
       "date": "2025-02-15",
-      "description": "This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ..."
+      "description": "This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive e..."
     },
     {
       "title": "Adding Giscus Discussions to Astro",
@@ -250,7 +250,7 @@
       "link": "https://www.noguera.dev/blog/2024/12/09/list-of-wiscers-2024-faculty-mentors/",
       "author": "Blog on Michael Noguera",
       "date": "2024-12-09",
-      "description": "I participated in Wisconsin Science and Computing Emerging Research Stars WISCERS as part of the 2022-23 cohort and really enjoyed the experience. Even if you’re uncertain, you should definetly ap..."
+      "description": "I participated in Wisconsin Science and Computing Emerging Research Stars WISCERS as part of the 2022-23 cohort and really enjoyed the experience. Even if you’re uncertain, you should definetly appl..."
     },
     {
       "title": "Obligatory Meta First Post About Creating This Blog",
@@ -271,7 +271,7 @@
       "link": "https://scharenbroch.dev/blog/types-and-programming-languages/",
       "author": "Blog on Lucas's Webpage",
       "date": "2024-10-19",
-      "description": "“Types and Programming Languages” T\u0026PLs is a relatively-esoteric1 textbook about type theory. The professor2 of my college PLs class3 has an old webpage that recommends this book: If you are ser..."
+      "description": "“Types and Programming Languages” T\u0026PLs is a relatively-esoteric1 textbook about type theory. The professor2 of my college PLs class3 has an old webpage that recommends this book: If you are serious..."
     },
     {
       "title": "Revamping the UPL's people counter",
@@ -285,7 +285,7 @@
       "link": "https://scharenbroch.dev/blog/git-cheatsheet-prime/",
       "author": "Blog on Lucas's Webpage",
       "date": "2024-10-13",
-      "description": "I’m an enthusiast and daily user of git’s command line interface 1. While GUIs offer advantages in visualization and intuition2, they greatly fall short in power3, concision, and extensibility. Li..."
+      "description": "I’m an enthusiast and daily user of git’s command line interface 1. While GUIs offer advantages in visualization and intuition2, they greatly fall short in power3, concision, and extensibility. Like v..."
     },
     {
       "title": "Command Line Productivity",
@@ -313,14 +313,14 @@
       "link": "https://scharenbroch.dev/blog/on-competitive-programming/",
       "author": "Blog on Lucas's Webpage",
       "date": "2024-08-31",
-      "description": "What is Competitive Programming? “Competitive Programming” by its name encompasses all programming done in competitive nature. This post will specifically focus on and use the term “competiti..."
+      "description": "What is Competitive Programming? “Competitive Programming” by its name encompasses all programming done in competitive nature. This post will specifically focus on and use the term “competitive pro..."
     },
     {
       "title": "Fueling the Fire",
       "link": "https://scharenbroch.dev/blog/fueling-the-fire/",
       "author": "Blog on Lucas's Webpage",
       "date": "2024-08-30",
-      "description": "Intro Motivation, though often overlooked, is arguably the strongest influence on a developer’s1 productivity. While skills, obstacles, and environments define the challenges we face, motivation def..."
+      "description": "Intro Motivation, though often overlooked, is arguably the strongest influence on a developer’s1 productivity. While skills, obstacles, and environments define the challenges we face, motivation defin..."
     },
     {
       "title": "Is Web Scraping Ethical?",
@@ -355,14 +355,14 @@
       "link": "https://scharenbroch.dev/blog/hacking-is-necessary/",
       "author": "Blog on Lucas's Webpage",
       "date": "2024-06-26",
-      "description": "Note: this isn’t a security post: “hacking” here means “unclean coding”, i.e. “I quickly hacked together a shell script as a temporary fix to the issue”. Sorry, cybersecurity enthusiasts..."
+      "description": "Note: this isn’t a security post: “hacking” here means “unclean coding”, i.e. “I quickly hacked together a shell script as a temporary fix to the issue”. Sorry, cybersecurity enthusiasts. Obsession Ov..."
     },
     {
       "title": "Design Patterns",
       "link": "https://scharenbroch.dev/blog/design-patterns/",
       "author": "Blog on Lucas's Webpage",
       "date": "2024-05-30",
-      "description": "All Hail The Object Design Patterns is a classic book from the 90s that centers around low-level OOP idioms. While I’m sometimes quick to criticize OOP1, I still think there’s a lot of utility in..."
+      "description": "All Hail The Object Design Patterns is a classic book from the 90s that centers around low-level OOP idioms. While I’m sometimes quick to criticize OOP1, I still think there’s a lot of utility in unde..."
     },
     {
       "title": "Punching Through the Board",
@@ -376,14 +376,14 @@
       "link": "https://scharenbroch.dev/blog/the-power-of-the-commit/",
       "author": "Blog on Lucas's Webpage",
       "date": "2024-05-17",
-      "description": "I don’t know of a developer who doesn’t appreciate version control. The undo-on-steroids it provides is convenient and invaluable. But there’s a much more subtle aspect of version control perha..."
+      "description": "I don’t know of a developer who doesn’t appreciate version control. The undo-on-steroids it provides is convenient and invaluable. But there’s a much more subtle aspect of version control perhaps eve..."
     },
     {
       "title": "Rewriting a Toy Compiler",
       "link": "https://scharenbroch.dev/blog/rewriting-a-toy-compiler/",
       "author": "Blog on Lucas's Webpage",
       "date": "2024-05-15",
-      "description": "I’ve written a lot of posts glorifying functional programming lately, but they tend to be abstract and hypothetical. They roughly amount to “ADTs, higher-order-functions, and immutability are usua..."
+      "description": "I’ve written a lot of posts glorifying functional programming lately, but they tend to be abstract and hypothetical. They roughly amount to “ADTs, higher-order-functions, and immutability are usually..."
     },
     {
       "title": "The Breadth-Depth Phase Shift",
@@ -404,7 +404,7 @@
       "link": "https://scharenbroch.dev/blog/computers-are-magic/",
       "author": "Blog on Lucas's Webpage",
       "date": "2024-04-30",
-      "description": "Disclaimer: This post is unapologetically romantic. When people ask me why I’ve chosen CS over other majors/careers, I usually respond something along the lines of: “Computers have interested me s..."
+      "description": "Disclaimer: This post is unapologetically romantic. When people ask me why I’ve chosen CS over other majors/careers, I usually respond something along the lines of: “Computers have interested me since..."
     },
     {
       "title": "My UW Madison Course Tier List",
@@ -418,7 +418,7 @@
       "link": "https://scharenbroch.dev/blog/code-without-fear/",
       "author": "Blog on Lucas's Webpage",
       "date": "2024-04-21",
-      "description": "Programming is hard. It’s hard to work with tools, to formulate ideas into code, and to make that code work. As developers, we are inevitably forced to manage many responsibilities at once, more tha..."
+      "description": "Programming is hard. It’s hard to work with tools, to formulate ideas into code, and to make that code work. As developers, we are inevitably forced to manage many responsibilities at once, more than..."
     },
     {
       "title": "Pushing Random Buttons",
@@ -432,21 +432,21 @@
       "link": "https://scharenbroch.dev/blog/why-haskell-is-a-great-language/",
       "author": "Blog on Lucas's Webpage",
       "date": "2024-04-01",
-      "description": "No, this is not an April Fools’ Day joke. I’m currently taking a class on programming languages as a part of my CS degree at UW. The class briefly touches on Haskell, and somebody posted the follo..."
+      "description": "No, this is not an April Fools’ Day joke. I’m currently taking a class on programming languages as a part of my CS degree at UW. The class briefly touches on Haskell, and somebody posted the following..."
     },
     {
       "title": "Speedrunning College",
       "link": "https://scharenbroch.dev/blog/speedrunning-college/",
       "author": "Blog on Lucas's Webpage",
       "date": "2024-03-29",
-      "description": "A few decades ago, universities were the only place where it was possible for students to use and learn about computers; now it’s possible to teach yourself the entire curriculum without leaving you..."
+      "description": "A few decades ago, universities were the only place where it was possible for students to use and learn about computers; now it’s possible to teach yourself the entire curriculum without leaving your..."
     },
     {
       "title": "Create The World's Simplest Trading Bot, For Free!",
       "link": "https://blackdiamand.github.io/trading/2024/03/26/bot-guide-simple.html",
       "author": "blackdiamand's site",
       "date": "2024-03-26",
-      "description": "Create your own trading bot This is an unofficial guide and not created by Manifold If you notice something doesn’t work, report it on Discord, in the api-and-bots channel. You are responsible fo..."
+      "description": "Create your own trading bot This is an unofficial guide and not created by Manifold If you notice something doesn’t work, report it on Discord, in the api-and-bots channel. You are responsible for..."
     },
     {
       "title": "Functional Refactoring: Wordle",
@@ -467,7 +467,7 @@
       "link": "https://scharenbroch.dev/blog/lazy-vs-eager-learning/",
       "author": "Blog on Lucas's Webpage",
       "date": "2024-03-13",
-      "description": "There are a lot of opinions about the “best ways” to learn programming on the internet, but they’re usually some combination of the following: “Just write code” “learn by doing” Learn..."
+      "description": "There are a lot of opinions about the “best ways” to learn programming on the internet, but they’re usually some combination of the following: “Just write code” “learn by doing” Learn “the basics” ..."
     },
     {
       "title": "Monads",
@@ -488,7 +488,7 @@
       "link": "https://scharenbroch.dev/blog/apl-tutorial/",
       "author": "Blog on Lucas's Webpage",
       "date": "2023-11-27",
-      "description": "I’ve been working on writing an APL Interpreter recently. Understanding the language is a prerequisite to writing an interpreter, and I’m pretty sure I’ve got it figured out, but I figure it’s..."
+      "description": "I’ve been working on writing an APL Interpreter recently. Understanding the language is a prerequisite to writing an interpreter, and I’m pretty sure I’ve got it figured out, but I figure it’s still a..."
     },
     {
       "title": "Organizing MadHacks Fall 2023 Reflections",
@@ -509,7 +509,7 @@
       "link": "https://scharenbroch.dev/blog/implicit-recursion/",
       "author": "Blog on Lucas's Webpage",
       "date": "2023-09-05",
-      "description": "I recently started learning Haskell, and I came across a structure in the language that really made me think: Currying. Consider a function called “add” that takes two integers and returns an inte..."
+      "description": "I recently started learning Haskell, and I came across a structure in the language that really made me think: Currying. Consider a function called “add” that takes two integers and returns an integer..."
     },
     {
       "title": "Why I Use Vim",
@@ -537,7 +537,7 @@
       "link": "https://scharenbroch.dev/blog/uw-madison-computer-science/",
       "author": "Blog on Lucas's Webpage",
       "date": "2023-07-01",
-      "description": "I like to plan things out, especially things of high importance. Since college happens to fall into that category, I’ve spent a significant amount of time planning out courses, and I’ve made a hab..."
+      "description": "I like to plan things out, especially things of high importance. Since college happens to fall into that category, I’ve spent a significant amount of time planning out courses, and I’ve made a habit o..."
     },
     {
       "title": "Making My Blog 3x Faster",
@@ -558,7 +558,7 @@
       "link": "https://blackdiamand.github.io/alaska/2023/01/06/alaska-game-theory.html",
       "author": "blackdiamand's site",
       "date": "2023-01-06",
-      "description": "How to Not Campaign in a Ranked Choice Election Don’t attack your allies Background Alaska’s new electoral system, adopted by voters in a 2020 referendum, has created some interesting results. In..."
+      "description": "How to Not Campaign in a Ranked Choice Election Don’t attack your allies Background Alaska’s new electoral system, adopted by voters in a 2020 referendum, has created some interesting results. In the..."
     },
     {
       "title": "Exploring the Anshel-Anshel-Goldfeld Key Exchange System",
@@ -600,7 +600,7 @@
       "link": "https://www.noguera.dev/blog/2021/12/22/hugo-shortcode-license-badges-on-code-blocks/",
       "author": "Blog on Michael Noguera",
       "date": "2021-12-22",
-      "description": "One of my favorite features of the static site generator Hugo is “shortcodes”, which allow you to abstract away chunks of website content and invoke them from your markdown posts. The Hugo communi..."
+      "description": "One of my favorite features of the static site generator Hugo is “shortcodes”, which allow you to abstract away chunks of website content and invoke them from your markdown posts. The Hugo community h..."
     },
     {
       "title": "Mysterious Broken Bootloader",
@@ -635,21 +635,21 @@
       "link": "https://www.noguera.dev/blog/2019/04/04/reverse-engineering-the-wisconsin-driver-practice-test/",
       "author": "Blog on Michael Noguera",
       "date": "2019-04-04",
-      "description": "Note from a future me, after I took the test: It’s pretty easy but it tries to trick you. Glance over these questions because they were good to know. The Problem I am currently taking Drivers’ Ed,..."
+      "description": "Note from a future me, after I took the test: It’s pretty easy but it tries to trick you. Glance over these questions because they were good to know. The Problem I am currently taking Drivers’ Ed, and..."
     },
     {
       "title": "Hack This Site: Basic Challenges",
       "link": "https://www.noguera.dev/blog/2018/12/03/hack-this-site-basic-challenges/",
       "author": "Blog on Michael Noguera",
       "date": "2018-12-03",
-      "description": "Basic 1: HTML Comment This level is what we call “The Idiot Test”, if you can’t complete it, don’t give up on learning all you can, but, don’t go begging to someone else for the answer, that..."
+      "description": "Basic 1: HTML Comment This level is what we call “The Idiot Test”, if you can’t complete it, don’t give up on learning all you can, but, don’t go begging to someone else for the answer, thats one way..."
     },
     {
       "title": "How To: Blind SQL Injection, HSCTF 2018: Password",
       "link": "https://www.noguera.dev/blog/2018/07/19/how-to-blind-sql-injection-hsctf-2018-password/",
       "author": "Blog on Michael Noguera",
       "date": "2018-07-19",
-      "description": "Here are some rudimentary notes on how I solved the challenge ‘Password’ for HSCTF 2018. The puzzle gave a mock-up social media website with a login form, and asked that you retrieve Keith’s pas..."
+      "description": "Here are some rudimentary notes on how I solved the challenge ‘Password’ for HSCTF 2018. The puzzle gave a mock-up social media website with a login form, and asked that you retrieve Keith’s password..."
     },
     {
       "title": "Making backups of hard drives using the bash utility “dd”",

@@ -6,7 +6,7 @@
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
     <pubDate>Fri, 27 Mar 2026 17:00:00 +0000</pubDate>
-    <lastBuildDate>Fri, 10 Apr 2026 01:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 12:53:15 +0000</lastBuildDate>
     <item>
       <title>PostgreSQL: Transactions, Row Locks, and Advisory Locks</title>
       <link>https://dteather.com/blogs/postgres-advisory-locks/</link>
@@ -90,7 +90,7 @@
     <item>
       <title>Matrix multiplication tricks on CPU</title>
       <link>https://jamesma.dev/2025/matmul/</link>
-      <description>In this post we’ll iteratively improve on multiplying two random 1024 x 1024 float matrices, resulting in a 20x speedup on CPU. We’ll mostly focus on how different mathematical interpretations of...</description>
+      <description>In this post we’ll iteratively improve on multiplying two random 1024 x 1024 float matrices, resulting in a 20x speedup on CPU. We’ll mostly focus on how different mathematical interpretations of matr...</description>
       <author>James Ma</author>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://jamesma.dev/2025/matmul/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>Lvalues, rvalues, and move semantics in C++</title>
       <link>https://jamesma.dev/2025/rvalues/</link>
-      <description>I’ve written a decent amount of C, but never really took the time to understand its internals. In the first of what will hopefully become a series of articles, we will look at lvalues, rvalues, an...</description>
+      <description>I’ve written a decent amount of C, but never really took the time to understand its internals. In the first of what will hopefully become a series of articles, we will look at lvalues, rvalues, and...</description>
       <author>James Ma</author>
       <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://jamesma.dev/2025/rvalues/</guid>
@@ -114,7 +114,7 @@
     <item>
       <title>How to fight the attention economy</title>
       <link>https://jamesma.dev/2025/attention-economy/</link>
-      <description>If you’ve ever been to a casino, you’ll notice that there are no clocks, no windows, and no straight angles. Ugly carpet patterns keep your eyes forward as you wander through curved hallways, your...</description>
+      <description>If you’ve ever been to a casino, you’ll notice that there are no clocks, no windows, and no straight angles. Ugly carpet patterns keep your eyes forward as you wander through curved hallways, your gaz...</description>
       <author>James Ma</author>
       <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://jamesma.dev/2025/attention-economy/</guid>
@@ -202,7 +202,7 @@
     <item>
       <title>Attention as a kernel smoothing problem</title>
       <link>https://jamesma.dev/2025/attention-and-kernel-smoothing/</link>
-      <description>Reddit discussion This post is about a rarely discussed interpretation of “attention,” the underlying technique behind transformers, which has found its way into everything from natural language p...</description>
+      <description>Reddit discussion This post is about a rarely discussed interpretation of “attention,” the underlying technique behind transformers, which has found its way into everything from natural language proce...</description>
       <author>James Ma</author>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
       <guid>https://jamesma.dev/2025/attention-and-kernel-smoothing/</guid>
@@ -234,7 +234,7 @@
     <item>
       <title>Combining Futures and Options in Scala</title>
       <link>https://jamesma.dev/2025/future-options-scala/</link>
-      <description>In Scala, two interesting concepts you’ll often work with are Futures and Options. A Future is an abstraction for some value that might not be available yet. An Option abstracts over the possibility...</description>
+      <description>In Scala, two interesting concepts you’ll often work with are Futures and Options. A Future is an abstraction for some value that might not be available yet. An Option abstracts over the possibility o...</description>
       <author>James Ma</author>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://jamesma.dev/2025/future-options-scala/</guid>
@@ -258,7 +258,7 @@
     <item>
       <title>Configuring external storage devices for Jellyfin</title>
       <link>https://jamesma.dev/2025/jellyfin-guide/</link>
-      <description>This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive ...</description>
+      <description>This post serves as a personal guide to running a Jellyfin server locally using an external hard drive. The following assumes: Debian GNU/Linux 12 I’m using a Raspberry Pi 4 External hard drive e...</description>
       <author>James Ma</author>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://jamesma.dev/2025/jellyfin-guide/</guid>
@@ -290,7 +290,7 @@
     <item>
       <title>List of WISCERS 2024 Faculty Mentors</title>
       <link>https://www.noguera.dev/blog/2024/12/09/list-of-wiscers-2024-faculty-mentors/</link>
-      <description>I participated in Wisconsin Science and Computing Emerging Research Stars WISCERS as part of the 2022-23 cohort and really enjoyed the experience. Even if you’re uncertain, you should definetly ap...</description>
+      <description>I participated in Wisconsin Science and Computing Emerging Research Stars WISCERS as part of the 2022-23 cohort and really enjoyed the experience. Even if you’re uncertain, you should definetly appl...</description>
       <author>Blog on Michael Noguera</author>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.noguera.dev/blog/2024/12/09/list-of-wiscers-2024-faculty-mentors/</guid>
@@ -314,7 +314,7 @@
     <item>
       <title>Types and Programming Languages</title>
       <link>https://scharenbroch.dev/blog/types-and-programming-languages/</link>
-      <description>“Types and Programming Languages” T&amp;PLs is a relatively-esoteric1 textbook about type theory. The professor2 of my college PLs class3 has an old webpage that recommends this book: If you are ser...</description>
+      <description>“Types and Programming Languages” T&amp;PLs is a relatively-esoteric1 textbook about type theory. The professor2 of my college PLs class3 has an old webpage that recommends this book: If you are serious...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Sat, 19 Oct 2024 15:39:51 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/types-and-programming-languages/</guid>
@@ -330,7 +330,7 @@
     <item>
       <title>Git Cheatsheet Prime</title>
       <link>https://scharenbroch.dev/blog/git-cheatsheet-prime/</link>
-      <description>I’m an enthusiast and daily user of git’s command line interface 1. While GUIs offer advantages in visualization and intuition2, they greatly fall short in power3, concision, and extensibility. Li...</description>
+      <description>I’m an enthusiast and daily user of git’s command line interface 1. While GUIs offer advantages in visualization and intuition2, they greatly fall short in power3, concision, and extensibility. Like v...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Sun, 13 Oct 2024 12:32:05 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/git-cheatsheet-prime/</guid>
@@ -362,7 +362,7 @@
     <item>
       <title>On Competitive Programming</title>
       <link>https://scharenbroch.dev/blog/on-competitive-programming/</link>
-      <description>What is Competitive Programming? “Competitive Programming” by its name encompasses all programming done in competitive nature. This post will specifically focus on and use the term “competiti...</description>
+      <description>What is Competitive Programming? “Competitive Programming” by its name encompasses all programming done in competitive nature. This post will specifically focus on and use the term “competitive pro...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Sat, 31 Aug 2024 15:05:45 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/on-competitive-programming/</guid>
@@ -370,7 +370,7 @@
     <item>
       <title>Fueling the Fire</title>
       <link>https://scharenbroch.dev/blog/fueling-the-fire/</link>
-      <description>Intro Motivation, though often overlooked, is arguably the strongest influence on a developer’s1 productivity. While skills, obstacles, and environments define the challenges we face, motivation def...</description>
+      <description>Intro Motivation, though often overlooked, is arguably the strongest influence on a developer’s1 productivity. While skills, obstacles, and environments define the challenges we face, motivation defin...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Fri, 30 Aug 2024 11:30:04 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/fueling-the-fire/</guid>
@@ -410,7 +410,7 @@
     <item>
       <title>Hacking Is Necessary</title>
       <link>https://scharenbroch.dev/blog/hacking-is-necessary/</link>
-      <description>Note: this isn’t a security post: “hacking” here means “unclean coding”, i.e. “I quickly hacked together a shell script as a temporary fix to the issue”. Sorry, cybersecurity enthusiasts...</description>
+      <description>Note: this isn’t a security post: “hacking” here means “unclean coding”, i.e. “I quickly hacked together a shell script as a temporary fix to the issue”. Sorry, cybersecurity enthusiasts. Obsession Ov...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Wed, 26 Jun 2024 10:06:46 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/hacking-is-necessary/</guid>
@@ -418,7 +418,7 @@
     <item>
       <title>Design Patterns</title>
       <link>https://scharenbroch.dev/blog/design-patterns/</link>
-      <description>All Hail The Object Design Patterns is a classic book from the 90s that centers around low-level OOP idioms. While I’m sometimes quick to criticize OOP1, I still think there’s a lot of utility in...</description>
+      <description>All Hail The Object Design Patterns is a classic book from the 90s that centers around low-level OOP idioms. While I’m sometimes quick to criticize OOP1, I still think there’s a lot of utility in unde...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Thu, 30 May 2024 11:33:05 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/design-patterns/</guid>
@@ -434,7 +434,7 @@
     <item>
       <title>The Power of the Commit</title>
       <link>https://scharenbroch.dev/blog/the-power-of-the-commit/</link>
-      <description>I don’t know of a developer who doesn’t appreciate version control. The undo-on-steroids it provides is convenient and invaluable. But there’s a much more subtle aspect of version control perha...</description>
+      <description>I don’t know of a developer who doesn’t appreciate version control. The undo-on-steroids it provides is convenient and invaluable. But there’s a much more subtle aspect of version control perhaps eve...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Fri, 17 May 2024 07:47:11 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/the-power-of-the-commit/</guid>
@@ -442,7 +442,7 @@
     <item>
       <title>Rewriting a Toy Compiler</title>
       <link>https://scharenbroch.dev/blog/rewriting-a-toy-compiler/</link>
-      <description>I’ve written a lot of posts glorifying functional programming lately, but they tend to be abstract and hypothetical. They roughly amount to “ADTs, higher-order-functions, and immutability are usua...</description>
+      <description>I’ve written a lot of posts glorifying functional programming lately, but they tend to be abstract and hypothetical. They roughly amount to “ADTs, higher-order-functions, and immutability are usually...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Wed, 15 May 2024 07:59:41 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/rewriting-a-toy-compiler/</guid>
@@ -466,7 +466,7 @@
     <item>
       <title>Computers Are Magic</title>
       <link>https://scharenbroch.dev/blog/computers-are-magic/</link>
-      <description>Disclaimer: This post is unapologetically romantic. When people ask me why I’ve chosen CS over other majors/careers, I usually respond something along the lines of: “Computers have interested me s...</description>
+      <description>Disclaimer: This post is unapologetically romantic. When people ask me why I’ve chosen CS over other majors/careers, I usually respond something along the lines of: “Computers have interested me since...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Tue, 30 Apr 2024 08:47:56 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/computers-are-magic/</guid>
@@ -482,7 +482,7 @@
     <item>
       <title>Code Without Fear</title>
       <link>https://scharenbroch.dev/blog/code-without-fear/</link>
-      <description>Programming is hard. It’s hard to work with tools, to formulate ideas into code, and to make that code work. As developers, we are inevitably forced to manage many responsibilities at once, more tha...</description>
+      <description>Programming is hard. It’s hard to work with tools, to formulate ideas into code, and to make that code work. As developers, we are inevitably forced to manage many responsibilities at once, more than...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Sun, 21 Apr 2024 10:28:06 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/code-without-fear/</guid>
@@ -498,7 +498,7 @@
     <item>
       <title>Why Haskell is a Great Language</title>
       <link>https://scharenbroch.dev/blog/why-haskell-is-a-great-language/</link>
-      <description>No, this is not an April Fools’ Day joke. I’m currently taking a class on programming languages as a part of my CS degree at UW. The class briefly touches on Haskell, and somebody posted the follo...</description>
+      <description>No, this is not an April Fools’ Day joke. I’m currently taking a class on programming languages as a part of my CS degree at UW. The class briefly touches on Haskell, and somebody posted the following...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Mon, 01 Apr 2024 15:35:59 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/why-haskell-is-a-great-language/</guid>
@@ -506,7 +506,7 @@
     <item>
       <title>Speedrunning College</title>
       <link>https://scharenbroch.dev/blog/speedrunning-college/</link>
-      <description>A few decades ago, universities were the only place where it was possible for students to use and learn about computers; now it’s possible to teach yourself the entire curriculum without leaving you...</description>
+      <description>A few decades ago, universities were the only place where it was possible for students to use and learn about computers; now it’s possible to teach yourself the entire curriculum without leaving your...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Fri, 29 Mar 2024 09:10:05 -0600</pubDate>
       <guid>https://scharenbroch.dev/blog/speedrunning-college/</guid>
@@ -514,7 +514,7 @@
     <item>
       <title>Create The World&#39;s Simplest Trading Bot, For Free!</title>
       <link>https://blackdiamand.github.io/trading/2024/03/26/bot-guide-simple.html</link>
-      <description>Create your own trading bot This is an unofficial guide and not created by Manifold If you notice something doesn’t work, report it on Discord, in the api-and-bots channel. You are responsible fo...</description>
+      <description>Create your own trading bot This is an unofficial guide and not created by Manifold If you notice something doesn’t work, report it on Discord, in the api-and-bots channel. You are responsible for...</description>
       <author>blackdiamand&#39;s site</author>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://blackdiamand.github.io/trading/2024/03/26/bot-guide-simple.html</guid>
@@ -538,7 +538,7 @@
     <item>
       <title>Lazy vs Eager Learning</title>
       <link>https://scharenbroch.dev/blog/lazy-vs-eager-learning/</link>
-      <description>There are a lot of opinions about the “best ways” to learn programming on the internet, but they’re usually some combination of the following: “Just write code” “learn by doing” Learn...</description>
+      <description>There are a lot of opinions about the “best ways” to learn programming on the internet, but they’re usually some combination of the following: “Just write code” “learn by doing” Learn “the basics” ...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Wed, 13 Mar 2024 09:53:10 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/lazy-vs-eager-learning/</guid>
@@ -562,7 +562,7 @@
     <item>
       <title>APL Tutorial</title>
       <link>https://scharenbroch.dev/blog/apl-tutorial/</link>
-      <description>I’ve been working on writing an APL Interpreter recently. Understanding the language is a prerequisite to writing an interpreter, and I’m pretty sure I’ve got it figured out, but I figure it’s...</description>
+      <description>I’ve been working on writing an APL Interpreter recently. Understanding the language is a prerequisite to writing an interpreter, and I’m pretty sure I’ve got it figured out, but I figure it’s still a...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Mon, 27 Nov 2023 09:07:11 -0600</pubDate>
       <guid>https://scharenbroch.dev/blog/apl-tutorial/</guid>
@@ -586,7 +586,7 @@
     <item>
       <title>Implicit Recursion</title>
       <link>https://scharenbroch.dev/blog/implicit-recursion/</link>
-      <description>I recently started learning Haskell, and I came across a structure in the language that really made me think: Currying. Consider a function called “add” that takes two integers and returns an inte...</description>
+      <description>I recently started learning Haskell, and I came across a structure in the language that really made me think: Currying. Consider a function called “add” that takes two integers and returns an integer...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Tue, 05 Sep 2023 14:21:16 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/implicit-recursion/</guid>
@@ -618,7 +618,7 @@
     <item>
       <title>UW Madison Computer Science</title>
       <link>https://scharenbroch.dev/blog/uw-madison-computer-science/</link>
-      <description>I like to plan things out, especially things of high importance. Since college happens to fall into that category, I’ve spent a significant amount of time planning out courses, and I’ve made a hab...</description>
+      <description>I like to plan things out, especially things of high importance. Since college happens to fall into that category, I’ve spent a significant amount of time planning out courses, and I’ve made a habit o...</description>
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Sat, 01 Jul 2023 17:41:21 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/uw-madison-computer-science/</guid>
@@ -642,7 +642,7 @@
     <item>
       <title>Alaska&#39;s Top Four Primary, Game Theory, and How to Not Campaign in a Ranked Choice Election</title>
       <link>https://blackdiamand.github.io/alaska/2023/01/06/alaska-game-theory.html</link>
-      <description>How to Not Campaign in a Ranked Choice Election Don’t attack your allies Background Alaska’s new electoral system, adopted by voters in a 2020 referendum, has created some interesting results. In...</description>
+      <description>How to Not Campaign in a Ranked Choice Election Don’t attack your allies Background Alaska’s new electoral system, adopted by voters in a 2020 referendum, has created some interesting results. In the...</description>
       <author>blackdiamand&#39;s site</author>
       <pubDate>Fri, 06 Jan 2023 00:19:00 +0000</pubDate>
       <guid>https://blackdiamand.github.io/alaska/2023/01/06/alaska-game-theory.html</guid>
@@ -690,7 +690,7 @@
     <item>
       <title>Hugo Shortcode: License Badges on Code Blocks</title>
       <link>https://www.noguera.dev/blog/2021/12/22/hugo-shortcode-license-badges-on-code-blocks/</link>
-      <description>One of my favorite features of the static site generator Hugo is “shortcodes”, which allow you to abstract away chunks of website content and invoke them from your markdown posts. The Hugo communi...</description>
+      <description>One of my favorite features of the static site generator Hugo is “shortcodes”, which allow you to abstract away chunks of website content and invoke them from your markdown posts. The Hugo community h...</description>
       <author>Blog on Michael Noguera</author>
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://www.noguera.dev/blog/2021/12/22/hugo-shortcode-license-badges-on-code-blocks/</guid>
@@ -730,7 +730,7 @@
     <item>
       <title>Reverse Engineering the Wisconsin Driver Practice Test</title>
       <link>https://www.noguera.dev/blog/2019/04/04/reverse-engineering-the-wisconsin-driver-practice-test/</link>
-      <description>Note from a future me, after I took the test: It’s pretty easy but it tries to trick you. Glance over these questions because they were good to know. The Problem I am currently taking Drivers’ Ed,...</description>
+      <description>Note from a future me, after I took the test: It’s pretty easy but it tries to trick you. Glance over these questions because they were good to know. The Problem I am currently taking Drivers’ Ed, and...</description>
       <author>Blog on Michael Noguera</author>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://www.noguera.dev/blog/2019/04/04/reverse-engineering-the-wisconsin-driver-practice-test/</guid>
@@ -738,7 +738,7 @@
     <item>
       <title>Hack This Site: Basic Challenges</title>
       <link>https://www.noguera.dev/blog/2018/12/03/hack-this-site-basic-challenges/</link>
-      <description>Basic 1: HTML Comment This level is what we call “The Idiot Test”, if you can’t complete it, don’t give up on learning all you can, but, don’t go begging to someone else for the answer, that...</description>
+      <description>Basic 1: HTML Comment This level is what we call “The Idiot Test”, if you can’t complete it, don’t give up on learning all you can, but, don’t go begging to someone else for the answer, thats one way...</description>
       <author>Blog on Michael Noguera</author>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://www.noguera.dev/blog/2018/12/03/hack-this-site-basic-challenges/</guid>
@@ -746,7 +746,7 @@
     <item>
       <title>How To: Blind SQL Injection, HSCTF 2018: Password</title>
       <link>https://www.noguera.dev/blog/2018/07/19/how-to-blind-sql-injection-hsctf-2018-password/</link>
-      <description>Here are some rudimentary notes on how I solved the challenge ‘Password’ for HSCTF 2018. The puzzle gave a mock-up social media website with a login form, and asked that you retrieve Keith’s pas...</description>
+      <description>Here are some rudimentary notes on how I solved the challenge ‘Password’ for HSCTF 2018. The puzzle gave a mock-up social media website with a login form, and asked that you retrieve Keith’s password...</description>
       <author>Blog on Michael Noguera</author>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://www.noguera.dev/blog/2018/07/19/how-to-blind-sql-injection-hsctf-2018-password/</guid>
