@@ -12,6 +12,7 @@ import (
 	"strings"
 	"sync"
 	"time"
+	"unicode/utf8"
 )
 
 var dateFormats = []string{
@@ -50,9 +51,10 @@ func cleanHTML(input string, maxLength int) string {
 	wsRegex := regexp.MustCompile(`\s+`)
 	cleaned = wsRegex.ReplaceAllString(cleaned, " ")
 
-	// & truncate to maxLength
-	if len(cleaned) > maxLength {
-		cleaned = cleaned[:maxLength]
+	// & truncate to maxLength (rune-safe to avoid cutting mid-character)
+	if utf8.RuneCountInString(cleaned) > maxLength {
+		runes := []rune(cleaned)
+		cleaned = string(runes[:maxLength])
 
 		if cleaned[len(cleaned)-1] == ' ' || cleaned[len(cleaned)-1] == '.' {
 			cleaned = cleaned[:len(cleaned)-1]
@@ -77,7 +79,7 @@ func parseDate(dateStrs ...string) time.Time {
 		}
 	}
 
-	log.Printf("warn: Could not parse any date")
+	log.Printf("warn: could not parse date from any of: %v", dateStrs)
 	return time.Now()
 }
 
@@ -90,12 +92,18 @@ func getDescription(candidates ...string) string {
 	return "Visit post for details."
 }
 
+var httpClient = &http.Client{Timeout: 15 * time.Second}
+
 func FetchFeed(url string) ([]BlogPost, error) {
-	resp, err := http.Get(url)
+	resp, err := httpClient.Get(url)
 	if err != nil {
 		return nil, fmt.Errorf("fetching feed %s: %w", url, err)
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("fetching feed %s: HTTP %d", url, resp.StatusCode)
+	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {

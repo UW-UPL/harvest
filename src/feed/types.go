@@ -40,22 +40,6 @@ type AtomEntry struct {
 	Summary   string     `xml:"summary"`
 }
 
-// Unified Item structure for internal use
-type Item struct {
-	Title       string
-	Link        string
-	PubDate     string
-	Date        string
-	Published   string
-	Updated     string
-	Author      string
-	Creator     string
-	Description string
-	Content     string
-	Encoded     string
-	Summary     string
-}
-
 type Channel struct {
 	Title       string    `xml:"title"`
 	Link        string    `xml:"link"`
