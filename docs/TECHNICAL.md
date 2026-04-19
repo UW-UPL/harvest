@@ -1,88 +1,68 @@
-# Technical Details
+Technical Details
+=================
 
-Aggregates RSS feeds from UPL member blogs into a unified feed. Handles a bunch of RSS formats because everyone implements them differently:
+harvest aggregates RSS and Atom feeds from UPL member blogs into a
+single unified output. In practice, that means handling a fair bit of
+format variation, since not every publisher implements RSS the same
+way.
 
-### Core Fields
+Each RSS item is parsed into the following struct:
 
-The system handles both RSS and Atom feeds with different structures:
+    type RSSItem struct {
+        Title       string `xml:"title"`
+        Link        string `xml:"link"`
+        PubDate     string `xml:"pubDate"`
+        Author      string `xml:"author"`
+        Creator     string `xml:"dc:creator"`
+        Description string `xml:"description"`
+        Content     string `xml:"content:encoded"`
+    }
 
-**RSS Items:**
-```go
-type RSSItem struct {
-    Title       string `xml:"title"`
-    Link        string `xml:"link"`
-    PubDate     string `xml:"pubDate"`
-    Author      string `xml:"author"`
-    Creator     string `xml:"dc:creator"`
-    Description string `xml:"description"`
-    Content     string `xml:"content:encoded"` // full content
-}
-```
+Atom entries have a slightly different shape: links are an array whose
+`rel="alternate"` entry points at the post, and the author sits inside
+a nested element.
 
-**Atom Entries:**
-```go
-type AtomEntry struct {
-    Title     string     `xml:"title"`
-    Links     []AtomLink `xml:"link"`         // rel="alternate" for the actual link
-    Published string     `xml:"published"`
-    Updated   string     `xml:"updated"`      // fallback date
-    Author    AtomAuthor `xml:"author"`       // nested author.name
-    Content   string     `xml:"content"`
-    Summary   string     `xml:"summary"`
-}
-```
+    type AtomEntry struct {
+        Title     string     `xml:"title"`
+        Links     []AtomLink `xml:"link"`
+        Published string     `xml:"published"`
+        Updated   string     `xml:"updated"`
+        Author    AtomAuthor `xml:"author"`
+        Content   string     `xml:"content"`
+        Summary   string     `xml:"summary"`
+    }
 
-**Unified Output:**
-```go
-type BlogPost struct {
-    Title   string
-    Link    string
-    Date    time.Time
-    Author  string    // falls back to channel/feed title if missing
-    Summary string    // cleaned and truncated to 200 chars
-}
-```
+Both are reduced to a common `BlogPost` record carrying a title, link,
+timestamp, author (falling back to the feed title when absent), and a
+summary that has been cleaned and truncated to 200 characters.
 
-### Date Hell
-RSS feeds use whatever date format they feel like. We handle:
-```go
-var dateFormats = []string{
-    time.RFC1123Z,                        // Mon, 02 Jan 2006 15:04:05 -0700
-    time.RFC1123,                         // Mon, 02 Jan 2006 15:04:05 MST
-    time.RFC3339,                         // 2006-01-02T15:04:05Z07:00 (atom's favorite)
-    time.RFC3339Nano,                     // with nanoseconds
-    "2006-01-02T15:04:05Z",               // simplified ISO
-    "2006-01-02 15:04:05 -0700",          // space instead of T
-    "02 Jan 2006 15:04 -0700",            // why do people use this
-    "Mon, 02 Jan 2006 15:04:05 GMT",      // GMT variant
-    "02 Jan 2006 15:04 +0000",            // another variant
-    "2006-01-02",                         // at least it's simple
-    "January 2, 2006",                    // human readable
-}
-```
+Dates are the hardest part of the job. Feeds arrive in a stew of
+RFC1123, RFC1123Z, RFC3339, and a long tail of ad-hoc variants, so the
+parser tries each of the following in order and stops on the first
+that succeeds:
 
-### Content Cleanup
-- Strips HTML tags with regex
-- Unescapes HTML entities (`&amp;` → `&`)
-- Normalizes whitespace
-- Truncates to 200 characters max
-- Strips markdown characters to avoid formatting issues
-- Falls back to "Visit post for details." if no content available
+    var dateFormats = []string{
+        time.RFC1123Z,
+        time.RFC1123,
+        time.RFC3339,
+        time.RFC3339Nano,
+        "2006-01-02T15:04:05Z",
+        "2006-01-02 15:04:05 -0700",
+        "02 Jan 2006 15:04 -0700",
+        "Mon, 02 Jan 2006 15:04:05 GMT",
+        "02 Jan 2006 15:04 +0000",
+        "2006-01-02",
+        "January 2, 2006",
+    }
 
-## How It Works
+Content cleanup strips HTML tags, unescapes entities, normalizes
+whitespace, drops stray markdown, and truncates the result to 200
+characters. When a feed provides nothing usable, the summary falls
+back to "Visit post for details."
 
-1. Reads feeds from `whitelist.toml`
-2. Downloads them all concurrently using goroutines (because waiting sucks)
-3. Parses XML, handles both RSS and Atom formats
-4. Extracts and normalizes:
-   - **Title**: Direct mapping
-   - **Link**: Direct for RSS, finds `rel="alternate"` for Atom
-   - **Author**: Tries multiple fields, falls back to channel/feed title
-   - **Date**: Tries multiple date fields and formats
-   - **Summary**: Cleans content/description, truncates to 200 chars
-5. Sorts posts by date (newest first)
-6. Generates two output formats:
-   - JSON feed at `output/blog_posts.json`
-   - RSS/XML feed at `output/feed.xml`
-
-The code's modular so we can add new formats when someone inevitably implements RSS wrong again. This has been so fun to troubleshoot.
+At the top level, harvest reads `whitelist.toml`, fetches every listed
+feed concurrently, parses RSS and Atom, normalizes each entry, sorts
+the combined list by date (newest first), and writes two outputs:
+`output/blog_posts.json` and `output/feed.xml`. The parser is modular
+so new formats can be slotted in when the next idiosyncratic feed
+turns up.
