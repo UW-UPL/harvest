@@ -21,7 +21,7 @@ type RSSChannel struct {
 	Description string    `xml:"description"`
 	Language    string    `xml:"language,omitempty"`
 	PubDate     string    `xml:"pubDate,omitempty"`
-	LastBuild   string    `xml:"lastBuildDate"`
+	LastBuild   string    `xml:"lastBuildDate,omitempty"`
 	Items       []RSSItem `xml:"item"`
 }
 
@@ -42,7 +42,6 @@ func GenerateRSSFeed(posts []feed.BlogPost, outputPath string) error {
 			Link:        "https://upl.cs.wisc.edu",
 			Description: "Aggregated blog posts from UPL members",
 			Language:    "en-us",
-			LastBuild:   time.Now().Format(time.RFC1123Z),
 			Items:       make([]RSSItem, 0, len(posts)),
 		},
 	}
@@ -61,6 +60,7 @@ func GenerateRSSFeed(posts []feed.BlogPost, outputPath string) error {
 
 	if len(rss.Channel.Items) > 0 {
 		rss.Channel.PubDate = rss.Channel.Items[0].PubDate
+		rss.Channel.LastBuild = rss.Channel.Items[0].PubDate
 	}
 
 	output, err := xml.MarshalIndent(rss, "", "  ")
