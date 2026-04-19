@@ -14,5 +14,8 @@ and runs against the updated whitelist:
     go build -o harvest ./src
     ./harvest
 
-The project layout is kept intentionally simple; please keep it that
-way.
+If you run into anything odd while adding a feed — unusual date
+formats, missing authors, and so on — [TECHNICAL.md](TECHNICAL.md)
+describes what the parser accepts and where the normalization
+happens. The project
+layout is kept intentionally simple; please keep it that way.
