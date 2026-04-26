@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Solving \"I Dropped a Neural Net\"",
+      "link": "https://dteather.com/blogs/js-dropped-my-nn/",
+      "author": "David Teather",
+      "date": "2026-04-24",
+      "description": "A walkthrough of the weight-tensor permutation puzzle 'I Dropped a Neural Net', why pairing matters way more than ordering, Hungarian matching, and the structural fingerprint that fixed bad pairs."
+    },
+    {
       "title": "PostgreSQL: Transactions, Row Locks, and Advisory Locks",
       "link": "https://dteather.com/blogs/postgres-advisory-locks/",
       "author": "David Teather",

@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Fri, 27 Mar 2026 17:00:00 +0000</pubDate>
-    <lastBuildDate>Fri, 27 Mar 2026 17:00:00 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 17:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 17:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Solving &#34;I Dropped a Neural Net&#34;</title>
+      <link>https://dteather.com/blogs/js-dropped-my-nn/</link>
+      <description>A walkthrough of the weight-tensor permutation puzzle &#39;I Dropped a Neural Net&#39;, why pairing matters way more than ordering, Hungarian matching, and the structural fingerprint that fixed bad pairs.</description>
+      <author>David Teather</author>
+      <pubDate>Fri, 24 Apr 2026 17:00:00 +0000</pubDate>
+      <guid>https://dteather.com/blogs/js-dropped-my-nn/</guid>
+    </item>
     <item>
       <title>PostgreSQL: Transactions, Row Locks, and Advisory Locks</title>
       <link>https://dteather.com/blogs/postgres-advisory-locks/</link>
