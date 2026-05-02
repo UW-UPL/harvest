@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Updates (Now Page) - May 2026",
+      "link": "https://www.amoses.dev/then/2026-05-01/",
+      "author": "Andrew Moses",
+      "date": "2026-05-01",
+      "description": "Visit post for details."
+    },
+    {
       "title": "Solving \"I Dropped a Neural Net\"",
       "link": "https://dteather.com/blogs/js-dropped-my-nn/",
       "author": "David Teather",

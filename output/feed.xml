@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Fri, 24 Apr 2026 17:00:00 +0000</pubDate>
-    <lastBuildDate>Fri, 24 Apr 2026 17:00:00 +0000</lastBuildDate>
+    <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Updates (Now Page) - May 2026</title>
+      <link>https://www.amoses.dev/then/2026-05-01/</link>
+      <description>Visit post for details.</description>
+      <author>Andrew Moses</author>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.amoses.dev/then/2026-05-01/</guid>
+    </item>
     <item>
       <title>Solving &#34;I Dropped a Neural Net&#34;</title>
       <link>https://dteather.com/blogs/js-dropped-my-nn/</link>
