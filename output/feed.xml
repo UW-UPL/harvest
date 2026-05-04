@@ -42,7 +42,7 @@
     <item>
       <title>Remote SSH with Zed</title>
       <link>https://salm.dev/writing/remote-ssh-with-zed/</link>
-      <description>How to get Zed&#39;s remote SSH working on UW-Madison’s CS lab machines with AFS, load balancers, and all.</description>
+      <description>How to get Zed&#39;s remote SSH working on UW-Madison&#39;s CS lab machines with AFS, load balancers, and all.</description>
       <author>Nico Salm</author>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://salm.dev/writing/remote-ssh-with-zed/</guid>
