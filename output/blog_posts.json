@@ -15,6 +15,13 @@
       "description": "A walkthrough of the weight-tensor permutation puzzle 'I Dropped a Neural Net', why pairing matters way more than ordering, Hungarian matching, and the structural fingerprint that fixed bad pairs."
     },
     {
+      "title": "Now: April 2026",
+      "link": "https://salm.dev/now/",
+      "author": "Nico Salm",
+      "date": "2026-04-01",
+      "description": "What I've been up to in April, 2026"
+    },
+    {
       "title": "PostgreSQL: Transactions, Row Locks, and Advisory Locks",
       "link": "https://dteather.com/blogs/postgres-advisory-locks/",
       "author": "David Teather",

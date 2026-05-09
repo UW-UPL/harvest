@@ -24,6 +24,14 @@
       <guid>https://dteather.com/blogs/js-dropped-my-nn/</guid>
     </item>
     <item>
+      <title>Now: April 2026</title>
+      <link>https://salm.dev/now/</link>
+      <description>What I&#39;ve been up to in April, 2026</description>
+      <author>Nico Salm</author>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/now/</guid>
+    </item>
+    <item>
       <title>PostgreSQL: Transactions, Row Locks, and Advisory Locks</title>
       <link>https://dteather.com/blogs/postgres-advisory-locks/</link>
       <description>How PostgreSQL row locks for update, for share and advisory locks interact: session vs transaction scope, pgadvisoryxactlock, deadlocks, bigint keys, and fetch–lock–refetch.</description>
