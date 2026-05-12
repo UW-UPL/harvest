@@ -19,7 +19,7 @@
       "link": "https://salm.dev/now/",
       "author": "Nico Salm",
       "date": "2026-04-01",
-      "description": "What I've been up to in April, 2026"
+      "description": "What I'm working on, reading, and thinking about right now."
     },
     {
       "title": "PostgreSQL: Transactions, Row Locks, and Advisory Locks",
