@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <pubDate>Tue, 19 May 2026 17:00:00 +0000</pubDate>
+    <lastBuildDate>Tue, 19 May 2026 17:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The Outbox Pattern Visualized</title>
+      <link>https://dteather.com/blogs/the-outbox-pattern/</link>
+      <description>An interactive walkthrough of the outbox pattern with live simulations: what it solves, how it works, and what it looks like under load.</description>
+      <author>David Teather</author>
+      <pubDate>Tue, 19 May 2026 17:00:00 +0000</pubDate>
+      <guid>https://dteather.com/blogs/the-outbox-pattern/</guid>
+    </item>
     <item>
       <title>Updates (Now Page) - May 2026</title>
       <link>https://www.amoses.dev/then/2026-05-01/</link>
