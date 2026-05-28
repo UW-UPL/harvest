@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Sat, 23 May 2026 17:00:00 +0000</pubDate>
-    <lastBuildDate>Sat, 23 May 2026 17:00:00 +0000</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>My Wisconsin Experience</title>
+      <link>https://salm.dev/writing/my-wisconsin-experience/</link>
+      <description>I led UW-Madison&#39;s UPL and ran Wisconsin&#39;s largest hackathon, and got four years of audacity, whimsy, and absurdity to remember it by.</description>
+      <author>Nico Salm</author>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/writing/my-wisconsin-experience/</guid>
+    </item>
     <item>
       <title>The Outbox Pattern Visualized</title>
       <link>https://dteather.com/blogs/the-outbox-pattern/</link>

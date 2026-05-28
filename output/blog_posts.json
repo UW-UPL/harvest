@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "My Wisconsin Experience",
+      "link": "https://salm.dev/writing/my-wisconsin-experience/",
+      "author": "Nico Salm",
+      "date": "2026-05-27",
+      "description": "I led UW-Madison's UPL and ran Wisconsin's largest hackathon, and got four years of audacity, whimsy, and absurdity to remember it by."
+    },
+    {
       "title": "The Outbox Pattern Visualized",
       "link": "https://dteather.com/blogs/the-outbox-pattern/",
       "author": "David Teather",
