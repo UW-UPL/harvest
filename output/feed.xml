@@ -5,16 +5,8 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>My Wisconsin Experience</title>
-      <link>https://salm.dev/writing/my-wisconsin-experience/</link>
-      <description>I led UW-Madison&#39;s UPL and ran Wisconsin&#39;s largest hackathon, and got four years of audacity, whimsy, and absurdity to remember it by.</description>
-      <author>Nico Salm</author>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/writing/my-wisconsin-experience/</guid>
-    </item>
+    <pubDate>Sat, 23 May 2026 17:00:00 +0000</pubDate>
+    <lastBuildDate>Sat, 23 May 2026 17:00:00 +0000</lastBuildDate>
     <item>
       <title>The Outbox Pattern Visualized</title>
       <link>https://dteather.com/blogs/the-outbox-pattern/</link>
@@ -40,14 +32,6 @@
       <guid>https://dteather.com/blogs/js-dropped-my-nn/</guid>
     </item>
     <item>
-      <title>Now: April 2026</title>
-      <link>https://salm.dev/now/</link>
-      <description>What I&#39;m working on, reading, and thinking about right now.</description>
-      <author>Nico Salm</author>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/now/</guid>
-    </item>
-    <item>
       <title>PostgreSQL: Transactions, Row Locks, and Advisory Locks</title>
       <link>https://dteather.com/blogs/postgres-advisory-locks/</link>
       <description>How PostgreSQL row locks for update, for share and advisory locks interact: session vs transaction scope, pgadvisoryxactlock, deadlocks, bigint keys, and fetch–lock–refetch.</description>
@@ -62,14 +46,6 @@
       <author>David Teather</author>
       <pubDate>Mon, 16 Mar 2026 15:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/simplestreet/</guid>
-    </item>
-    <item>
-      <title>Remote SSH with Zed</title>
-      <link>https://salm.dev/writing/remote-ssh-with-zed/</link>
-      <description>How to get Zed&#39;s remote SSH working on UW-Madison&#39;s CS lab machines with AFS, load balancers, and all.</description>
-      <author>Nico Salm</author>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/writing/remote-ssh-with-zed/</guid>
     </item>
     <item>
       <title>MadHacks Potpourri</title>
@@ -94,14 +70,6 @@
       <author>James Ma</author>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://jamesma.dev/2026/dynamic-linking/</guid>
-    </item>
-    <item>
-      <title>From Rivers Rose Empires</title>
-      <link>https://salm.dev/writing/from-rivers-rose-empires/</link>
-      <description>No really, where would we be without them?</description>
-      <author>Nico Salm</author>
-      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/writing/from-rivers-rose-empires/</guid>
     </item>
     <item>
       <title>A Better Judging Algorithm for the Largest Hackathon in Wisconsin</title>
@@ -232,28 +200,12 @@
       <guid>https://jamesma.dev/2025/parser-combinators/</guid>
     </item>
     <item>
-      <title>Create, Don&#39;t Consume</title>
-      <link>https://salm.dev/writing/create-dont-consume/</link>
-      <description>We&#39;re trading long-term fulfillment for short-term dopamine hits, and each trade makes the next one harder to resist.</description>
-      <author>Nico Salm</author>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/writing/create-dont-consume/</guid>
-    </item>
-    <item>
       <title>Attention as a kernel smoothing problem</title>
       <link>https://jamesma.dev/2025/attention-and-kernel-smoothing/</link>
       <description>Reddit discussion This post is about a rarely discussed interpretation of “attention,” the underlying technique behind transformers, which has found its way into everything from natural language proce...</description>
       <author>James Ma</author>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
       <guid>https://jamesma.dev/2025/attention-and-kernel-smoothing/</guid>
-    </item>
-    <item>
-      <title>Winning Pokemon Showdown</title>
-      <link>https://salm.dev/writing/winning-pokemon-showdown/</link>
-      <description>We used game theory to find the mathematically optimal strategies in Pokémon Showdown battles.</description>
-      <author>Nico Salm</author>
-      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/writing/winning-pokemon-showdown/</guid>
     </item>
     <item>
       <title>Automating keyword extraction and ranking to enhance a resume</title>
@@ -374,14 +326,6 @@
       <author>Blog on Lucas&#39;s Webpage</author>
       <pubDate>Sun, 13 Oct 2024 12:32:05 -0500</pubDate>
       <guid>https://scharenbroch.dev/blog/git-cheatsheet-prime/</guid>
-    </item>
-    <item>
-      <title>Command Line Productivity</title>
-      <link>https://salm.dev/writing/command-line-productivity/</link>
-      <description>I describe my minimal, focused, keyboard-centric workflow where I do my best work. In other words: I shill Vim.</description>
-      <author>Nico Salm</author>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/writing/command-line-productivity/</guid>
     </item>
     <item>
       <title>Adding UML Diagrams to Rehype in Astro (With rehype-mermaid)</title>

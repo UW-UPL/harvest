@@ -1,13 +1,6 @@
 {
   "posts": [
     {
-      "title": "My Wisconsin Experience",
-      "link": "https://salm.dev/writing/my-wisconsin-experience/",
-      "author": "Nico Salm",
-      "date": "2026-05-27",
-      "description": "I led UW-Madison's UPL and ran Wisconsin's largest hackathon, and got four years of audacity, whimsy, and absurdity to remember it by."
-    },
-    {
       "title": "The Outbox Pattern Visualized",
       "link": "https://dteather.com/blogs/the-outbox-pattern/",
       "author": "David Teather",
@@ -29,13 +22,6 @@
       "description": "A walkthrough of the weight-tensor permutation puzzle 'I Dropped a Neural Net', why pairing matters way more than ordering, Hungarian matching, and the structural fingerprint that fixed bad pairs."
     },
     {
-      "title": "Now: April 2026",
-      "link": "https://salm.dev/now/",
-      "author": "Nico Salm",
-      "date": "2026-04-01",
-      "description": "What I'm working on, reading, and thinking about right now."
-    },
-    {
       "title": "PostgreSQL: Transactions, Row Locks, and Advisory Locks",
       "link": "https://dteather.com/blogs/postgres-advisory-locks/",
       "author": "David Teather",
@@ -48,13 +34,6 @@
       "author": "David Teather",
       "date": "2026-03-16",
       "description": "I built a Chrome extension to make NYC apartment hunting on StreetEasy less painful by showing move-in dates, hiding noise, and adding notes/tags/ratings."
-    },
-    {
-      "title": "Remote SSH with Zed",
-      "link": "https://salm.dev/writing/remote-ssh-with-zed/",
-      "author": "Nico Salm",
-      "date": "2026-03-11",
-      "description": "How to get Zed's remote SSH working on UW-Madison's CS lab machines with AFS, load balancers, and all."
     },
     {
       "title": "MadHacks Potpourri",
@@ -76,13 +55,6 @@
       "author": "James Ma",
       "date": "2026-02-05",
       "description": "I recently had to debug a dynamic linking issue. This took me down a rabbit hole exploring how dynamic linkers work - in particular, how a dynamic linker resolves an external function at runtime. How..."
-    },
-    {
-      "title": "From Rivers Rose Empires",
-      "link": "https://salm.dev/writing/from-rivers-rose-empires/",
-      "author": "Nico Salm",
-      "date": "2026-01-04",
-      "description": "No really, where would we be without them?"
     },
     {
       "title": "A Better Judging Algorithm for the Largest Hackathon in Wisconsin",
@@ -197,25 +169,11 @@
       "description": "A while ago, Tsoding did a stream on parsing JSON with parser combinators. I was curious how hard it would be to use the basic parsers he implemented to create a new parser for U.S. postal addresses...."
     },
     {
-      "title": "Create, Don't Consume",
-      "link": "https://salm.dev/writing/create-dont-consume/",
-      "author": "Nico Salm",
-      "date": "2025-06-27",
-      "description": "We're trading long-term fulfillment for short-term dopamine hits, and each trade makes the next one harder to resist."
-    },
-    {
       "title": "Attention as a kernel smoothing problem",
       "link": "https://jamesma.dev/2025/attention-and-kernel-smoothing/",
       "author": "James Ma",
       "date": "2025-05-23",
       "description": "Reddit discussion This post is about a rarely discussed interpretation of “attention,” the underlying technique behind transformers, which has found its way into everything from natural language proce..."
-    },
-    {
-      "title": "Winning Pokemon Showdown",
-      "link": "https://salm.dev/writing/winning-pokemon-showdown/",
-      "author": "Nico Salm",
-      "date": "2025-05-11",
-      "description": "We used game theory to find the mathematically optimal strategies in Pokémon Showdown battles."
     },
     {
       "title": "Automating keyword extraction and ranking to enhance a resume",
@@ -321,13 +279,6 @@
       "author": "Blog on Lucas's Webpage",
       "date": "2024-10-13",
       "description": "I’m an enthusiast and daily user of git’s command line interface 1. While GUIs offer advantages in visualization and intuition2, they greatly fall short in power3, concision, and extensibility. Like v..."
-    },
-    {
-      "title": "Command Line Productivity",
-      "link": "https://salm.dev/writing/command-line-productivity/",
-      "author": "Nico Salm",
-      "date": "2024-10-10",
-      "description": "I describe my minimal, focused, keyboard-centric workflow where I do my best work. In other words: I shill Vim."
     },
     {
       "title": "Adding UML Diagrams to Rehype in Astro (With rehype-mermaid)",
