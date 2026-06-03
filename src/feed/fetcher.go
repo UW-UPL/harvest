@@ -94,8 +94,27 @@ func getDescription(candidates ...string) string {
 
 var httpClient = &http.Client{Timeout: 15 * time.Second}
 
+const fetchRetries = 3
+const fetchRetryDelay = 5 * time.Second
+
 func FetchFeed(url string) ([]BlogPost, error) {
-	resp, err := httpClient.Get(url)
+	var (
+		resp *http.Response
+		err  error
+	)
+	for attempt := 0; attempt < fetchRetries; attempt++ {
+		resp, err = httpClient.Get(url)
+		if err == nil && resp.StatusCode < 500 {
+			break
+		}
+		if resp != nil {
+			resp.Body.Close()
+		}
+		if attempt < fetchRetries-1 {
+			log.Printf("warn: attempt %d fetching %s failed (%v), retrying in %v", attempt+1, url, err, fetchRetryDelay)
+			time.Sleep(fetchRetryDelay)
+		}
+	}
 	if err != nil {
 		return nil, fmt.Errorf("fetching feed %s: %w", url, err)
 	}
