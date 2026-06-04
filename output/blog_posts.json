@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Now: May 2026",
+      "link": "https://salm.dev/now/",
+      "author": "Nico Salm",
+      "date": "2026-05-31",
+      "description": "What I'm working on, reading, and thinking about right now."
+    },
+    {
       "title": "My Wisconsin Experience",
       "link": "https://salm.dev/writing/my-wisconsin-experience/",
       "author": "Nico Salm",
@@ -22,18 +29,18 @@
       "description": "Visit post for details."
     },
     {
+      "title": "Now: April 2026",
+      "link": "https://salm.dev/now/2026-04-01/",
+      "author": "Nico Salm",
+      "date": "2026-04-30",
+      "description": "What I'm working on, reading, and thinking about right now."
+    },
+    {
       "title": "Solving \"I Dropped a Neural Net\"",
       "link": "https://dteather.com/blogs/js-dropped-my-nn/",
       "author": "David Teather",
       "date": "2026-04-24",
       "description": "A walkthrough of the weight-tensor permutation puzzle 'I Dropped a Neural Net', why pairing matters way more than ordering, Hungarian matching, and the structural fingerprint that fixed bad pairs."
-    },
-    {
-      "title": "Now: April 2026",
-      "link": "https://salm.dev/now/",
-      "author": "Nico Salm",
-      "date": "2026-04-01",
-      "description": "What I'm working on, reading, and thinking about right now."
     },
     {
       "title": "PostgreSQL: Transactions, Row Locks, and Advisory Locks",

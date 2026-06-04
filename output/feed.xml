@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Now: May 2026</title>
+      <link>https://salm.dev/now/</link>
+      <description>What I&#39;m working on, reading, and thinking about right now.</description>
+      <author>Nico Salm</author>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/now/</guid>
+    </item>
     <item>
       <title>My Wisconsin Experience</title>
       <link>https://salm.dev/writing/my-wisconsin-experience/</link>
@@ -32,20 +40,20 @@
       <guid>https://www.amoses.dev/then/2026-05-01/</guid>
     </item>
     <item>
+      <title>Now: April 2026</title>
+      <link>https://salm.dev/now/2026-04-01/</link>
+      <description>What I&#39;m working on, reading, and thinking about right now.</description>
+      <author>Nico Salm</author>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/now/2026-04-01/</guid>
+    </item>
+    <item>
       <title>Solving &#34;I Dropped a Neural Net&#34;</title>
       <link>https://dteather.com/blogs/js-dropped-my-nn/</link>
       <description>A walkthrough of the weight-tensor permutation puzzle &#39;I Dropped a Neural Net&#39;, why pairing matters way more than ordering, Hungarian matching, and the structural fingerprint that fixed bad pairs.</description>
       <author>David Teather</author>
       <pubDate>Fri, 24 Apr 2026 17:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/js-dropped-my-nn/</guid>
-    </item>
-    <item>
-      <title>Now: April 2026</title>
-      <link>https://salm.dev/now/</link>
-      <description>What I&#39;m working on, reading, and thinking about right now.</description>
-      <author>Nico Salm</author>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/now/</guid>
     </item>
     <item>
       <title>PostgreSQL: Transactions, Row Locks, and Advisory Locks</title>
