@@ -1,8 +1,15 @@
 {
   "posts": [
     {
-      "title": "Now: May 2026",
+      "title": "Now: June 2026",
       "link": "https://salm.dev/now/",
+      "author": "Nico Salm",
+      "date": "2026-06-26",
+      "description": "What I'm working on, reading, and thinking about right now."
+    },
+    {
+      "title": "Now: May 2026",
+      "link": "https://salm.dev/now/2026-may/",
       "author": "Nico Salm",
       "date": "2026-05-31",
       "description": "What I'm working on, reading, and thinking about right now."
@@ -30,7 +37,7 @@
     },
     {
       "title": "Now: April 2026",
-      "link": "https://salm.dev/now/2026-04-01/",
+      "link": "https://salm.dev/now/2026-apr/",
       "author": "Nico Salm",
       "date": "2026-04-30",
       "description": "What I'm working on, reading, and thinking about right now."

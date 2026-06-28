@@ -5,15 +5,23 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Now: May 2026</title>
+      <title>Now: June 2026</title>
       <link>https://salm.dev/now/</link>
       <description>What I&#39;m working on, reading, and thinking about right now.</description>
       <author>Nico Salm</author>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://salm.dev/now/</guid>
+    </item>
+    <item>
+      <title>Now: May 2026</title>
+      <link>https://salm.dev/now/2026-may/</link>
+      <description>What I&#39;m working on, reading, and thinking about right now.</description>
+      <author>Nico Salm</author>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/now/2026-may/</guid>
     </item>
     <item>
       <title>My Wisconsin Experience</title>
@@ -41,11 +49,11 @@
     </item>
     <item>
       <title>Now: April 2026</title>
-      <link>https://salm.dev/now/2026-04-01/</link>
+      <link>https://salm.dev/now/2026-apr/</link>
       <description>What I&#39;m working on, reading, and thinking about right now.</description>
       <author>Nico Salm</author>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/now/2026-04-01/</guid>
+      <guid>https://salm.dev/now/2026-apr/</guid>
     </item>
     <item>
       <title>Solving &#34;I Dropped a Neural Net&#34;</title>
