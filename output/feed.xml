@@ -58,7 +58,7 @@
     <item>
       <title>Solving &#34;I Dropped a Neural Net&#34;</title>
       <link>https://dteather.com/blogs/js-dropped-my-nn/</link>
-      <description>A walkthrough of the weight-tensor permutation puzzle &#39;I Dropped a Neural Net&#39;, why pairing matters way more than ordering, Hungarian matching, and the structural fingerprint that fixed bad pairs.</description>
+      <description>How I solved the &#39;I Dropped a Neural Net&#39; weight permutation puzzle: why pairing beats ordering, Hungarian matching, and the fingerprint that fixed bad pairs.</description>
       <author>David Teather</author>
       <pubDate>Fri, 24 Apr 2026 17:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/js-dropped-my-nn/</guid>
@@ -66,7 +66,7 @@
     <item>
       <title>PostgreSQL: Transactions, Row Locks, and Advisory Locks</title>
       <link>https://dteather.com/blogs/postgres-advisory-locks/</link>
-      <description>How PostgreSQL row locks for update, for share and advisory locks interact: session vs transaction scope, pgadvisoryxactlock, deadlocks, bigint keys, and fetch–lock–refetch.</description>
+      <description>How PostgreSQL row locks for update, for share and advisory locks interact: session vs transaction scope, deadlocks, bigint keys, and fetch-lock-refetch.</description>
       <author>David Teather</author>
       <pubDate>Fri, 27 Mar 2026 17:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/postgres-advisory-locks/</guid>
@@ -194,7 +194,7 @@
     <item>
       <title>How to Add Live Stats To Your Site</title>
       <link>https://dteather.com/blogs/how-to-add-live-stats-to-your-site/</link>
-      <description>Learn how to add live, constantly updating stats from GitHub, YouTube, LinkedIn, and more to your website using APIs, web scraping, and Cloudflare Functions.</description>
+      <description>I pull live GitHub, YouTube, and LinkedIn stats into my site using public APIs, scraping, and a Cloudflare Workers proxy.</description>
       <author>David Teather</author>
       <pubDate>Fri, 22 Aug 2025 15:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/how-to-add-live-stats-to-your-site/</guid>
@@ -232,9 +232,9 @@
       <guid>https://nick.winans.io/blog/perfect-keyboard/</guid>
     </item>
     <item>
-      <title>Why 99% of GitHub Projects Die (And the 3 Rules That Got Me 2M+ Downloads)</title>
+      <title>Why 99% of GitHub Projects Die (And the 3 Rules That Got Me 3M+ Downloads)</title>
       <link>https://dteather.com/blogs/why-99-percent-of-github-projects-fail/</link>
-      <description>Learn the 3 critical rules that separate successful GitHub projects from the 99% that fail. Discover proven strategies that took my TikTokAPI from 0 to 5000 stars and 2M downloads, including search...</description>
+      <description>I found the 3 rules that took my TikTokAPI project from 0 to 7K stars and 3M downloads: search validation, friction elimination, and discoverability tactics.</description>
       <author>David Teather</author>
       <pubDate>Mon, 14 Jul 2025 15:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/why-99-percent-of-github-projects-fail/</guid>
@@ -322,7 +322,7 @@
     <item>
       <title>Adding Giscus Discussions to Astro</title>
       <link>https://dteather.com/blogs/adding-giscus-discussions-to-astro/</link>
-      <description>Discover how to integrate Giscus discussions into your Astro blog. Learn to boost engagement with interactive comments, effortless moderation, and theme customization.</description>
+      <description>I added Giscus comments backed by GitHub Discussions to my Astro blog, with theme syncing and moderation through the Giscus app.</description>
       <author>David Teather</author>
       <pubDate>Tue, 11 Feb 2025 03:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/adding-giscus-discussions-to-astro/</guid>
@@ -362,7 +362,7 @@
     <item>
       <title>Adding Interactive Charts to Astro</title>
       <link>https://dteather.com/blogs/astro-interactive-charts/</link>
-      <description>Learn how to add interactive data visualizations to your Astro site using Apex Charts. This guide includes setup steps, customization tips, and code examples to help you bring your data to life with i...</description>
+      <description>I added interactive, theme-adaptive charts to Astro markdown using ApexCharts, with setup steps and dark mode syncing code.</description>
       <author>David Teather</author>
       <pubDate>Wed, 30 Oct 2024 03:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/astro-interactive-charts/</guid>
@@ -402,7 +402,7 @@
     <item>
       <title>Adding UML Diagrams to Rehype in Astro (With rehype-mermaid)</title>
       <link>https://dteather.com/blogs/astro-uml-diagrams/</link>
-      <description>Learn how to add and style UML diagrams in your Astro project using Rehype and Mermaid.js. This step-by-step guide covers setup, customization for dark mode, and image support, making it perfect for s...</description>
+      <description>I render Mermaid diagrams in Astro markdown with rehype-mermaid and Playwright, including dark mode support and inline images.</description>
       <author>David Teather</author>
       <pubDate>Mon, 07 Oct 2024 03:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/astro-uml-diagrams/</guid>
@@ -434,7 +434,7 @@
     <item>
       <title>Is Web Scraping Ethical?</title>
       <link>https://dteather.com/blogs/is-web-scraping-ethical/</link>
-      <description>Web scraping: a tool for innovation or a threat to privacy? Dive into the ethical gray areas of data extraction and explore the real-world impacts on research, competition, and personal privacy.</description>
+      <description>I look at whether web scraping is ethical, drawing on building TikTokAPI 3M downloads and its use in research at Yale, Northwestern, and UNESCO.</description>
       <author>David Teather</author>
       <pubDate>Fri, 23 Aug 2024 03:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/is-web-scraping-ethical/</guid>
@@ -450,7 +450,7 @@
     <item>
       <title>Adding an Astro Search Bar</title>
       <link>https://dteather.com/blogs/astro-search-bar/</link>
-      <description>Enhance your Astro-built website with a powerful, locally-powered search bar Join David Teather as he guides you through adding a custom search feature using astro-pagefind. This blog includes easy-t...</description>
+      <description>I added client-side search to my Astro site with astro-pagefind, no third-party APIs or hosting required. Here&#39;s the setup and config.</description>
       <author>David Teather</author>
       <pubDate>Fri, 26 Jul 2024 17:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/astro-search-bar/</guid>
@@ -458,7 +458,7 @@
     <item>
       <title>Astro Optimized Images With Markdown</title>
       <link>https://dteather.com/blogs/astro-optimized-images/</link>
-      <description>Learn how to optimize images using Astro with Markdown in this detailed guide by David Teather. Discover step-by-step instructions on moving images for better web performance and reducing load times,...</description>
+      <description>I use Astro&#39;s built-in image optimization with Markdown to move images from public to src, cutting load times and file sizes.</description>
       <author>David Teather</author>
       <pubDate>Fri, 26 Jul 2024 15:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/astro-optimized-images/</guid>
@@ -514,7 +514,7 @@
     <item>
       <title>IMC Prosperity 2</title>
       <link>https://dteather.com/blogs/imc-prosperity-2/</link>
-      <description>Join David Teather in his compelling account of competing in the IMC Prosperity 2 competition. This blog post covers his journey through the stages of virtual asset trading, from algorithmic to manual...</description>
+      <description>I competed in IMC Prosperity 2, a trading competition, writing algorithmic and manual strategies each round, and finished 103 in the US, 381 overall.</description>
       <author>David Teather</author>
       <pubDate>Fri, 03 May 2024 15:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/imc-prosperity-2/</guid>
@@ -530,7 +530,7 @@
     <item>
       <title>My UW Madison Course Tier List</title>
       <link>https://dteather.com/blogs/madison-class-rankings/</link>
-      <description>I&#39;m about to graduate from UW Madison and I thought I&#39;d share my thoughts on the classes that I&#39;ve taken. I&#39;m a Computer Science major with a certificate in Entrepreneurship. Hopefully this can help y...</description>
+      <description>I ranked every UW-Madison computer science course I took into a tier list, starting with 642 Information Security, based on what I actually learned and enjoyed.</description>
       <author>David Teather</author>
       <pubDate>Thu, 25 Apr 2024 15:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/madison-class-rankings/</guid>
@@ -586,7 +586,7 @@
     <item>
       <title>GitHub Field Day NYC 2024 Organizer</title>
       <link>https://dteather.com/blogs/github-fieldday-nyc-2024/</link>
-      <description>I had the pleasure of helping organize GitHub Field Day NYC 2024, and it took a lot of planning and coordination to make it happen. I had a lot of fun at the event and wanted to detail some of the thi...</description>
+      <description>I helped organize GitHub Field Day NYC 2024, an unconference for GitHub Campus Experts. Here&#39;s what went into planning it and what stood out at the event.</description>
       <author>David Teather</author>
       <pubDate>Fri, 15 Mar 2024 15:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/github-fieldday-nyc-2024/</guid>
@@ -610,7 +610,7 @@
     <item>
       <title>Battlecode 2024 Finalist</title>
       <link>https://dteather.com/blogs/battlecode24/</link>
-      <description>I was dragged into Battlecode 2024 by one of our teammates. I had never heard of Battlecode before, but I was excited to try it out. I had a lot of fun and I&#39;m glad I did it, and we ended up qualifyin...</description>
+      <description>I competed in Battlecode 2024 as a first-time participant and qualified for the finals, placing 13th out of about 400 teams.</description>
       <author>David Teather</author>
       <pubDate>Sun, 28 Jan 2024 15:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/battlecode24/</guid>
@@ -626,7 +626,7 @@
     <item>
       <title>Organizing MadHacks Fall 2023 Reflections</title>
       <link>https://dteather.com/blogs/madhacks-fall-23/</link>
-      <description>David Teather&#39;s reflections on organizing MadHacks Fall 2023, a 24-hour hackathon at the University of Wisconsin-Madison, and the lessons learned from the experience.</description>
+      <description>I organized MadHacks Fall 2023, a 24-hour UW-Madison hackathon with 250 attendees and over $15K raised in sponsorships. Here&#39;s what I learned running it.</description>
       <author>David Teather</author>
       <pubDate>Sat, 11 Nov 2023 15:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/madhacks-fall-23/</guid>
@@ -714,7 +714,7 @@
     <item>
       <title>LINK.social Exposed Users&#39; Sensitive Information &amp; Mass Account Hijacking</title>
       <link>https://dteather.com/blogs/link-social-exposing-sensitive-personal-information/</link>
-      <description>Learn how LINK.social exposed sensitive user information, including locations, phone numbers, and birthdays, along with vulnerabilities allowing mass account hijacking.</description>
+      <description>I found a broken auth flaw in LINK.social exposing every user&#39;s phone number, location, and birthday, plus an exploit to hijack any account. Bug bounty: $500.</description>
       <author>David Teather</author>
       <pubDate>Thu, 14 Jul 2022 15:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/link-social-exposing-sensitive-personal-information/</guid>
@@ -730,7 +730,7 @@
     <item>
       <title>YikYak Is Exposing Millions of User Locations</title>
       <link>https://dteather.com/blogs/yikyak-is-exposing-user-locations/</link>
-      <description>Discover how YikYak&#39;s exposed GPS coordinates and user IDs put millions at risk. Learn the implications, recommended fixes, and how to protect your privacy.</description>
+      <description>I found YikYak attaches precise GPS coordinates, accurate to 10-15 feet, on every post, exposing 2 million users&#39; locations. Covered by Vice and The Verge.</description>
       <author>David Teather</author>
       <pubDate>Mon, 09 May 2022 15:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/yikyak-is-exposing-user-locations/</guid>

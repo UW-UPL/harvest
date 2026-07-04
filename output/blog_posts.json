@@ -47,14 +47,14 @@
       "link": "https://dteather.com/blogs/js-dropped-my-nn/",
       "author": "David Teather",
       "date": "2026-04-24",
-      "description": "A walkthrough of the weight-tensor permutation puzzle 'I Dropped a Neural Net', why pairing matters way more than ordering, Hungarian matching, and the structural fingerprint that fixed bad pairs."
+      "description": "How I solved the 'I Dropped a Neural Net' weight permutation puzzle: why pairing beats ordering, Hungarian matching, and the fingerprint that fixed bad pairs."
     },
     {
       "title": "PostgreSQL: Transactions, Row Locks, and Advisory Locks",
       "link": "https://dteather.com/blogs/postgres-advisory-locks/",
       "author": "David Teather",
       "date": "2026-03-27",
-      "description": "How PostgreSQL row locks for update, for share and advisory locks interact: session vs transaction scope, pgadvisoryxactlock, deadlocks, bigint keys, and fetch–lock–refetch."
+      "description": "How PostgreSQL row locks for update, for share and advisory locks interact: session vs transaction scope, deadlocks, bigint keys, and fetch-lock-refetch."
     },
     {
       "title": "SimpleStreet: A Chrome Extension for StreetEasy",
@@ -166,7 +166,7 @@
       "link": "https://dteather.com/blogs/how-to-add-live-stats-to-your-site/",
       "author": "David Teather",
       "date": "2025-08-22",
-      "description": "Learn how to add live, constantly updating stats from GitHub, YouTube, LinkedIn, and more to your website using APIs, web scraping, and Cloudflare Functions."
+      "description": "I pull live GitHub, YouTube, and LinkedIn stats into my site using public APIs, scraping, and a Cloudflare Workers proxy."
     },
     {
       "title": "Reflections A Year Into My Career",
@@ -197,11 +197,11 @@
       "description": "Perfecting every part of my Lily58 keyboard."
     },
     {
-      "title": "Why 99% of GitHub Projects Die (And the 3 Rules That Got Me 2M+ Downloads)",
+      "title": "Why 99% of GitHub Projects Die (And the 3 Rules That Got Me 3M+ Downloads)",
       "link": "https://dteather.com/blogs/why-99-percent-of-github-projects-fail/",
       "author": "David Teather",
       "date": "2025-07-14",
-      "description": "Learn the 3 critical rules that separate successful GitHub projects from the 99% that fail. Discover proven strategies that took my TikTokAPI from 0 to 5000 stars and 2M downloads, including search..."
+      "description": "I found the 3 rules that took my TikTokAPI project from 0 to 7K stars and 3M downloads: search validation, friction elimination, and discoverability tactics."
     },
     {
       "title": "Parser combinators for postal addresses",
@@ -278,7 +278,7 @@
       "link": "https://dteather.com/blogs/adding-giscus-discussions-to-astro/",
       "author": "David Teather",
       "date": "2025-02-11",
-      "description": "Discover how to integrate Giscus discussions into your Astro blog. Learn to boost engagement with interactive comments, effortless moderation, and theme customization."
+      "description": "I added Giscus comments backed by GitHub Discussions to my Astro blog, with theme syncing and moderation through the Giscus app."
     },
     {
       "title": "InkLink",
@@ -313,7 +313,7 @@
       "link": "https://dteather.com/blogs/astro-interactive-charts/",
       "author": "David Teather",
       "date": "2024-10-30",
-      "description": "Learn how to add interactive data visualizations to your Astro site using Apex Charts. This guide includes setup steps, customization tips, and code examples to help you bring your data to life with i..."
+      "description": "I added interactive, theme-adaptive charts to Astro markdown using ApexCharts, with setup steps and dark mode syncing code."
     },
     {
       "title": "Types and Programming Languages",
@@ -348,7 +348,7 @@
       "link": "https://dteather.com/blogs/astro-uml-diagrams/",
       "author": "David Teather",
       "date": "2024-10-07",
-      "description": "Learn how to add and style UML diagrams in your Astro project using Rehype and Mermaid.js. This step-by-step guide covers setup, customization for dark mode, and image support, making it perfect for s..."
+      "description": "I render Mermaid diagrams in Astro markdown with rehype-mermaid and Playwright, including dark mode support and inline images."
     },
     {
       "title": "Problems and Solutions to Long term Prediction Markets",
@@ -376,7 +376,7 @@
       "link": "https://dteather.com/blogs/is-web-scraping-ethical/",
       "author": "David Teather",
       "date": "2024-08-23",
-      "description": "Web scraping: a tool for innovation or a threat to privacy? Dive into the ethical gray areas of data extraction and explore the real-world impacts on research, competition, and personal privacy."
+      "description": "I look at whether web scraping is ethical, drawing on building TikTokAPI 3M downloads and its use in research at Yale, Northwestern, and UNESCO."
     },
     {
       "title": "Programming Paradigms",
@@ -390,14 +390,14 @@
       "link": "https://dteather.com/blogs/astro-search-bar/",
       "author": "David Teather",
       "date": "2024-07-26",
-      "description": "Enhance your Astro-built website with a powerful, locally-powered search bar Join David Teather as he guides you through adding a custom search feature using astro-pagefind. This blog includes easy-t..."
+      "description": "I added client-side search to my Astro site with astro-pagefind, no third-party APIs or hosting required. Here's the setup and config."
     },
     {
       "title": "Astro Optimized Images With Markdown",
       "link": "https://dteather.com/blogs/astro-optimized-images/",
       "author": "David Teather",
       "date": "2024-07-26",
-      "description": "Learn how to optimize images using Astro with Markdown in this detailed guide by David Teather. Discover step-by-step instructions on moving images for better web performance and reducing load times,..."
+      "description": "I use Astro's built-in image optimization with Markdown to move images from public to src, cutting load times and file sizes."
     },
     {
       "title": "Hacking Is Necessary",
@@ -446,7 +446,7 @@
       "link": "https://dteather.com/blogs/imc-prosperity-2/",
       "author": "David Teather",
       "date": "2024-05-03",
-      "description": "Join David Teather in his compelling account of competing in the IMC Prosperity 2 competition. This blog post covers his journey through the stages of virtual asset trading, from algorithmic to manual..."
+      "description": "I competed in IMC Prosperity 2, a trading competition, writing algorithmic and manual strategies each round, and finished 103 in the US, 381 overall."
     },
     {
       "title": "Computers Are Magic",
@@ -460,7 +460,7 @@
       "link": "https://dteather.com/blogs/madison-class-rankings/",
       "author": "David Teather",
       "date": "2024-04-25",
-      "description": "I'm about to graduate from UW Madison and I thought I'd share my thoughts on the classes that I've taken. I'm a Computer Science major with a certificate in Entrepreneurship. Hopefully this can help y..."
+      "description": "I ranked every UW-Madison computer science course I took into a tier list, starting with 642 Information Security, based on what I actually learned and enjoyed."
     },
     {
       "title": "Code Without Fear",
@@ -509,7 +509,7 @@
       "link": "https://dteather.com/blogs/github-fieldday-nyc-2024/",
       "author": "David Teather",
       "date": "2024-03-15",
-      "description": "I had the pleasure of helping organize GitHub Field Day NYC 2024, and it took a lot of planning and coordination to make it happen. I had a lot of fun at the event and wanted to detail some of the thi..."
+      "description": "I helped organize GitHub Field Day NYC 2024, an unconference for GitHub Campus Experts. Here's what went into planning it and what stood out at the event."
     },
     {
       "title": "Lazy vs Eager Learning",
@@ -530,7 +530,7 @@
       "link": "https://dteather.com/blogs/battlecode24/",
       "author": "David Teather",
       "date": "2024-01-28",
-      "description": "I was dragged into Battlecode 2024 by one of our teammates. I had never heard of Battlecode before, but I was excited to try it out. I had a lot of fun and I'm glad I did it, and we ended up qualifyin..."
+      "description": "I competed in Battlecode 2024 as a first-time participant and qualified for the finals, placing 13th out of about 400 teams."
     },
     {
       "title": "APL Tutorial",
@@ -544,7 +544,7 @@
       "link": "https://dteather.com/blogs/madhacks-fall-23/",
       "author": "David Teather",
       "date": "2023-11-11",
-      "description": "David Teather's reflections on organizing MadHacks Fall 2023, a 24-hour hackathon at the University of Wisconsin-Madison, and the lessons learned from the experience."
+      "description": "I organized MadHacks Fall 2023, a 24-hour UW-Madison hackathon with 250 attendees and over $15K raised in sponsorships. Here's what I learned running it."
     },
     {
       "title": "Every Vim Binding I Know",
@@ -621,7 +621,7 @@
       "link": "https://dteather.com/blogs/link-social-exposing-sensitive-personal-information/",
       "author": "David Teather",
       "date": "2022-07-14",
-      "description": "Learn how LINK.social exposed sensitive user information, including locations, phone numbers, and birthdays, along with vulnerabilities allowing mass account hijacking."
+      "description": "I found a broken auth flaw in LINK.social exposing every user's phone number, location, and birthday, plus an exploit to hijack any account. Bug bounty: $500."
     },
     {
       "title": "A CS Course Map for Incoming UW-Madison Students",
@@ -635,7 +635,7 @@
       "link": "https://dteather.com/blogs/yikyak-is-exposing-user-locations/",
       "author": "David Teather",
       "date": "2022-05-09",
-      "description": "Discover how YikYak's exposed GPS coordinates and user IDs put millions at risk. Learn the implications, recommended fixes, and how to protect your privacy."
+      "description": "I found YikYak attaches precise GPS coordinates, accurate to 10-15 feet, on every post, exposing 2 million users' locations. Covered by Vice and The Verge."
     },
     {
       "title": "Exploiting GitHub Actions",
