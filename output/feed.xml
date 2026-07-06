@@ -72,9 +72,9 @@
       <guid>https://dteather.com/blogs/postgres-advisory-locks/</guid>
     </item>
     <item>
-      <title>SimpleStreet: A Chrome Extension for StreetEasy</title>
+      <title>SimpleStreet: A Free StreetEasy Chrome Extension</title>
       <link>https://dteather.com/blogs/simplestreet/</link>
-      <description>I built a Chrome extension to make NYC apartment hunting on StreetEasy less painful by showing move-in dates, hiding noise, and adding notes/tags/ratings.</description>
+      <description>SimpleStreet is a free Chrome extension for StreetEasy that shows move-in dates, hides sponsored listings, and adds notes, tags, and ratings.</description>
       <author>David Teather</author>
       <pubDate>Mon, 16 Mar 2026 15:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/simplestreet/</guid>
@@ -320,9 +320,9 @@
       <guid>https://jamesma.dev/2025/jellyfin-guide/</guid>
     </item>
     <item>
-      <title>Adding Giscus Discussions to Astro</title>
+      <title>How to Add Giscus Comments to an Astro Blog</title>
       <link>https://dteather.com/blogs/adding-giscus-discussions-to-astro/</link>
-      <description>I added Giscus comments backed by GitHub Discussions to my Astro blog, with theme syncing and moderation through the Giscus app.</description>
+      <description>Add Giscus comments to an Astro blog with GitHub Discussions, dark-mode syncing, and no server to maintain.</description>
       <author>David Teather</author>
       <pubDate>Tue, 11 Feb 2025 03:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/adding-giscus-discussions-to-astro/</guid>
@@ -360,9 +360,9 @@
       <guid>https://ben.enterprises/hello-blog</guid>
     </item>
     <item>
-      <title>Adding Interactive Charts to Astro</title>
+      <title>How to Add Interactive Charts to Astro with ApexCharts</title>
       <link>https://dteather.com/blogs/astro-interactive-charts/</link>
-      <description>I added interactive, theme-adaptive charts to Astro markdown using ApexCharts, with setup steps and dark mode syncing code.</description>
+      <description>Add interactive ApexCharts to Astro Markdown with a custom rehype plugin, dark-mode syncing, and a chart code block workflow.</description>
       <author>David Teather</author>
       <pubDate>Wed, 30 Oct 2024 03:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/astro-interactive-charts/</guid>
@@ -456,9 +456,9 @@
       <guid>https://dteather.com/blogs/astro-search-bar/</guid>
     </item>
     <item>
-      <title>Astro Optimized Images With Markdown</title>
+      <title>How to Optimize Images in Astro Markdown and Content Collections</title>
       <link>https://dteather.com/blogs/astro-optimized-images/</link>
-      <description>I use Astro&#39;s built-in image optimization with Markdown to move images from public to src, cutting load times and file sizes.</description>
+      <description>Optimize images in Astro Markdown and content collections with Astro&#39;s Image component, build-time WebP conversion, and lazy loading.</description>
       <author>David Teather</author>
       <pubDate>Fri, 26 Jul 2024 15:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/astro-optimized-images/</guid>
