@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Wardriving with my Cardputer",
+      "link": "https://mdberkey.github.io/blog/wardriving-with-my-cardputer/",
+      "author": "Michael Berkey",
+      "date": "2026-07-16",
+      "description": "My girlfriend gifted me a Cardputer Adv for my birthday, and I've had a lot of fun tinkering with it. I wanted a compact device to learn some white hat hacking. This made me want the Flipper Zero, unt..."
+    },
+    {
       "title": "Now: June 2026",
       "link": "https://salm.dev/now/",
       "author": "Nico Salm",

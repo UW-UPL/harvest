@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Wardriving with my Cardputer</title>
+      <link>https://mdberkey.github.io/blog/wardriving-with-my-cardputer/</link>
+      <description>My girlfriend gifted me a Cardputer Adv for my birthday, and I&#39;ve had a lot of fun tinkering with it. I wanted a compact device to learn some white hat hacking. This made me want the Flipper Zero, unt...</description>
+      <author>Michael Berkey</author>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://mdberkey.github.io/blog/wardriving-with-my-cardputer/</guid>
+    </item>
     <item>
       <title>Now: June 2026</title>
       <link>https://salm.dev/now/</link>
