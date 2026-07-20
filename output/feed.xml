@@ -112,6 +112,14 @@
       <guid>https://ben.enterprises/as-bad-atime-as-any</guid>
     </item>
     <item>
+      <title>Slowing Down</title>
+      <link>https://scharenbroch.dev/blog/slowing-down/</link>
+      <description>A day is a remarkably long time. It can be easy to forget that. Sometimes I like to take a minute and stare at a clock, feeling the eternity of each second. But more often than not, I find myself at t...</description>
+      <author>Blog on Lucas&#39;s Webpage</author>
+      <pubDate>Mon, 09 Feb 2026 23:19:32 -0800</pubDate>
+      <guid>https://scharenbroch.dev/blog/slowing-down/</guid>
+    </item>
+    <item>
       <title>Dynamic linking with lazy binding</title>
       <link>https://jamesma.dev/2026/dynamic-linking/</link>
       <description>I recently had to debug a dynamic linking issue. This took me down a rabbit hole exploring how dynamic linkers work - in particular, how a dynamic linker resolves an external function at runtime. How...</description>
@@ -142,6 +150,14 @@
       <author>James Ma</author>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://jamesma.dev/2025/regex-matching/</guid>
+    </item>
+    <item>
+      <title>Mimesis</title>
+      <link>https://scharenbroch.dev/blog/mimesis/</link>
+      <description>If you’ve ever been advised to “not compare yourself to others”1, you’ve been given an impossible task2. This is because the analysis of the behavior of other humans is how we make sense of the worl...</description>
+      <author>Blog on Lucas&#39;s Webpage</author>
+      <pubDate>Sat, 29 Nov 2025 14:17:44 -0600</pubDate>
+      <guid>https://scharenbroch.dev/blog/mimesis/</guid>
     </item>
     <item>
       <title>It&#39;s your fault my laptop knows where I am</title>

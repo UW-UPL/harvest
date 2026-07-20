@@ -92,6 +92,13 @@
       "description": "Visit post for details."
     },
     {
+      "title": "Slowing Down",
+      "link": "https://scharenbroch.dev/blog/slowing-down/",
+      "author": "Blog on Lucas's Webpage",
+      "date": "2026-02-09",
+      "description": "A day is a remarkably long time. It can be easy to forget that. Sometimes I like to take a minute and stare at a clock, feeling the eternity of each second. But more often than not, I find myself at t..."
+    },
+    {
       "title": "Dynamic linking with lazy binding",
       "link": "https://jamesma.dev/2026/dynamic-linking/",
       "author": "James Ma",
@@ -118,6 +125,13 @@
       "author": "James Ma",
       "date": "2025-12-10",
       "description": "This is a writeup of Leetcode 10. Regular Expression Matching. My motivation for writing this is twofold. The first is that most of the submitted solutions on Leetcode try to be too clever and succinc..."
+    },
+    {
+      "title": "Mimesis",
+      "link": "https://scharenbroch.dev/blog/mimesis/",
+      "author": "Blog on Lucas's Webpage",
+      "date": "2025-11-29",
+      "description": "If you’ve ever been advised to “not compare yourself to others”1, you’ve been given an impossible task2. This is because the analysis of the behavior of other humans is how we make sense of the worl..."
     },
     {
       "title": "It's your fault my laptop knows where I am",
