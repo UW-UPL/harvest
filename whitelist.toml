@@ -12,4 +12,5 @@ feeds = [
     "https://mdberkey.github.io/atom.xml",
     "https://scharenbroch.dev/blog/index.xml",
     "https://blackdiamand.github.io/feed.xml",
+    "https://nlessard.online/rss.xml",
 ]
