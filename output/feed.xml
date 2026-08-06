@@ -40,6 +40,14 @@
       <guid>https://salm.dev/now/2026-jun/</guid>
     </item>
     <item>
+      <title>Trains, Planes, and Bitmap IPC</title>
+      <link>https://nlessard.online/projects/traincam/</link>
+      <description>Creating efficient overlays in C for a UPL branded train entertainment system.</description>
+      <author>nlessard.online Project Blog</author>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nlessard.online/projects/traincam/</guid>
+    </item>
+    <item>
       <title>Now: May 2026</title>
       <link>https://salm.dev/now/2026-may/</link>
       <description>What I&#39;m working on, reading, and thinking about right now.</description>
@@ -128,6 +136,14 @@
       <guid>https://ben.enterprises/as-bad-atime-as-any</guid>
     </item>
     <item>
+      <title>Transmitting Data over Light</title>
+      <link>https://nlessard.online/projects/IRtransmission/</link>
+      <description>Learning about low-cost free-space optical data transmission, and its pros and cons.</description>
+      <author>Noah Lessard</author>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nlessard.online/projects/IRtransmission/</guid>
+    </item>
+    <item>
       <title>Slowing Down</title>
       <link>https://scharenbroch.dev/blog/slowing-down/</link>
       <description>A day is a remarkably long time. It can be easy to forget that. Sometimes I like to take a minute and stare at a clock, feeling the eternity of each second. But more often than not, I find myself at t...</description>
@@ -150,6 +166,14 @@
       <author>Nico Salm</author>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://salm.dev/writing/from-rivers-rose-empires/</guid>
+    </item>
+    <item>
+      <title>Databender &amp; Building Complex Programs</title>
+      <link>https://nlessard.online/projects/databender/</link>
+      <description>Building 3D UI systems for VR, multithreading, and contributing to Godot.</description>
+      <author>Noah Lessard</author>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nlessard.online/projects/databender/</guid>
     </item>
     <item>
       <title>A Better Judging Algorithm for the Largest Hackathon in Wisconsin</title>
@@ -310,6 +334,14 @@
       <author>Nico Salm</author>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
       <guid>https://salm.dev/writing/winning-pokemon-showdown/</guid>
+    </item>
+    <item>
+      <title>RP2040 Keystroke Sniffer</title>
+      <link>https://nlessard.online/projects/listener/</link>
+      <description>Combining hardware and software design to make a cybersecurity pentesting tool.</description>
+      <author>Noah Lessard</author>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://nlessard.online/projects/listener/</guid>
     </item>
     <item>
       <title>Automating keyword extraction and ranking to enhance a resume</title>

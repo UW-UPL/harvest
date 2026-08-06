@@ -29,6 +29,13 @@
       "description": "What I'm working on, reading, and thinking about right now."
     },
     {
+      "title": "Trains, Planes, and Bitmap IPC",
+      "link": "https://nlessard.online/projects/traincam/",
+      "author": "nlessard.online Project Blog",
+      "date": "2026-06-15",
+      "description": "Creating efficient overlays in C for a UPL branded train entertainment system."
+    },
+    {
       "title": "Now: May 2026",
       "link": "https://salm.dev/now/2026-may/",
       "author": "Nico Salm",
@@ -106,6 +113,13 @@
       "description": "Visit post for details."
     },
     {
+      "title": "Transmitting Data over Light",
+      "link": "https://nlessard.online/projects/IRtransmission/",
+      "author": "Noah Lessard",
+      "date": "2026-02-12",
+      "description": "Learning about low-cost free-space optical data transmission, and its pros and cons."
+    },
+    {
       "title": "Slowing Down",
       "link": "https://scharenbroch.dev/blog/slowing-down/",
       "author": "Blog on Lucas's Webpage",
@@ -125,6 +139,13 @@
       "author": "Nico Salm",
       "date": "2026-01-04",
       "description": "No really, where would we be without them?"
+    },
+    {
+      "title": "Databender \u0026 Building Complex Programs",
+      "link": "https://nlessard.online/projects/databender/",
+      "author": "Noah Lessard",
+      "date": "2025-12-29",
+      "description": "Building 3D UI systems for VR, multithreading, and contributing to Godot."
     },
     {
       "title": "A Better Judging Algorithm for the Largest Hackathon in Wisconsin",
@@ -265,6 +286,13 @@
       "author": "Nico Salm",
       "date": "2025-05-11",
       "description": "We used game theory to find the mathematically optimal strategies in Pokémon Showdown battles."
+    },
+    {
+      "title": "RP2040 Keystroke Sniffer",
+      "link": "https://nlessard.online/projects/listener/",
+      "author": "Noah Lessard",
+      "date": "2025-05-02",
+      "description": "Combining hardware and software design to make a cybersecurity pentesting tool."
     },
     {
       "title": "Automating keyword extraction and ranking to enhance a resume",
