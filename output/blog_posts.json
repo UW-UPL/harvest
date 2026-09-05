@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Now: August 2026",
+      "link": "https://salm.dev/now/",
+      "author": "Nico Salm",
+      "date": "2026-08-31",
+      "description": "What I'm working on, reading, and thinking about right now."
+    },
+    {
       "title": "Powering off TVs with my Cardputer",
       "link": "https://mdberkey.github.io/blog/powering-off-tvs-with-my-cardputer/",
       "author": "Michael Berkey",
@@ -9,7 +16,7 @@
     },
     {
       "title": "Now: July 2026",
-      "link": "https://salm.dev/now/",
+      "link": "https://salm.dev/now/2026-jul/",
       "author": "Nico Salm",
       "date": "2026-07-29",
       "description": "What I'm working on, reading, and thinking about right now."
