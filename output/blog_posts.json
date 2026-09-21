@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Opinions on Web Design",
+      "link": "https://salm.dev/writing/opinions-on-web-design/",
+      "author": "Nico Salm",
+      "date": "2026-09-20",
+      "description": "A few handy tips and tricks for elevating one's UI design and breaking away from the crude, homogenized AI aesthetic."
+    },
+    {
       "title": "Now: August 2026",
       "link": "https://salm.dev/now/",
       "author": "Nico Salm",

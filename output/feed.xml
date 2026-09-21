@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Opinions on Web Design</title>
+      <link>https://salm.dev/writing/opinions-on-web-design/</link>
+      <description>A few handy tips and tricks for elevating one&#39;s UI design and breaking away from the crude, homogenized AI aesthetic.</description>
+      <author>Nico Salm</author>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/writing/opinions-on-web-design/</guid>
+    </item>
     <item>
       <title>Now: August 2026</title>
       <link>https://salm.dev/now/</link>
