@@ -72,9 +72,9 @@
       <guid>https://salm.dev/writing/my-wisconsin-experience/</guid>
     </item>
     <item>
-      <title>The Outbox Pattern Visualized</title>
+      <title>The Transactional Outbox Pattern, Visualized</title>
       <link>https://dteather.com/blogs/the-outbox-pattern/</link>
-      <description>An interactive walkthrough of the outbox pattern with live simulations: what it solves, how it works, and what it looks like under load.</description>
+      <description>An interactive walkthrough of the transactional outbox pattern with Postgres and Kafka: the dual-write problem it solves, how the relay works, and what it looks like under load.</description>
       <author>David Teather</author>
       <pubDate>Sat, 23 May 2026 17:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/the-outbox-pattern/</guid>
@@ -104,9 +104,9 @@
       <guid>https://dteather.com/blogs/js-dropped-my-nn/</guid>
     </item>
     <item>
-      <title>PostgreSQL: Transactions, Row Locks, and Advisory Locks</title>
+      <title>PostgreSQL Advisory Locks vs Row Locks: pg_advisory_xact_lock Explained</title>
       <link>https://dteather.com/blogs/postgres-advisory-locks/</link>
-      <description>How PostgreSQL row locks for update, for share and advisory locks interact: session vs transaction scope, deadlocks, bigint keys, and fetch-lock-refetch.</description>
+      <description>When to use pgadvisoryxactlock vs pgadvisorylock vs SELECT FOR UPDATE in PostgreSQL: session and transaction scope, bigint keys, deadlocks, and a safe fetch-lock-refetch pattern, with Go and SQL...</description>
       <author>David Teather</author>
       <pubDate>Fri, 27 Mar 2026 17:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/postgres-advisory-locks/</guid>
@@ -608,7 +608,7 @@
       <guid>https://scharenbroch.dev/blog/computers-are-magic/</guid>
     </item>
     <item>
-      <title>My UW Madison Course Tier List</title>
+      <title>UW Madison CS Course Tier List: Easiest, Hardest, and Clap-for-Credit</title>
       <link>https://dteather.com/blogs/madison-class-rankings/</link>
       <description>I ranked every UW-Madison computer science course I took into a tier list, starting with 642 Information Security, based on what I actually learned and enjoyed.</description>
       <author>David Teather</author>
