@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Now: September 2026",
+      "link": "https://salm.dev/now/",
+      "author": "Nico Salm",
+      "date": "2026-09-30",
+      "description": "What I was working on, reading, and thinking about in September 2026."
+    },
+    {
       "title": "Opinions on Web Design",
       "link": "https://salm.dev/writing/opinions-on-web-design/",
       "author": "Nico Salm",
@@ -9,7 +16,7 @@
     },
     {
       "title": "Now: August 2026",
-      "link": "https://salm.dev/now/",
+      "link": "https://salm.dev/now/2026-aug/",
       "author": "Nico Salm",
       "date": "2026-08-31",
       "description": "What I was working on, reading, and thinking about in August 2026."
