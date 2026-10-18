@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Wed, 30 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2026 17:00:00 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2026 17:00:00 +0000</lastBuildDate>
+    <item>
+      <title>False Sharing, Visualized</title>
+      <link>https://dteather.com/blogs/false-sharing/</link>
+      <description>Two threads writing to different variables can still slow each other down. Learn how cache lines cause it and how padding fixes it.</description>
+      <author>David Teather</author>
+      <pubDate>Sat, 17 Oct 2026 17:00:00 +0000</pubDate>
+      <guid>https://dteather.com/blogs/false-sharing/</guid>
+    </item>
     <item>
       <title>Now: September 2026</title>
       <link>https://salm.dev/now/</link>

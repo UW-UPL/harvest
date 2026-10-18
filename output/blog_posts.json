@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "False Sharing, Visualized",
+      "link": "https://dteather.com/blogs/false-sharing/",
+      "author": "David Teather",
+      "date": "2026-10-17",
+      "description": "Two threads writing to different variables can still slow each other down. Learn how cache lines cause it and how padding fixes it."
+    },
+    {
       "title": "Now: September 2026",
       "link": "https://salm.dev/now/",
       "author": "Nico Salm",
