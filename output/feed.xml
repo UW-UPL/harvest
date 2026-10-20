@@ -98,7 +98,7 @@
     <item>
       <title>The Transactional Outbox Pattern, Visualized</title>
       <link>https://dteather.com/blogs/the-outbox-pattern/</link>
-      <description>An interactive walkthrough of the transactional outbox pattern with Postgres and Kafka: the dual-write problem it solves, how the relay works, and what it looks like under load.</description>
+      <description>The transactional outbox pattern fixes the dual-write problem between Postgres and Kafka. Interactive sims show the relay, retries, and lag under load.</description>
       <author>David Teather</author>
       <pubDate>Sat, 23 May 2026 17:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/the-outbox-pattern/</guid>
@@ -130,7 +130,7 @@
     <item>
       <title>PostgreSQL Advisory Locks vs Row Locks: pg_advisory_xact_lock Explained</title>
       <link>https://dteather.com/blogs/postgres-advisory-locks/</link>
-      <description>When to use pgadvisoryxactlock vs pgadvisorylock vs SELECT FOR UPDATE in PostgreSQL: session and transaction scope, bigint keys, deadlocks, and a safe fetch-lock-refetch pattern, with Go and SQL...</description>
+      <description>Postgres advisory locks explained: when to use pgadvisoryxactlock vs pgadvisorylock vs SELECT FOR UPDATE, with scope, keys, deadlocks, and Go code.</description>
       <author>David Teather</author>
       <pubDate>Fri, 27 Mar 2026 17:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/postgres-advisory-locks/</guid>

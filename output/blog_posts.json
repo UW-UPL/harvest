@@ -82,7 +82,7 @@
       "link": "https://dteather.com/blogs/the-outbox-pattern/",
       "author": "David Teather",
       "date": "2026-05-23",
-      "description": "An interactive walkthrough of the transactional outbox pattern with Postgres and Kafka: the dual-write problem it solves, how the relay works, and what it looks like under load."
+      "description": "The transactional outbox pattern fixes the dual-write problem between Postgres and Kafka. Interactive sims show the relay, retries, and lag under load."
     },
     {
       "title": "Updates (Now Page) - May 2026",
@@ -110,7 +110,7 @@
       "link": "https://dteather.com/blogs/postgres-advisory-locks/",
       "author": "David Teather",
       "date": "2026-03-27",
-      "description": "When to use pgadvisoryxactlock vs pgadvisorylock vs SELECT FOR UPDATE in PostgreSQL: session and transaction scope, bigint keys, deadlocks, and a safe fetch-lock-refetch pattern, with Go and SQL..."
+      "description": "Postgres advisory locks explained: when to use pgadvisoryxactlock vs pgadvisorylock vs SELECT FOR UPDATE, with scope, keys, deadlocks, and Go code."
     },
     {
       "title": "SimpleStreet: A Free StreetEasy Chrome Extension",
