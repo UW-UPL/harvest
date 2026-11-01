@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Sat, 17 Oct 2026 17:00:00 +0000</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2026 17:00:00 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Now: October 2026</title>
+      <link>https://salm.dev/now/</link>
+      <description>What I was working on, reading, and thinking about in October 2026.</description>
+      <author>Nico Salm</author>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/now/</guid>
+    </item>
     <item>
       <title>False Sharing, Visualized</title>
       <link>https://dteather.com/blogs/false-sharing/</link>
@@ -17,11 +25,11 @@
     </item>
     <item>
       <title>Now: September 2026</title>
-      <link>https://salm.dev/now/</link>
+      <link>https://salm.dev/now/2026-sep/</link>
       <description>What I was working on, reading, and thinking about in September 2026.</description>
       <author>Nico Salm</author>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/now/</guid>
+      <guid>https://salm.dev/now/2026-sep/</guid>
     </item>
     <item>
       <title>Opinions on Web Design</title>

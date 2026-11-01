@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Now: October 2026",
+      "link": "https://salm.dev/now/",
+      "author": "Nico Salm",
+      "date": "2026-10-30",
+      "description": "What I was working on, reading, and thinking about in October 2026."
+    },
+    {
       "title": "False Sharing, Visualized",
       "link": "https://dteather.com/blogs/false-sharing/",
       "author": "David Teather",
@@ -9,7 +16,7 @@
     },
     {
       "title": "Now: September 2026",
-      "link": "https://salm.dev/now/",
+      "link": "https://salm.dev/now/2026-sep/",
       "author": "Nico Salm",
       "date": "2026-09-30",
       "description": "What I was working on, reading, and thinking about in September 2026."
