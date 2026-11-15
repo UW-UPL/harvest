@@ -1,25 +1,11 @@
 {
   "posts": [
     {
-      "title": "Now: October 2026",
-      "link": "https://salm.dev/now/",
-      "author": "Nico Salm",
-      "date": "2026-10-30",
-      "description": "What I was working on, reading, and thinking about in October 2026."
-    },
-    {
       "title": "False Sharing, Visualized",
       "link": "https://dteather.com/blogs/false-sharing/",
       "author": "David Teather",
       "date": "2026-10-17",
       "description": "Two threads writing to different variables can still slow each other down. Learn how cache lines cause it and how padding fixes it."
-    },
-    {
-      "title": "Now: September 2026",
-      "link": "https://salm.dev/now/2026-sep/",
-      "author": "Nico Salm",
-      "date": "2026-09-30",
-      "description": "What I was working on, reading, and thinking about in September 2026."
     },
     {
       "title": "Opinions on Web Design",
@@ -29,25 +15,11 @@
       "description": "A few handy tips and tricks for elevating one's UI design and breaking away from the crude, homogenized AI aesthetic."
     },
     {
-      "title": "Now: August 2026",
-      "link": "https://salm.dev/now/2026-aug/",
-      "author": "Nico Salm",
-      "date": "2026-08-31",
-      "description": "What I was working on, reading, and thinking about in August 2026."
-    },
-    {
       "title": "Powering off TVs with my Cardputer",
       "link": "https://mdberkey.github.io/blog/powering-off-tvs-with-my-cardputer/",
       "author": "Michael Berkey",
       "date": "2026-07-30",
       "description": "I've been having fun exploring the infrared features of Bruce firmware on my cardputer. My favorite is the TV-B-Gone function, which spams 100 power off signals used by common TVs and displays. Your..."
-    },
-    {
-      "title": "Now: July 2026",
-      "link": "https://salm.dev/now/2026-jul/",
-      "author": "Nico Salm",
-      "date": "2026-07-29",
-      "description": "What I was working on, reading, and thinking about in July 2026."
     },
     {
       "title": "Wardriving with my Cardputer",
@@ -57,25 +29,11 @@
       "description": "My girlfriend gifted me a Cardputer Adv for my birthday, and I've had a lot of fun tinkering with it. I wanted a compact device to learn some white hat hacking. This made me want the Flipper Zero, unt..."
     },
     {
-      "title": "Now: June 2026",
-      "link": "https://salm.dev/now/2026-jun/",
-      "author": "Nico Salm",
-      "date": "2026-06-26",
-      "description": "What I was working on, reading, and thinking about in June 2026."
-    },
-    {
       "title": "Trains, Planes, and Bitmap IPC",
       "link": "https://nlessard.online/projects/traincam/",
       "author": "nlessard.online Project Blog",
       "date": "2026-06-15",
       "description": "Creating efficient overlays in C for a UPL branded train entertainment system."
-    },
-    {
-      "title": "Now: May 2026",
-      "link": "https://salm.dev/now/2026-may/",
-      "author": "Nico Salm",
-      "date": "2026-05-31",
-      "description": "What I was working on, reading, and thinking about in May 2026."
     },
     {
       "title": "My Wisconsin Experience",
@@ -97,13 +55,6 @@
       "author": "Andrew Moses",
       "date": "2026-05-01",
       "description": "Visit post for details."
-    },
-    {
-      "title": "Now: April 2026",
-      "link": "https://salm.dev/now/2026-apr/",
-      "author": "Nico Salm",
-      "date": "2026-04-30",
-      "description": "What I was working on, reading, and thinking about in April 2026."
     },
     {
       "title": "Solving \"I Dropped a Neural Net\"",

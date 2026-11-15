@@ -5,16 +5,8 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Now: October 2026</title>
-      <link>https://salm.dev/now/</link>
-      <description>What I was working on, reading, and thinking about in October 2026.</description>
-      <author>Nico Salm</author>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/now/</guid>
-    </item>
+    <pubDate>Sat, 17 Oct 2026 17:00:00 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2026 17:00:00 +0000</lastBuildDate>
     <item>
       <title>False Sharing, Visualized</title>
       <link>https://dteather.com/blogs/false-sharing/</link>
@@ -22,14 +14,6 @@
       <author>David Teather</author>
       <pubDate>Sat, 17 Oct 2026 17:00:00 +0000</pubDate>
       <guid>https://dteather.com/blogs/false-sharing/</guid>
-    </item>
-    <item>
-      <title>Now: September 2026</title>
-      <link>https://salm.dev/now/2026-sep/</link>
-      <description>What I was working on, reading, and thinking about in September 2026.</description>
-      <author>Nico Salm</author>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/now/2026-sep/</guid>
     </item>
     <item>
       <title>Opinions on Web Design</title>
@@ -40,28 +24,12 @@
       <guid>https://salm.dev/writing/opinions-on-web-design/</guid>
     </item>
     <item>
-      <title>Now: August 2026</title>
-      <link>https://salm.dev/now/2026-aug/</link>
-      <description>What I was working on, reading, and thinking about in August 2026.</description>
-      <author>Nico Salm</author>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/now/2026-aug/</guid>
-    </item>
-    <item>
       <title>Powering off TVs with my Cardputer</title>
       <link>https://mdberkey.github.io/blog/powering-off-tvs-with-my-cardputer/</link>
       <description>I&#39;ve been having fun exploring the infrared features of Bruce firmware on my cardputer. My favorite is the TV-B-Gone function, which spams 100 power off signals used by common TVs and displays. Your...</description>
       <author>Michael Berkey</author>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://mdberkey.github.io/blog/powering-off-tvs-with-my-cardputer/</guid>
-    </item>
-    <item>
-      <title>Now: July 2026</title>
-      <link>https://salm.dev/now/2026-jul/</link>
-      <description>What I was working on, reading, and thinking about in July 2026.</description>
-      <author>Nico Salm</author>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/now/2026-jul/</guid>
     </item>
     <item>
       <title>Wardriving with my Cardputer</title>
@@ -72,28 +40,12 @@
       <guid>https://mdberkey.github.io/blog/wardriving-with-my-cardputer/</guid>
     </item>
     <item>
-      <title>Now: June 2026</title>
-      <link>https://salm.dev/now/2026-jun/</link>
-      <description>What I was working on, reading, and thinking about in June 2026.</description>
-      <author>Nico Salm</author>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/now/2026-jun/</guid>
-    </item>
-    <item>
       <title>Trains, Planes, and Bitmap IPC</title>
       <link>https://nlessard.online/projects/traincam/</link>
       <description>Creating efficient overlays in C for a UPL branded train entertainment system.</description>
       <author>nlessard.online Project Blog</author>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://nlessard.online/projects/traincam/</guid>
-    </item>
-    <item>
-      <title>Now: May 2026</title>
-      <link>https://salm.dev/now/2026-may/</link>
-      <description>What I was working on, reading, and thinking about in May 2026.</description>
-      <author>Nico Salm</author>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/now/2026-may/</guid>
     </item>
     <item>
       <title>My Wisconsin Experience</title>
@@ -118,14 +70,6 @@
       <author>Andrew Moses</author>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.amoses.dev/then/2026-05-01/</guid>
-    </item>
-    <item>
-      <title>Now: April 2026</title>
-      <link>https://salm.dev/now/2026-apr/</link>
-      <description>What I was working on, reading, and thinking about in April 2026.</description>
-      <author>Nico Salm</author>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/now/2026-apr/</guid>
     </item>
     <item>
       <title>Solving &#34;I Dropped a Neural Net&#34;</title>
