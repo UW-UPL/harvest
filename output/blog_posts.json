@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Thoughts on the Riemann Hypothesis Proof",
+      "link": "https://mdberkey.github.io/blog/thoughts-on-riemann-hypothesis-proof/",
+      "author": "Michael Berkey",
+      "date": "2026-11-20",
+      "description": "The Riemann hypothesis was announced as likely proven today. I've always been an amateur at math, but I understand how groundbreaking this result is. It's not entirely surprising that we've been get..."
+    },
+    {
       "title": "False Sharing, Visualized",
       "link": "https://dteather.com/blogs/false-sharing/",
       "author": "David Teather",

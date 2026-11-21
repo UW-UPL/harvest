@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Sat, 17 Oct 2026 17:00:00 +0000</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2026 17:00:00 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Thoughts on the Riemann Hypothesis Proof</title>
+      <link>https://mdberkey.github.io/blog/thoughts-on-riemann-hypothesis-proof/</link>
+      <description>The Riemann hypothesis was announced as likely proven today. I&#39;ve always been an amateur at math, but I understand how groundbreaking this result is. It&#39;s not entirely surprising that we&#39;ve been get...</description>
+      <author>Michael Berkey</author>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://mdberkey.github.io/blog/thoughts-on-riemann-hypothesis-proof/</guid>
+    </item>
     <item>
       <title>False Sharing, Visualized</title>
       <link>https://dteather.com/blogs/false-sharing/</link>
